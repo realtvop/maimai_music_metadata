@@ -1,6 +1,7 @@
 import os
 import json
 import xml.etree.ElementTree as ET
+import base64
 from pathlib import Path
 
 def main():
@@ -27,7 +28,8 @@ def main():
                         music_str = str_elem.text
                         
                         if music_id and music_str:
-                            song_id_map[int(music_id)] = music_str
+                            music_str_b64 = base64.b64encode(music_str.encode('utf-8')).decode('utf-8')
+                            song_id_map[int(music_id)] = music_str_b64
                             
             except ET.ParseError as e:
                 print(f"Err when processing {xml_file}: {e}")
