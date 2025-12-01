@@ -9,6 +9,7 @@ def main():
     map_bonus_music_dir = script_dir / "mapBonusMusic"
     
     song_id_map = {}
+    song_id_map_original = {}
     
     for subdir in map_bonus_music_dir.iterdir():
         if not subdir.is_dir():
@@ -30,6 +31,7 @@ def main():
                         if music_id and music_str:
                             music_str_b64 = base64.b64encode(music_str.encode('utf-8')).decode('utf-8')
                             song_id_map[int(music_id)] = music_str_b64
+                            song_id_map_original[int(music_id)] = music_str
                             
             except ET.ParseError as e:
                 print(f"Err when processing {xml_file}: {e}")
@@ -37,10 +39,15 @@ def main():
                 print(f"Err when processing {xml_file}: {e}")
     
     sorted_song_id_map = dict(sorted(song_id_map.items(), key=lambda x: x[0]))
+    sorted_song_id_map_original = dict(sorted(song_id_map_original.items(), key=lambda x: x[0]))
     
     output_file = script_dir / "songid.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(sorted_song_id_map, f, ensure_ascii=False, indent=2)
+    
+    output_file_original = script_dir / "songid.original.json"
+    with open(output_file_original, "w", encoding="utf-8") as f:
+        json.dump(sorted_song_id_map_original, f, ensure_ascii=False, indent=2)
     
 if __name__ == "__main__":
     main()
