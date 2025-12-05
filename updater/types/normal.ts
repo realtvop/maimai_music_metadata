@@ -25,7 +25,7 @@ export interface Chart {
         tap: number;
         hold: number;
         slide: number;
-        touch: number;
+        touch: number | null;
         break: number;
         total: number;
     };
@@ -38,4 +38,5 @@ export interface Version {
     version: string;
     word: string; // 一个字简称
     releaseDate: string;
+    cnVerOverride: number | null; // 中国版特有的版本名年份
 }

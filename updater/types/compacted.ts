@@ -20,7 +20,7 @@ export type ChartCompacted = [
     number, // versionIndex
 
     string, // noteDesigner
-    [number, number, number, number, number], // noteCounts: [tap, hold, slide, touch, break]
+    [number, number, number | null, number, number], // noteCounts: [tap, hold, slide, touch, break]
 
     AvalibleRegion[],
 ]
@@ -29,4 +29,5 @@ export type VersionCompacted = [
     string, // version
     string, // word: 一个字简称
     string, // releaseDate
+    number | null, // cnVerOverride: 中国版特有的版本名年份
 ]

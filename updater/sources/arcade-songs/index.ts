@@ -7,7 +7,3 @@ export async function fetchArcadeSongsData(): Promise<ArcadeSongsData> {
     const data = await response.json() as ArcadeSongsData;
     return data;
 }
-
-function convertArcadeSongsData(data: ArcadeSongsData) {
-    return data;
-}
