@@ -1,8 +1,16 @@
-import type { Chart, Music } from "../../types";
+import type { Chart, Music, Version } from "../../types";
 import { matchSongID } from "../songid";
-import type { ArcadeSongsData, Sheet, Song } from "./types";
+import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
 
-export function convertArcadeSongsData(data: ArcadeSongsData) {}
+export function convertArcadeSongsData(data: ArcadeSongsData): {
+    musics: Music[];
+    versions: Version[];
+} {
+    return {
+        musics: data.songs.map(convertMusic),
+        versions: convertVersions(data.versions),
+    };
+} {}
 
 function convertChart(sheet: Sheet): Chart {
     const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
@@ -33,4 +41,17 @@ function convertMusic(song: Song): Music {
 
         charts: song.sheets.map(convertChart),
     }
+}
+
+function convertVersions(versions: VersionOri[]): Version[] {
+    const data = [];
+    for (const version of versions) {
+        data.push({
+            version: version.version,
+            word: version.abbr.match(/\((.*?)\)/)?.[1] ?? "",
+            releaseDate: version.releaseDate,
+            cnVerOverride: null,
+        });
+    }
+    return data;
 }

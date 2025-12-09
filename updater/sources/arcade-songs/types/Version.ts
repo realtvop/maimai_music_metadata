@@ -1,5 +1,5 @@
 export interface Version {
     version: string;
-    title: string;
+    releaseDate: string;
     abbr: string;
 }
