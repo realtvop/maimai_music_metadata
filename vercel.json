@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/realtvop/maimai_music_metadata",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
