@@ -19,6 +19,7 @@ export type ChartCompacted = [
     string, // levelString
     number, // internalLevel
     number, // versionIndex
+    number | null, // cnVersionYear
 
     string, // noteDesigner
     [number, number, number | null, number, number], // noteCounts: [tap, hold, slide, touch, break]

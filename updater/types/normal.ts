@@ -23,6 +23,7 @@ export interface Chart {
     level: string;
     internalLevel: number;
     version: string;
+    cnVersion: number | null; // Chinese version release year or null when unavailable
 
     noteDesigner: string;
     noteCounts: {

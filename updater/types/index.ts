@@ -43,6 +43,7 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
                 chart.level,
                 chart.internalLevel,
                 versionIndex,
+                chart.cnVersion,
                 chart.noteDesigner,
                 [
                     chart.noteCounts.tap,
