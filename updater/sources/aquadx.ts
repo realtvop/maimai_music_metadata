@@ -9,7 +9,7 @@ interface Music {
 }
 
 const MUSIC_DATA_URL = 'https://aquadx.net/d/mai2/00/all-music.json';
-const getImageUrl = (id: string | number) => `http://aquadx.net/d/mai2/music/00${id.toString().padStart(6, '0').substring(2)}.png`;
+export const getImageUrl = (id: string | number) => `http://aquadx.net/d/mai2/music/00${id.toString().padStart(6, '0').substring(2)}.png`;
 
 async function fetchWithRetry(url: string, retries = 2, delayMs = 500): Promise<Response> {
     let lastError: unknown;

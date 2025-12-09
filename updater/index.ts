@@ -1,5 +1,6 @@
 import { writeFile } from "node:fs/promises";
 import { getArcadeSongsData } from "./sources/arcade-songs";
+import { downloadCovers, COVERS_DIR } from "./downloadCovers";
 import { compactMusicMetadata } from "./types";
 
 const META_PATH = new URL("../meta.json", import.meta.url);
@@ -10,6 +11,8 @@ async function main() {
 	const data = await getArcadeSongsData();
 	const compacted = compactMusicMetadata(data);
 
+	await downloadCovers(data.musics);
+
 	await Promise.all([
 		writeFile(META_PATH, JSON.stringify(data, null, 2), "utf8"),
 		writeFile(META_COMPACTED_PATH, JSON.stringify(compacted), "utf8"),
@@ -19,6 +22,7 @@ async function main() {
 	console.log(`meta.json updated at ${META_PATH.pathname}`);
 	console.log(`meta.compacted.json updated at ${META_COMPACTED_PATH.pathname}`);
 	console.log(`meta.unformatted.json updated at ${META_UNFORMATTED_PATH.pathname}`);
+	console.log(`covers downloaded to ${COVERS_DIR.pathname}`);
 }
 
 main().catch(error => {
