@@ -17,5 +17,3 @@ export function getArcadeSongsData(): Promise<{
     return fetchArcadeSongsData()
         .then(convertArcadeSongsData);
 }
-
-getArcadeSongsData().then(d => console.log(JSON.stringify(d)));

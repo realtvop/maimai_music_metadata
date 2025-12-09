@@ -11,6 +11,13 @@ interface Music {
 const MUSIC_DATA_URL = 'http://aquadx.net/d/mai2/00/all-music.json';
 const getImageUrl = (id: string | number) => `http://aquadx.net/d/mai2/music/00${id.toString().padStart(6, '0').substring(2)}.png`;
 
-export function fetchMusicIDList(): Promise<Record<string, string>> {
-    
+export async function fetchMusicIDList(): Promise<Record<string, string>> {
+    const response = await fetch(MUSIC_DATA_URL);
+    const data: ResponseData = await response.json() as ResponseData;
+
+    const result: Record<string, string> = {};
+    for (const [id, music] of Object.entries(data)) {
+        result[id] = music.name;
+    }
+    return result;
 }

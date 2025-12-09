@@ -2,19 +2,19 @@ import type { Chart, Music, Version } from "../../types";
 import { matchSongID } from "../songid";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
 
-export function convertArcadeSongsData(data: ArcadeSongsData): {
+export async function convertArcadeSongsData(data: ArcadeSongsData): Promise<{
     musics: Music[];
     versions: Version[];
-} {
+}> {
     return {
-        musics: data.songs.map(convertMusic),
+        musics: await Promise.all(data.songs.map(convertMusic)),
         versions: convertVersions(data.versions),
     };
-} {}
+}
 
 function convertChart(sheet: Sheet): Chart {
     const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
-
+    
     return {
         type: sheet.type.replace("std", "sd") as Chart["type"],
         difficulty: difficulty == -1 ? 10 : difficulty,
@@ -29,9 +29,9 @@ function convertChart(sheet: Sheet): Chart {
     }
 }
 
-function convertMusic(song: Song): Music {
+async function convertMusic(song: Song): Promise<Music> {
     return {
-        id: matchSongID(song.title) ?? -1,
+        id: await matchSongID(song.title) ?? -1,
         title: song.title,
         artist: song.artist,
         bpm: song.bpm,
