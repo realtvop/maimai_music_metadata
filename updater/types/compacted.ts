@@ -10,6 +10,7 @@ export type MusicCompacted = [
     boolean, // isLocked
 
     ChartCompacted[], // charts
+    string[] | null, // aliasesCn
 ]
 
 export type ChartCompacted = [

@@ -6,6 +6,10 @@ export interface Music {
     artist: string;
     bpm: number;
 
+    aliases?: {
+        cn: string[];
+    };
+
     // releaseDate: string;
     category: string;
     isLocked: boolean; // needs unlocking

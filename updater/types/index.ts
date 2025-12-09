@@ -31,6 +31,7 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
 
     const musics: MusicCompacted[] = metadata.musics.map(music => {
         const categoryIndex = categories.indexOf(music.category);
+            const aliasesCn = music.aliases?.cn?.length ? music.aliases.cn : null;
 
         const charts: ChartCompacted[] = music.charts.map(chart => {
             const typeIndex = chart.type === "sd" ? 0 : chart.type === "dx" ? 1 : 2;
@@ -62,6 +63,7 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
             categoryIndex,
             music.isLocked,
             charts,
+                aliasesCn,
         ];
     });
 
