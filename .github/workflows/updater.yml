@@ -1,0 +1,41 @@
+name: updater
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-updater:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        working-directory: updater
+        run: bun install --no-save
+
+      - name: Run updater
+        working-directory: updater
+        run: bun run ./index.ts
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep .; then
+            git add -A
+            git commit -m "ci: update"
+            git push
+          else
+            echo "No changes to commit"
+          fi
