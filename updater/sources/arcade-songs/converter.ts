@@ -7,7 +7,7 @@ export async function convertArcadeSongsData(data: ArcadeSongsData): Promise<{
     versions: Version[];
 }> {
     return {
-        musics: await Promise.all(data.songs.map(convertMusic)),
+        musics: (await Promise.all(data.songs.map(convertMusic))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
         versions: convertVersions(data.versions),
     };
 }
@@ -39,7 +39,7 @@ async function convertMusic(song: Song): Promise<Music> {
         category: song.category,
         isLocked: song.isLocked,
 
-        charts: song.sheets.map(convertChart),
+        charts: song.sheets.map(convertChart).filter(chart => chart.avalibleRegions.length),
     }
 }
 

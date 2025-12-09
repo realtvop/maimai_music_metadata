@@ -10,14 +10,10 @@ async function getSongIDs(): Promise<Map<string, string>> {
   songIDsCachePromise = (async () => {
     const mergedMap = new Map<string, string>();
 
-    // 先加载 AquaDX 数据
-    try {
-      const aquadxData = await fetchMusicIDList();
-      for (const [id, name] of Object.entries(aquadxData)) {
-        mergedMap.set(id, name);
-      }
-    } catch (error) {
-      console.warn("Failed to fetch AquaDX data, using local data only:", error);
+    // 先加载 AquaDX 数据（失败会抛出，终止流程）
+    const aquadxData = await fetchMusicIDList();
+    for (const [id, name] of Object.entries(aquadxData)) {
+      mergedMap.set(id, name);
     }
 
     // 再加载本地数据（本地数据优先覆盖）
