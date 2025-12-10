@@ -32,7 +32,8 @@ export async function matchSongID(name: string): Promise<number | null> {
 
   for (const [id, value] of songIDs) {
     if (value === name) {
-      return Number(id) % 1e4;
+      const numid = Number(id)
+      return numid > 10_0000 ? numid : numid % 1_0000;
     }
   }
 

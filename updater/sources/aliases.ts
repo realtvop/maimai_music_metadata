@@ -20,7 +20,7 @@ interface YzcAliasResponse {
 }
 
 function normalizeId(id: number): number {
-    return id % 10_000;
+    return id > 10_0000 ? id : id % 1_0000;
 }
 
 function pushAliases(map: Map<number, string[]>, id: number, aliases: string[] | undefined) {

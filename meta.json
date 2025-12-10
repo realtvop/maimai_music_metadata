@@ -445,110 +445,7 @@
           "love you",
           "爱你",
           "我喜欢你",
-          "[協]love you",
-          "协love you",
-          "现充",
-          "协loveyou",
-          "宴爱你",
-          "宴loveyou",
-          "宴love you",
-          "协爱你",
-          "喜欢你",
-          "xql"
-        ]
-      }
-    },
-    {
-      "id": 18,
-      "title": "[協]Love You",
-      "artist": "Q;indivi [cover]",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 12,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "love you",
-          "爱你",
-          "我喜欢你",
-          "[協]love you",
-          "协love you",
-          "现充",
-          "协loveyou",
-          "宴爱你",
-          "宴loveyou",
-          "宴love you",
-          "协爱你",
-          "喜欢你",
-          "xql"
-        ]
-      }
-    },
-    {
-      "id": 22,
-      "title": "[蔵]In Chaos",
-      "artist": "Hiro「Crackin’DJ」",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【蔵】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "in chaos",
-          "阴超市",
-          "🐴",
-          "🐴！",
-          "[蔵]in chaos",
-          "宴超市",
-          "藏超市",
-          "有害的音乐",
-          "音超市",
-          "马叫",
-          "因超市",
-          "混乱",
-          "在混乱中",
-          "驴叫"
+          "喜欢你"
         ]
       }
     },
@@ -677,9 +574,6 @@
           "阴超市",
           "🐴",
           "🐴！",
-          "[蔵]in chaos",
-          "宴超市",
-          "藏超市",
           "有害的音乐",
           "音超市",
           "马叫",
@@ -7101,48 +6995,7 @@
           "太空",
           "太空哈姆",
           "太空蛤蜊",
-          "太空哈利",
-          "[耐]space harrier main theme [reborn]"
-        ]
-      }
-    },
-    {
-      "id": 114,
-      "title": "[耐]Space Harrier Main Theme [Reborn]",
-      "artist": "佐野 信義「スペースハリアー」",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【耐】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "space harrier main theme [reborn]",
-          "太空",
-          "太空哈姆",
-          "太空蛤蜊",
-          "太空哈利",
-          "[耐]space harrier main theme [reborn]"
+          "太空哈利"
         ]
       }
     },
@@ -8022,48 +7875,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "スイートマジック",
-          "甜甜魔法",
-          "sm",
-          "羽泽鸫",
-          "sweet magic",
-          "sweetmagic",
-          "swmg",
-          "甜蜜魔法"
-        ]
-      }
-    },
-    {
-      "id": 121,
-      "title": "[甘]スイートマジック",
-      "artist": "ろん×Junky",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【甘】",
-          "internalLevel": 12,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -13882,57 +13693,6 @@
           "⑨章算数",
           "baka",
           "算术教室",
-          "[蛸]チルノのパーフェクトさんすう教室",
-          "宴算数教室",
-          "琪露诺教室",
-          "9教室",
-          "1+1=9"
-        ]
-      }
-    },
-    {
-      "id": 199,
-      "title": "[蛸]チルノのパーフェクトさんすう教室",
-      "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【蛸】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "チルノのパーフェクトさんすう教室",
-          "琪露诺的完美算术教室",
-          "琪露诺的完美算数教室",
-          "数学课堂",
-          "⑨",
-          "算数教室",
-          "琪露诺",
-          "⑨章算数",
-          "baka",
-          "算术教室",
-          "[蛸]チルノのパーフェクトさんすう教室",
-          "宴算数教室",
           "琪露诺教室",
           "9教室",
           "1+1=9"
@@ -14993,54 +14753,7 @@
           "修哇大作战",
           "炎拳",
           "修哇",
-          "大作战",
-          "[星]しゅわスパ大作戦☆",
-          "星大作战",
-          "宴大作战"
-        ]
-      }
-    },
-    {
-      "id": 206,
-      "title": "[星]しゅわスパ大作戦☆",
-      "artist": "SOUND HOLIC feat. Nana Takahashi",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【星】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "しゅわスパ大作戦☆",
-          "下药歌",
-          "ymn",
-          "修哇大作战",
-          "炎拳",
-          "修哇",
-          "大作战",
-          "[星]しゅわスパ大作戦☆",
-          "星大作战",
-          "宴大作战"
+          "大作战"
         ]
       }
     },
@@ -15138,47 +14851,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "時空を超えて久しぶり！",
-          "噗哟噗哟",
-          "时空超",
-          "puyopuyo",
-          "时空",
-          "3d弹球",
-          "噗呦噗呦",
-          "3d弹珠",
-          "水滴君"
-        ]
-      }
-    },
-    {
-      "id": 207,
-      "title": "[蛸]時空を超えて久しぶり！",
-      "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【蛸】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
           ]
         }
       ],
@@ -16297,57 +15969,6 @@
           "世嘉土星",
           "夸脱",
           "mon3tr",
-          "[宴]セガサターン起動音[h.][remix]",
-          "宴启动音",
-          "sega saturn"
-        ]
-      }
-    },
-    {
-      "id": 220,
-      "title": "[宴]セガサターン起動音[H.][Remix]",
-      "artist": "Hiro",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【宴】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "セガサターン起動音[h.][remix]",
-          "世嘉土星启动音",
-          "大b圈",
-          "ss",
-          "转圈接四押",
-          "sbga",
-          "土星",
-          "启动音",
-          "起动音",
-          "世嘉土星",
-          "夸脱",
-          "mon3tr",
-          "[宴]セガサターン起動音[h.][remix]",
-          "宴启动音",
           "sega saturn"
         ]
       }
@@ -17067,327 +16688,6 @@
           "guy",
           "gdp",
           "国内生产总值",
-          "[宴]garakuta doll play",
-          "哈皮gdp",
-          "[j]garakuta doll play",
-          "[r]garakuta doll play",
-          "[玉]garakuta doll play",
-          "[某]garakuta doll play",
-          "绿小丑",
-          "偶买噶",
-          "传奇宴谱王"
-        ]
-      }
-    },
-    {
-      "id": 227,
-      "title": "[は]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【は】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "garakuta doll play",
-          "lbw",
-          "果丹皮",
-          "shq",
-          "性感小丑在线发牌",
-          "酸奶",
-          "金盆",
-          "扑克牌",
-          "管理",
-          "鬼牌",
-          "轨道炮",
-          "绿豆",
-          "小丑牌",
-          "小丑",
-          "🤡",
-          "joker",
-          "🃏",
-          "guy",
-          "gdp",
-          "国内生产总值",
-          "[宴]garakuta doll play",
-          "哈皮gdp",
-          "[j]garakuta doll play",
-          "[r]garakuta doll play",
-          "[玉]garakuta doll play",
-          "[某]garakuta doll play",
-          "绿小丑",
-          "偶买噶",
-          "传奇宴谱王"
-        ]
-      }
-    },
-    {
-      "id": 227,
-      "title": "[J]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【J】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "garakuta doll play",
-          "lbw",
-          "果丹皮",
-          "shq",
-          "性感小丑在线发牌",
-          "酸奶",
-          "金盆",
-          "扑克牌",
-          "管理",
-          "鬼牌",
-          "轨道炮",
-          "绿豆",
-          "小丑牌",
-          "小丑",
-          "🤡",
-          "joker",
-          "🃏",
-          "guy",
-          "gdp",
-          "国内生产总值",
-          "[宴]garakuta doll play",
-          "哈皮gdp",
-          "[j]garakuta doll play",
-          "[r]garakuta doll play",
-          "[玉]garakuta doll play",
-          "[某]garakuta doll play",
-          "绿小丑",
-          "偶买噶",
-          "传奇宴谱王"
-        ]
-      }
-    },
-    {
-      "id": 227,
-      "title": "[r]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【r】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "garakuta doll play",
-          "lbw",
-          "果丹皮",
-          "shq",
-          "性感小丑在线发牌",
-          "酸奶",
-          "金盆",
-          "扑克牌",
-          "管理",
-          "鬼牌",
-          "轨道炮",
-          "绿豆",
-          "小丑牌",
-          "小丑",
-          "🤡",
-          "joker",
-          "🃏",
-          "guy",
-          "gdp",
-          "国内生产总值",
-          "[宴]garakuta doll play",
-          "哈皮gdp",
-          "[j]garakuta doll play",
-          "[r]garakuta doll play",
-          "[玉]garakuta doll play",
-          "[某]garakuta doll play",
-          "绿小丑",
-          "偶买噶",
-          "传奇宴谱王"
-        ]
-      }
-    },
-    {
-      "id": 227,
-      "title": "[玉]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【玉】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "garakuta doll play",
-          "lbw",
-          "果丹皮",
-          "shq",
-          "性感小丑在线发牌",
-          "酸奶",
-          "金盆",
-          "扑克牌",
-          "管理",
-          "鬼牌",
-          "轨道炮",
-          "绿豆",
-          "小丑牌",
-          "小丑",
-          "🤡",
-          "joker",
-          "🃏",
-          "guy",
-          "gdp",
-          "国内生产总值",
-          "[宴]garakuta doll play",
-          "哈皮gdp",
-          "[j]garakuta doll play",
-          "[r]garakuta doll play",
-          "[玉]garakuta doll play",
-          "[某]garakuta doll play",
-          "绿小丑",
-          "偶买噶",
-          "传奇宴谱王"
-        ]
-      }
-    },
-    {
-      "id": 227,
-      "title": "[某]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【某】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "garakuta doll play",
-          "lbw",
-          "果丹皮",
-          "shq",
-          "性感小丑在线发牌",
-          "酸奶",
-          "金盆",
-          "扑克牌",
-          "管理",
-          "鬼牌",
-          "轨道炮",
-          "绿豆",
-          "小丑牌",
-          "小丑",
-          "🤡",
-          "joker",
-          "🃏",
-          "guy",
-          "gdp",
-          "国内生产总值",
-          "[宴]garakuta doll play",
-          "哈皮gdp",
-          "[j]garakuta doll play",
-          "[r]garakuta doll play",
-          "[玉]garakuta doll play",
-          "[某]garakuta doll play",
           "绿小丑",
           "偶买噶",
           "传奇宴谱王"
@@ -17724,63 +17024,7 @@
           "吗哇路",
           "cycle",
           "🐴🐸🦌",
-          "挖马路",
-          "[宴]cycles",
-          "宴cycles",
-          "耐cycles",
-          "宴挖马路"
-        ]
-      }
-    },
-    {
-      "id": 230,
-      "title": "[宴]CYCLES",
-      "artist": "Masayoshi Minoshima feat. 綾倉盟",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【宴】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "cycles",
-          "轮回",
-          "🐎🐸🦌",
-          "马瓦鲁",
-          "cyc",
-          "马哇路",
-          "马洼路",
-          "马瓦路",
-          "马挖路",
-          "饼饼快乐曲",
-          "吗哇路",
-          "cycle",
-          "🐴🐸🦌",
-          "挖马路",
-          "[宴]cycles",
-          "宴cycles",
-          "耐cycles",
-          "宴挖马路"
+          "挖马路"
         ]
       }
     },
@@ -20987,12 +20231,7 @@
           "advent",
           "波比波",
           "蔬菜汁",
-          "哈基米",
-          "[協]ぽっぴっぽー",
-          "宴popipo",
-          "协蔬菜歌",
-          "协popipo",
-          "宴蔬菜歌"
+          "哈基米"
         ]
       }
     },
@@ -22652,36 +21891,6 @@
             "touch": null,
             "break": 16,
             "total": 467
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 281,
-      "title": "[回]ダブルラリアット",
-      "artist": "アゴアニキ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【回】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
           },
           "avalibleRegions": [
             "jp",
@@ -27511,59 +26720,6 @@
           "高桥名人",
           "高桥",
           "名人",
-          "[狂]タカハせ！名人マン",
-          "狂高桥",
-          "手汗快乐歌",
-          "宴高桥名人",
-          "狂高桥名人",
-          "小hera"
-        ]
-      }
-    },
-    {
-      "id": 327,
-      "title": "[狂]タカハせ！名人マン",
-      "artist": "ビートまりお + ARM feat. 高橋名人",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【狂】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "タカハせ！名人マン",
-          "😉",
-          "たかはし",
-          "光头",
-          "光头16连",
-          "高桥名人",
-          "高桥",
-          "名人",
-          "[狂]タカハせ！名人マン",
-          "狂高桥",
-          "手汗快乐歌",
-          "宴高桥名人",
-          "狂高桥名人",
           "小hera"
         ]
       }
@@ -30157,74 +29313,6 @@
           "dx黑白哈基米",
           "黑白哈基米",
           "牛奶猫dx",
-          "[宴]oshama scramble!",
-          "宴牛奶",
-          "猫抓板",
-          "一天一杯奶强壮音游人",
-          "奶牛猫"
-        ]
-      }
-    },
-    {
-      "id": 363,
-      "title": "[宴]Oshama Scramble!",
-      "artist": "t+pazolite",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【宴】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "oshama scramble!",
-          "标奶",
-          "😄😄",
-          "女同15",
-          "猫娘贴贴",
-          "牛乳",
-          "牛奶猫",
-          "丰胸奶",
-          "每日一瓶奶，强健音游人",
-          "🥛",
-          "奶猫",
-          "标牛奶",
-          "牛奶",
-          "😸😸",
-          "巧克力与香子兰",
-          "os!",
-          "牛奶猫标准",
-          "两只猫和谐共处",
-          "dx奶",
-          "凯尔希打嵯峨",
-          "凯尔希嵯峨贴贴",
-          "dx牛奶",
-          "喝奶",
-          "dx奶猫",
-          "dx黑白哈基米",
-          "黑白哈基米",
-          "牛奶猫dx",
-          "[宴]oshama scramble!",
-          "宴牛奶",
           "猫抓板",
           "一天一杯奶强壮音游人",
           "奶牛猫"
@@ -34393,53 +33481,6 @@
       }
     },
     {
-      "id": 417,
-      "title": "[習]ウミユリ海底譚",
-      "artist": "n-buna",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【習】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ウミユリ海底譚",
-          "海百合",
-          "海百合海底谭",
-          "水神3",
-          "在海下面",
-          "初音跳海",
-          "海底潭",
-          "谭",
-          "海魔王",
-          "初音未来跳海",
-          "海底谭",
-          "海底捞",
-          "舞萌科目二"
-        ]
-      }
-    },
-    {
       "id": 418,
       "title": "welcome to maimai!! with マイマイマー",
       "artist": "Hiro feat.越田Rute隆人&ビートまりお",
@@ -37332,59 +36373,6 @@
           "cat^o^",
           "皇冠",
           "史莱姆皇帝",
-          "[蔵]glorious crown",
-          "藏皇冠",
-          "宴皇冠",
-          "辉煌之冠"
-        ]
-      }
-    },
-    {
-      "id": 456,
-      "title": "[蔵]Glorious Crown",
-      "artist": "xi",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【蔵】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "glorious crown",
-          "王冠",
-          "番茄炒蛋",
-          "👑",
-          "👑\r\n🔴",
-          "fd2",
-          "gc",
-          "团子",
-          "荣耀的皇冠",
-          "cat^o^",
-          "皇冠",
-          "史莱姆皇帝",
-          "[蔵]glorious crown",
-          "藏皇冠",
-          "宴皇冠",
           "辉煌之冠"
         ]
       }
@@ -40687,54 +39675,7 @@
           "逆转裁判",
           "18z",
           "有罪",
-          "恋爱审判",
-          "[協]恋愛裁判",
-          "宴恋爱裁判",
-          "协恋爱裁判"
-        ]
-      }
-    },
-    {
-      "id": 508,
-      "title": "[協]恋愛裁判",
-      "artist": "40mP",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "恋愛裁判",
-          "恋爱裁判",
-          "情人节",
-          "逆转裁判",
-          "18z",
-          "有罪",
-          "恋爱审判",
-          "[協]恋愛裁判",
-          "宴恋爱裁判",
-          "协恋爱裁判"
+          "恋爱审判"
         ]
       }
     },
@@ -41578,59 +40519,6 @@
           "东京现实世界",
           "东京real world",
           "东京现充世界",
-          "[覚]東京リアルワールド",
-          "好记星",
-          "觉东京",
-          "宴东京",
-          "电波塔"
-        ]
-      }
-    },
-    {
-      "id": 517,
-      "title": "[覚]東京リアルワールド",
-      "artist": "out of service",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【覚】",
-          "internalLevel": 12,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "東京リアルワールド",
-          "🗼",
-          "喝热排骨汤",
-          "东京铁塔",
-          "塔",
-          "东京塔",
-          "东京",
-          "东京现实世界",
-          "东京real world",
-          "东京现充世界",
-          "[覚]東京リアルワールド",
-          "好记星",
-          "觉东京",
-          "宴东京",
           "电波塔"
         ]
       }
@@ -42239,61 +41127,7 @@
           "难忘今宵",
           "握握手",
           "诺基亚",
-          "手在手里面",
-          "[協]hand in hand",
-          "协hih",
-          "多人运动",
-          "宴hih",
-          "协hand in hand",
-          "协手牵手"
-        ]
-      }
-    },
-    {
-      "id": 524,
-      "title": "[協]Hand in Hand",
-      "artist": "livetune",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "hand in hand",
-          "手牵手",
-          "手拉手",
-          "hih",
-          "难忘今宵",
-          "握握手",
-          "诺基亚",
-          "手在手里面",
-          "[協]hand in hand",
-          "协hih",
-          "多人运动",
-          "宴hih",
-          "协hand in hand",
-          "协手牵手"
+          "手在手里面"
         ]
       }
     },
@@ -43167,42 +42001,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "洗脳",
-          "洗脑"
-        ]
-      }
-    },
-    {
-      "id": 532,
-      "title": "[奏]洗脳",
-      "artist": "ゆりん・柿チョコ×Neru",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -44938,59 +43736,6 @@
           "drrt",
           "8787",
           "箱部的摇滚理论",
-          "[宴]detarame rock&roll theory",
-          "别急25",
-          "宴箱部",
-          "宴摇滚理论",
-          "箱部鸣"
-        ]
-      }
-    },
-    {
-      "id": 548,
-      "title": "[疑]DETARAME ROCK&ROLL THEORY",
-      "artist": "箱部 なる(CV:M・A・O)",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【疑】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "detarame rock&roll theory",
-          "箱部弹吉他",
-          "drt",
-          "星星歌",
-          "detarame",
-          "萝莉～萝莉～",
-          "摇滚理论",
-          "drrt",
-          "8787",
-          "箱部的摇滚理论",
-          "[宴]detarame rock&roll theory",
-          "别急25",
-          "宴箱部",
-          "宴摇滚理论",
           "箱部鸣"
         ]
       }
@@ -45328,62 +44073,7 @@
           "秋露里拉",
           "打小报告",
           "啾噜哩啦·啾噜哩啦·哒哒哒",
-          "撒撒米糕大",
-          "[奏]チュルリラ・チュルリラ・ダッダッダ！",
-          "星星b大战键盘b"
-        ]
-      }
-    },
-    {
-      "id": 553,
-      "title": "[奏]チュルリラ・チュルリラ・ダッダッダ！",
-      "artist": "和田たけあき(くらげP)",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "チュルリラ・チュルリラ・ダッダッダ！",
-          "啾噜哩啦啾噜哩啦哒哒哒",
-          "哒哒哒",
-          "告老师",
-          "jk结月缘",
-          "告状",
-          "告密教室",
-          "告密老师",
-          "ddd",
-          "结月缘杀人",
-          "暗杀教室",
-          "啾噜哩啦",
-          "ダッダッダ",
-          "秋露里拉",
-          "打小报告",
-          "啾噜哩啦·啾噜哩啦·哒哒哒",
-          "撒撒米糕大",
-          "[奏]チュルリラ・チュルリラ・ダッダッダ！",
-          "星星b大战键盘b"
+          "撒撒米糕大"
         ]
       }
     },
@@ -47662,9 +46352,7 @@
           "男童歌",
           "照镜子",
           "流行音乐是我的东西",
-          "镜子",
-          "[協]ポップミュージックは僕のもの",
-          "男同打男同"
+          "镜子"
         ]
       }
     },
@@ -49656,63 +48344,6 @@
     },
     {
       "id": 606,
-      "title": "[右]The wheel to the right",
-      "artist": "Sampling Masters MEGA",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【右】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "the wheel to the right",
-          "印度人",
-          "车轮右拐",
-          "欢乐喜锯人",
-          "国服刀妹",
-          "电锯惊魂",
-          "底力",
-          "轮子右拧",
-          "右轮",
-          "dj-mega",
-          "电锯人",
-          "电锯",
-          "三块钱",
-          "一块钱2",
-          "光头强",
-          "老婆",
-          "你右边有人",
-          "[右]the wheel to the right",
-          "骷髅",
-          "电锯骷髅",
-          "🛞👉",
-          "地雷女喝魔爪",
-          "印度人放右边",
-          "宴电锯人"
-        ]
-      }
-    },
-    {
-      "id": 606,
       "title": "The wheel to the right",
       "artist": "Sampling Masters MEGA",
       "bpm": 200,
@@ -49827,13 +48458,11 @@
           "光头强",
           "老婆",
           "你右边有人",
-          "[右]the wheel to the right",
           "骷髅",
           "电锯骷髅",
           "🛞👉",
           "地雷女喝魔爪",
-          "印度人放右边",
-          "宴电锯人"
+          "印度人放右边"
         ]
       }
     },
@@ -51806,55 +50435,6 @@
     },
     {
       "id": 631,
-      "title": "[逆]KING is BACK!!",
-      "artist": "A-One",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【逆】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "king is back!!",
-          "王负剑",
-          "王是背",
-          "king is back",
-          "你回来了",
-          "王回家",
-          "kobe is back",
-          "王是后背",
-          "kib",
-          "王归",
-          "王回来了",
-          "王者归来",
-          "kobe is back!!",
-          "[逆]king is back!!",
-          "王的回归",
-          "王回"
-        ]
-      }
-    },
-    {
-      "id": 631,
       "title": "KING is BACK!!",
       "artist": "A-One",
       "bpm": 176,
@@ -51965,7 +50545,6 @@
           "王回来了",
           "王者归来",
           "kobe is back!!",
-          "[逆]king is back!!",
           "王的回归",
           "王回"
         ]
@@ -53161,55 +51740,7 @@
           "✋🏻😐✋🏻",
           "奥利安奥利安",
           "外星人",
-          "alien alien",
-          "[協]エイリアンエイリアン"
-        ]
-      }
-    },
-    {
-      "id": 647,
-      "title": "[協]エイリアンエイリアン",
-      "artist": "ナユタン星人",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "エイリアンエイリアン",
-          "河南人",
-          "常陆茉子",
-          "外星人外星人",
-          "👽",
-          "奥利奥利安",
-          "阿里安",
-          "alien",
-          "✋🏻😐✋🏻",
-          "奥利安奥利安",
-          "外星人",
-          "alien alien",
-          "[協]エイリアンエイリアン"
+          "alien alien"
         ]
       }
     },
@@ -57698,51 +56229,7 @@
           "疾走あんさんぶる",
           "疾走乐队",
           "疾走",
-          "骚灵三姐妹",
-          "[協]疾走あんさんぶる",
-          "协寄走",
-          "宴疾走"
-        ]
-      }
-    },
-    {
-      "id": 700,
-      "title": "[協]疾走あんさんぶる",
-      "artist": "ビートまりお（COOL&CREATE）",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "疾走あんさんぶる",
-          "疾走乐队",
-          "疾走",
-          "骚灵三姐妹",
-          "[協]疾走あんさんぶる",
-          "协寄走",
-          "宴疾走"
+          "骚灵三姐妹"
         ]
       }
     },
@@ -65155,46 +63642,6 @@
       }
     },
     {
-      "id": 781,
-      "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
-      "artist": "GYARI",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "seyana. ～何でも言うことを聞いてくれるアカネチャン～",
-          "seyana",
-          "不管说什么都在听着的琴叶茜酱",
-          "小茜",
-          "说的事呢",
-          "sodayo",
-          "akane",
-          "琴叶茜"
-        ]
-      }
-    },
-    {
       "id": 782,
       "title": "おねがいダーリン",
       "artist": "ONE (song by ナナホシ管弦楽団)",
@@ -65907,54 +64354,6 @@
           "㕩",
           "口≠",
           "口丰",
-          "[疑]ロキ",
-          "信者",
-          "口不等号",
-          "口半"
-        ]
-      }
-    },
-    {
-      "id": 793,
-      "title": "[疑]ロキ",
-      "artist": "みきとP",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【疑】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ロキ",
-          "roki",
-          "洛基",
-          "嘴巴吃烤串",
-          "口干",
-          "ruaki",
-          "㕩",
-          "口≠",
-          "口丰",
-          "[疑]ロキ",
           "信者",
           "口不等号",
           "口半"
@@ -71039,36 +69438,6 @@
       }
     },
     {
-      "id": 846,
-      "title": "[宴]Oshama Scramble! (Cranky Remix)",
-      "artist": "Cranky",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【宴】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
       "id": 847,
       "title": "カラフル×メロディ",
       "artist": "ちーむMOER",
@@ -71494,36 +69863,6 @@
           "光吉猛修的爹"
         ]
       }
-    },
-    {
-      "id": 851,
-      "title": "[幸]犬日和。(はっぴー歌唱Ver)",
-      "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【幸】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
     },
     {
       "id": 852,
@@ -78137,45 +76476,6 @@
       }
     },
     {
-      "id": 1069,
-      "title": "[協]太陽系デスコ",
-      "artist": "ナユタン星人",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 11.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "太陽系デスコ",
-          "太阳系disco",
-          "👇🏻😐👆🏻👇🏻😐👆🏻",
-          "太阳系",
-          "太田顺也"
-        ]
-      }
-    },
-    {
       "id": 1070,
       "title": "だからパンを焼いたんだ",
       "artist": "あわのあゆむ",
@@ -83075,54 +81375,6 @@
       }
     },
     {
-      "id": 1113,
-      "title": "[回]ハム太郎とっとこうた",
-      "artist": "ハムちゃんず [covered by 光吉猛修]",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【回】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ハム太郎とっとこうた",
-          "哈姆",
-          "老鼠",
-          "鸭脖",
-          "鼠",
-          "哈姆太郎",
-          "鼠抓板",
-          "鸭脖太郎",
-          "仓鼠",
-          "鼠爹",
-          "鼠鼠",
-          "🐹",
-          "墨鼠",
-          "小耗子"
-        ]
-      }
-    },
-    {
       "id": 1115,
       "title": "だから僕は音楽を辞めた",
       "artist": "ヨルシカ",
@@ -87314,36 +85566,6 @@
             "touch": 29,
             "break": 28,
             "total": 748
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1156,
-      "title": "[奏]マイオドレ！舞舞タイム",
-      "artist": "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
           },
           "avalibleRegions": [
             "jp",
@@ -94439,9 +92661,6 @@
           "三绝赞",
           "爆！",
           "哔波掰哔波掰",
-          "[光]break! break! break!",
-          "光bbb",
-          "宴bbb",
           "break fast",
           "全大p"
         ]
@@ -96014,51 +94233,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ほしぞらスペクタクル",
-          "星空奇观",
-          "水母姐",
-          "珊瑚宫心海",
-          "水母娘",
-          "水母",
-          "巫贼",
-          "水母妹",
-          "星球妹",
-          "奏音",
-          "星际奇观"
-        ]
-      }
-    },
-    {
-      "id": 1234,
-      "title": "[星]ほしぞらスペクタクル",
-      "artist": "奏音",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【星】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -106298,56 +104472,7 @@
           "合体",
           "bboy",
           "telecaster b boy",
-          "pop子",
-          "[奏]テレキャスタービーボーイ"
-        ]
-      }
-    },
-    {
-      "id": 1325,
-      "title": "[奏]テレキャスタービーボーイ",
-      "artist": "すりぃ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "テレキャスタービーボーイ",
-          "电吉他说唱男孩",
-          "telecaster b-boy",
-          "♡",
-          "电吉他b男",
-          "比心",
-          "我爱你",
-          "tbb",
-          "电视广播员蜜蜂男孩",
-          "合体",
-          "bboy",
-          "telecaster b boy",
-          "pop子",
-          "[奏]テレキャスタービーボーイ"
+          "pop子"
         ]
       }
     },
@@ -109513,60 +107638,7 @@
           "15列车",
           "lag train",
           "电车迟到",
-          "lagtrain",
-          "[協]ラグトレイン",
-          "宴延误列车",
-          "协延迟列车",
-          "协延误列车"
-        ]
-      }
-    },
-    {
-      "id": 1355,
-      "title": "[協]ラグトレイン",
-      "artist": "稲葉曇",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ラグトレイン",
-          "延误列车",
-          "打地鼠",
-          "延迟列车",
-          "烟雾列车",
-          "少女终末旅行",
-          "列车",
-          "15列车",
-          "lag train",
-          "电车迟到",
-          "lagtrain",
-          "[協]ラグトレイン",
-          "宴延误列车",
-          "协延迟列车",
-          "协延误列车"
+          "lagtrain"
         ]
       }
     },
@@ -109895,56 +107967,6 @@
           "女同8",
           "拂晓已至",
           "拂晓抵达",
-          "[協]アカツキアライヴァル",
-          "协拂晓抵达",
-          "宴拂晓",
-          "宴拂晓抵达",
-          "akatsuki arrival"
-        ]
-      }
-    },
-    {
-      "id": 1359,
-      "title": "[奏]アカツキアライヴァル",
-      "artist": "Last Note.",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "アカツキアライヴァル",
-          "拂晓",
-          "初音未来和波奇",
-          "鱼葱",
-          "女同8",
-          "拂晓已至",
-          "拂晓抵达",
-          "[協]アカツキアライヴァル",
-          "协拂晓抵达",
-          "宴拂晓",
-          "宴拂晓抵达",
           "akatsuki arrival"
         ]
       }
@@ -110433,55 +108455,6 @@
       }
     },
     {
-      "id": 1363,
-      "title": "[片]神々が恋した幻想郷",
-      "artist": "Unlucky Morpheus",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【片】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "神々が恋した幻想郷",
-          "东方南十字",
-          "众神眷恋的十字星",
-          "幻想乡",
-          "神恋",
-          "东十字",
-          "众神眷恋的幻想乡",
-          "testify",
-          "神都得意俺们屯",
-          "东十字星",
-          "青春版白南十字星",
-          "神仙稀罕俺们屯",
-          "终神眷恋的南十字",
-          "神眷",
-          "小南十字"
-        ]
-      }
-    },
-    {
       "id": 1364,
       "title": "Lia=Fail",
       "artist": "Team Grimoire",
@@ -110734,47 +108707,6 @@
           "avalibleRegions": [
             "jp",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "アンビバレンス",
-          "言叶5",
-          "ambivalence",
-          "我喜欢阿瓦鲁",
-          "二律背反",
-          "矛盾心理",
-          "穿心"
-        ]
-      }
-    },
-    {
-      "id": 1365,
-      "title": "[奏]アンビバレンス",
-      "artist": "すりぃ×相沢",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -113351,58 +111283,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "チューリングの跡",
-          "屠龙之技",
-          "图灵",
-          "灭火器",
-          "螺号",
-          "jazz for your soul",
-          "图灵之跡",
-          "信用2",
-          "迹",
-          "白法院吹萨克斯",
-          "🎷",
-          "credits2",
-          "图灵之迹",
-          "🎷🥚",
-          "图灵轨迹",
-          "萨克斯",
-          "图灵之寄",
-          "dx信用"
-        ]
-      }
-    },
-    {
-      "id": 1388,
-      "title": "[即]チューリングの跡",
-      "artist": "Frums",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【即】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -117656,55 +115536,6 @@
       }
     },
     {
-      "id": 1429,
-      "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
-      "artist": "Hommarju",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【爆】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "love's theme of badass ～バッド・アス 愛のテーマ～",
-          "猫抓板",
-          "拔大蒜",
-          "僵尸骑摩托",
-          "拔大葱",
-          "绿巨人骑摩托车",
-          "扒大蒜",
-          "哥布林骑摩托",
-          "badass",
-          "坏屁股",
-          "干打雷",
-          "恶尻",
-          "马达加斯加",
-          "爱的主题坏屁股",
-          "小绿人"
-        ]
-      }
-    },
-    {
       "id": 1430,
       "title": "オントロジー",
       "artist": "Rain Drops",
@@ -118156,52 +115987,6 @@
           "himehina",
           "hitogata",
           "匕卜力夕",
-          "[奏]ヒトガタ",
-          "人偶"
-        ]
-      }
-    },
-    {
-      "id": 1433,
-      "title": "[奏]ヒトガタ",
-      "artist": "HIMEHINA",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ヒトガタ",
-          "人型",
-          "人形",
-          "管人跳舞",
-          "东雪莲跳舞",
-          "一棵树两个人",
-          "himehina",
-          "hitogata",
-          "匕卜力夕",
-          "[奏]ヒトガタ",
           "人偶"
         ]
       }
@@ -118692,55 +116477,6 @@
           "tfgirls",
           "萨莉亚",
           "三妖精",
-          "[協]三妖精say ya!!!",
-          "三亚"
-        ]
-      }
-    },
-    {
-      "id": 1437,
-      "title": "[協]三妖精SAY YA!!!",
-      "artist": "森羅万象",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "三妖精say ya!!!",
-          "三铸币开大",
-          "saya",
-          "say ya",
-          "三笨蛋",
-          "三小只",
-          "我们三",
-          "三月精",
-          "三妖精塞牙",
-          "tfgirls",
-          "萨莉亚",
-          "三妖精",
-          "[協]三妖精say ya!!!",
           "三亚"
         ]
       }
@@ -123506,44 +121242,6 @@
       }
     },
     {
-      "id": 1479,
-      "title": "[覚]Hainuwele",
-      "artist": "ETIA.",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【覚】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "hainuwele",
-          "华为",
-          "华为完了",
-          "nova11se"
-        ]
-      }
-    },
-    {
       "id": 1481,
       "title": "アニマル",
       "artist": "DECO*27",
@@ -124586,61 +122284,6 @@
           "蕾米出警",
           "琪露诺跳舞",
           "警察",
-          "[覚]スカーレット警察のゲットーパトロール24時",
-          "蕾米琪露诺斗舞",
-          "尾杀大b圈"
-        ]
-      }
-    },
-    {
-      "id": 1488,
-      "title": "[覚]スカーレット警察のゲットーパトロール24時",
-      "artist": "七条レタスグループ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【覚】",
-          "internalLevel": 12,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "スカーレット警察のゲットーパトロール24時",
-          "👮",
-          "东方警察24时",
-          "24时",
-          "蟑螂跳舞",
-          "东方警察",
-          "警察出警24小时",
-          "funky",
-          "警察24时",
-          "斯卡雷特警察",
-          "斯卡蕾特警察",
-          "24时警察",
-          "斯卡雷特",
-          "斯卡蕾特",
-          "蕾米出警",
-          "琪露诺跳舞",
-          "警察",
-          "[覚]スカーレット警察のゲットーパトロール24時",
           "蕾米琪露诺斗舞",
           "尾杀大b圈"
         ]
@@ -127618,48 +125261,7 @@
           "月兔",
           "月兔回旋于空中",
           "回空",
-          "月下钢琴师",
-          "[回]回る空うさぎ"
-        ]
-      }
-    },
-    {
-      "id": 1513,
-      "title": "[回]回る空うさぎ",
-      "artist": "Orangestar",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【回】",
-          "internalLevel": 11,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "回る空うさぎ",
-          "月兔",
-          "月兔回旋于空中",
-          "回空",
-          "月下钢琴师",
-          "[回]回る空うさぎ"
+          "月下钢琴师"
         ]
       }
     },
@@ -127901,9 +125503,6 @@
           "rtx",
           "拉格兰",
           "光锥",
-          "[蔵]aegleseeker",
-          "藏光追",
-          "宴光追",
           "间奏8秒",
           "追光者"
         ]
@@ -131194,45 +128793,6 @@
       }
     },
     {
-      "id": 1545,
-      "title": "[餡]隠密あんみつDX",
-      "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【餡】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "隠密あんみつdx",
-          "隐密馅密dx",
-          "王小桃",
-          "隐秘dx",
-          "隐密dx",
-          "隐密",
-          "隐秘馅密dx"
-        ]
-      }
-    },
-    {
       "id": 1546,
       "title": "地球",
       "artist": "立秋 feat.ちょこ",
@@ -132675,45 +130235,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "不機嫌なスリーカード",
-          "心烦意乱three card",
-          "不机嫌",
-          "欢乐斗地主",
-          "三卡"
-        ]
-      }
-    },
-    {
-      "id": 1557,
-      "title": "[蛸]不機嫌なスリーカード",
-      "artist": "HIMEHINA",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【蛸】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -135246,47 +132767,6 @@
           "另一半",
           "三枝明那",
           "半分子",
-          "[両]はんぶんこ",
-          "各分一半"
-        ]
-      }
-    },
-    {
-      "id": 1577,
-      "title": "[両]はんぶんこ",
-      "artist": "三枝明那",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【両】",
-          "internalLevel": 12,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "はんぶんこ",
-          "另一半",
-          "三枝明那",
-          "半分子",
-          "[両]はんぶんこ",
           "各分一半"
         ]
       }
@@ -137242,54 +134722,6 @@
           "无呼吸义务",
           "我喘不上气",
           "看见光",
-          "[息]ノンブレス・オブリージュ",
-          "萃萃薯条",
-          "我喘不上气我喘不上气"
-        ]
-      }
-    },
-    {
-      "id": 1597,
-      "title": "[息]ノンブレス・オブリージュ",
-      "artist": "ピノキオピー",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【息】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ノンブレス・オブリージュ",
-          "喘不上来气",
-          "喘不上气",
-          "non-breath oblige",
-          "不要呼吸",
-          "我喘不上气儿",
-          "无呼吸",
-          "无呼吸义务",
-          "我喘不上气",
-          "看见光",
-          "[息]ノンブレス・オブリージュ",
           "萃萃薯条",
           "我喘不上气我喘不上气"
         ]
@@ -141055,44 +138487,6 @@
       }
     },
     {
-      "id": 1628,
-      "title": "[逆]WE'RE BACK!!",
-      "artist": "Zekk",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【逆】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "we're back!!",
-          "我们回来了",
-          "我们是背",
-          "weareback"
-        ]
-      }
-    },
-    {
       "id": 1629,
       "title": "熱異常",
       "artist": "いよわ",
@@ -141824,62 +139218,6 @@
       ]
     },
     {
-      "id": 1634,
-      "title": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1634,
-      "title": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1636,
       "title": "さくゆいたいそう",
       "artist": "さくゆい",
@@ -141996,49 +139334,6 @@
           "sakuyui exercise",
           "咲唯体操",
           "女同17",
-          "[奏]さくゆいたいそう",
-          "管人体操"
-        ]
-      }
-    },
-    {
-      "id": 1636,
-      "title": "[奏]さくゆいたいそう",
-      "artist": "さくゆい",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "さくゆいたいそう",
-          "我等心友",
-          "sakuyui taisou",
-          "sakuyui exercise",
-          "咲唯体操",
-          "女同17",
-          "[奏]さくゆいたいそう",
           "管人体操"
         ]
       }
@@ -142298,49 +139593,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "星界ちゃんと可不ちゃんのおつかい合騒曲",
-          "星界小姐和可不小姐的外出合奏曲",
-          "星界可不合骚曲",
-          "马赛克可不",
-          "马赛克",
-          "星界酱和可不酱的采购合奏曲",
-          "星界可不",
-          "星界",
-          "可不敢笑",
-          "猫抓板",
-          "圆头耄耋模拟器"
-        ]
-      }
-    },
-    {
-      "id": 1638,
-      "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
-      "artist": "南ノ南",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【耐】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
           ]
         }
       ],
@@ -146116,47 +143368,6 @@
       }
     },
     {
-      "id": 1670,
-      "title": "[奏]のじゃロリック",
-      "artist": "なみぐる feat.ちょこ 桃寝ちのい",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "のじゃロリック",
-          "结婚",
-          "结婚婚",
-          "你好结婚",
-          "女同18",
-          "コンコン結婚コン",
-          "婚婚结婚婚",
-          "bud+两小只",
-          "konkon结婚kon"
-        ]
-      }
-    },
-    {
       "id": 1671,
       "title": "Edelweiss",
       "artist": "やどりぎ",
@@ -149440,43 +146651,6 @@
       }
     },
     {
-      "id": 1697,
-      "title": "[音]ラビットホール",
-      "artist": "DECO*27",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【音】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ラビットホール",
-          "兔子洞",
-          "rabbithole",
-          "初音未来下海",
-          "rabbit hole"
-        ]
-      }
-    },
-    {
       "id": 1698,
       "title": "酔いどれ知らず",
       "artist": "Kanaria",
@@ -151347,43 +148521,6 @@
       }
     },
     {
-      "id": 1714,
-      "title": "[匿]匿名M",
-      "artist": "ピノキオピー",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【匿】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "匿名m",
-          "请不要人肉我哦",
-          "初音采访"
-        ]
-      }
-    },
-    {
       "id": 1715,
       "title": "ライアーダンサー",
       "artist": "マサラダ",
@@ -151489,51 +148626,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "ライアーダンサー",
-          "谎言舞者",
-          "蓝牙舞者",
-          "liardancer",
-          "ld",
-          "蓝牙",
-          "哦多累",
-          "蓝牙单色",
-          "liar dancer",
-          "铁托摇",
-          "欧都累"
-        ]
-      }
-    },
-    {
-      "id": 1715,
-      "title": "[嘘]ライアーダンサー",
-      "artist": "マサラダ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【嘘】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
           ]
         }
       ],
@@ -157021,36 +154113,6 @@
       ]
     },
     {
-      "id": 1770,
-      "title": "[協]Ultimate taste",
-      "artist": "ぱらどっと",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1771,
       "title": "Chronomia",
       "artist": "Lime",
@@ -157229,36 +154291,6 @@
             "touch": 168,
             "break": 72,
             "total": 783
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1772,
-      "title": "[X]人マニア",
-      "artist": "原口沙輔 feat.重音テト",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【X】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
           },
           "avalibleRegions": [
             "jp",
@@ -163559,36 +160591,6 @@
       ]
     },
     {
-      "id": 1838,
-      "title": "[助]メズマライザー",
-      "artist": "サツキ feat.初音ミク・重音テト",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【助】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1839,
       "title": "ももいろの鍵",
       "artist": "いよわ",
@@ -164905,186 +161907,6 @@
       ]
     },
     {
-      "id": 1852,
-      "title": "[好]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【好】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1852,
-      "title": "[譜]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【譜】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1852,
-      "title": "[面]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【面】",
-          "internalLevel": 14,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1852,
-      "title": "[発]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【発】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1852,
-      "title": "[表]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【表】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1852,
-      "title": "[龍]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【龍】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1853,
       "title": "Help me, ERINNNNNN!!",
       "artist": "ビートまりお",
@@ -165703,34 +162525,6 @@
             "touch": 136,
             "break": 117,
             "total": 931
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1859,
-      "title": "[騒]ありきたりな恋の歌",
-      "artist": "GYARI",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【騒】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
           },
           "avalibleRegions": [
             "jp"
@@ -168901,34 +165695,6 @@
       ]
     },
     {
-      "id": 1908,
-      "title": "[耐]死ぬな！",
-      "artist": "こっちのけんと",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【耐】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "avalibleRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1909,
       "title": "どんぐりGAME",
       "artist": "こっちのけんと",
@@ -171284,6 +168050,2392 @@
           },
           "avalibleRegions": [
             "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100018,
+      "title": "[協]Love You",
+      "artist": "Q;indivi [cover]",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]love you",
+          "协love you",
+          "爱你",
+          "现充",
+          "协loveyou",
+          "宴爱你",
+          "宴loveyou",
+          "宴love you",
+          "协爱你",
+          "xql"
+        ]
+      }
+    },
+    {
+      "id": 100022,
+      "title": "[蔵]In Chaos",
+      "artist": "Hiro「Crackin’DJ」",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【蔵】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[蔵]in chaos",
+          "宴超市",
+          "藏超市"
+        ]
+      }
+    },
+    {
+      "id": 100199,
+      "title": "[蛸]チルノのパーフェクトさんすう教室",
+      "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【蛸】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[蛸]チルノのパーフェクトさんすう教室",
+          "宴算数教室"
+        ]
+      }
+    },
+    {
+      "id": 100206,
+      "title": "[星]しゅわスパ大作戦☆",
+      "artist": "SOUND HOLIC feat. Nana Takahashi",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【星】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[星]しゅわスパ大作戦☆",
+          "星大作战",
+          "宴大作战"
+        ]
+      }
+    },
+    {
+      "id": 100207,
+      "title": "[蛸]時空を超えて久しぶり！",
+      "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【蛸】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100220,
+      "title": "[宴]セガサターン起動音[H.][Remix]",
+      "artist": "Hiro",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[宴]セガサターン起動音[h.][remix]",
+          "宴启动音"
+        ]
+      }
+    },
+    {
+      "id": 100227,
+      "title": "[は]Garakuta Doll Play",
+      "artist": "t+pazolite",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【は】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[宴]garakuta doll play",
+          "哈皮gdp"
+        ]
+      }
+    },
+    {
+      "id": 100230,
+      "title": "[宴]CYCLES",
+      "artist": "Masayoshi Minoshima feat. 綾倉盟",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[宴]cycles",
+          "宴cycles",
+          "耐cycles",
+          "宴挖马路"
+        ]
+      }
+    },
+    {
+      "id": 100327,
+      "title": "[狂]タカハせ！名人マン",
+      "artist": "ビートまりお + ARM feat. 高橋名人",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【狂】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[狂]タカハせ！名人マン",
+          "狂高桥",
+          "手汗快乐歌",
+          "宴高桥名人",
+          "狂高桥名人"
+        ]
+      }
+    },
+    {
+      "id": 100363,
+      "title": "[宴]Oshama Scramble!",
+      "artist": "t+pazolite",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[宴]oshama scramble!",
+          "宴牛奶"
+        ]
+      }
+    },
+    {
+      "id": 100417,
+      "title": "[習]ウミユリ海底譚",
+      "artist": "n-buna",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【習】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100456,
+      "title": "[蔵]Glorious Crown",
+      "artist": "xi",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【蔵】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[蔵]glorious crown",
+          "藏皇冠",
+          "宴皇冠"
+        ]
+      }
+    },
+    {
+      "id": 100508,
+      "title": "[協]恋愛裁判",
+      "artist": "40mP",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]恋愛裁判",
+          "宴恋爱裁判",
+          "协恋爱裁判"
+        ]
+      }
+    },
+    {
+      "id": 100517,
+      "title": "[覚]東京リアルワールド",
+      "artist": "out of service",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【覚】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[覚]東京リアルワールド",
+          "好记星",
+          "觉东京",
+          "宴东京"
+        ]
+      }
+    },
+    {
+      "id": 100524,
+      "title": "[協]Hand in Hand",
+      "artist": "livetune",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]hand in hand",
+          "协hih",
+          "多人运动",
+          "宴hih",
+          "协hand in hand",
+          "协手牵手"
+        ]
+      }
+    },
+    {
+      "id": 100548,
+      "title": "[疑]DETARAME ROCK&ROLL THEORY",
+      "artist": "箱部 なる(CV:M・A・O)",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【疑】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[宴]detarame rock&roll theory",
+          "别急25",
+          "宴箱部",
+          "宴摇滚理论"
+        ]
+      }
+    },
+    {
+      "id": 100700,
+      "title": "[協]疾走あんさんぶる",
+      "artist": "ビートまりお（COOL&CREATE）",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]疾走あんさんぶる",
+          "协寄走",
+          "宴疾走"
+        ]
+      }
+    },
+    {
+      "id": 100793,
+      "title": "[疑]ロキ",
+      "artist": "みきとP",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【疑】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100846,
+      "title": "[宴]Oshama Scramble! (Cranky Remix)",
+      "artist": "Cranky",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100851,
+      "title": "[幸]犬日和。(はっぴー歌唱Ver)",
+      "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【幸】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110114,
+      "title": "[耐]Space Harrier Main Theme [Reborn]",
+      "artist": "佐野 信義「スペースハリアー」",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【耐】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[耐]space harrier main theme [reborn]"
+        ]
+      }
+    },
+    {
+      "id": 110121,
+      "title": "[甘]スイートマジック",
+      "artist": "ろん×Junky",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【甘】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110227,
+      "title": "[J]Garakuta Doll Play",
+      "artist": "t+pazolite",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【J】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[j]garakuta doll play"
+        ]
+      }
+    },
+    {
+      "id": 110281,
+      "title": "[回]ダブルラリアット",
+      "artist": "アゴアニキ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【回】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110532,
+      "title": "[奏]洗脳",
+      "artist": "ゆりん・柿チョコ×Neru",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110553,
+      "title": "[奏]チュルリラ・チュルリラ・ダッダッダ！",
+      "artist": "和田たけあき(くらげP)",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[奏]チュルリラ・チュルリラ・ダッダッダ！",
+          "星星b大战键盘b"
+        ]
+      }
+    },
+    {
+      "id": 110606,
+      "title": "[右]The wheel to the right",
+      "artist": "Sampling Masters MEGA",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【右】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[右]the wheel to the right",
+          "宴电锯人"
+        ]
+      }
+    },
+    {
+      "id": 110631,
+      "title": "[逆]KING is BACK!!",
+      "artist": "A-One",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【逆】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[逆]king is back!!"
+        ]
+      }
+    },
+    {
+      "id": 110647,
+      "title": "[協]エイリアンエイリアン",
+      "artist": "ナユタン星人",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]エイリアンエイリアン"
+        ]
+      }
+    },
+    {
+      "id": 110781,
+      "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+      "artist": "GYARI",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111069,
+      "title": "[協]太陽系デスコ",
+      "artist": "ナユタン星人",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 11.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111113,
+      "title": "[回]ハム太郎とっとこうた",
+      "artist": "ハムちゃんず [covered by 光吉猛修]",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【回】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111156,
+      "title": "[奏]マイオドレ！舞舞タイム",
+      "artist": "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111234,
+      "title": "[星]ほしぞらスペクタクル",
+      "artist": "奏音",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【星】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111325,
+      "title": "[奏]テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[奏]テレキャスタービーボーイ"
+        ]
+      }
+    },
+    {
+      "id": 111355,
+      "title": "[協]ラグトレイン",
+      "artist": "稲葉曇",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]ラグトレイン",
+          "宴延误列车",
+          "协延迟列车",
+          "协延误列车"
+        ]
+      }
+    },
+    {
+      "id": 111359,
+      "title": "[奏]アカツキアライヴァル",
+      "artist": "Last Note.",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]アカツキアライヴァル",
+          "协拂晓抵达",
+          "宴拂晓",
+          "宴拂晓抵达"
+        ]
+      }
+    },
+    {
+      "id": 111363,
+      "title": "[片]神々が恋した幻想郷",
+      "artist": "Unlucky Morpheus",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【片】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111365,
+      "title": "[奏]アンビバレンス",
+      "artist": "すりぃ×相沢",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111388,
+      "title": "[即]チューリングの跡",
+      "artist": "Frums",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【即】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111429,
+      "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+      "artist": "Hommarju",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【爆】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111433,
+      "title": "[奏]ヒトガタ",
+      "artist": "HIMEHINA",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[奏]ヒトガタ"
+        ]
+      }
+    },
+    {
+      "id": 111437,
+      "title": "[協]三妖精SAY YA!!!",
+      "artist": "森羅万象",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[協]三妖精say ya!!!"
+        ]
+      }
+    },
+    {
+      "id": 111479,
+      "title": "[覚]Hainuwele",
+      "artist": "ETIA.",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【覚】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111488,
+      "title": "[覚]スカーレット警察のゲットーパトロール24時",
+      "artist": "七条レタスグループ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【覚】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[覚]スカーレット警察のゲットーパトロール24時"
+        ]
+      }
+    },
+    {
+      "id": 111513,
+      "title": "[回]回る空うさぎ",
+      "artist": "Orangestar",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【回】",
+          "internalLevel": 11,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[回]回る空うさぎ"
+        ]
+      }
+    },
+    {
+      "id": 111545,
+      "title": "[餡]隠密あんみつDX",
+      "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【餡】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111557,
+      "title": "[蛸]不機嫌なスリーカード",
+      "artist": "HIMEHINA",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【蛸】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111577,
+      "title": "[両]はんぶんこ",
+      "artist": "三枝明那",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【両】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[両]はんぶんこ"
+        ]
+      }
+    },
+    {
+      "id": 111597,
+      "title": "[息]ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【息】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[息]ノンブレス・オブリージュ"
+        ]
+      }
+    },
+    {
+      "id": 111628,
+      "title": "[逆]WE'RE BACK!!",
+      "artist": "Zekk",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【逆】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111634,
+      "title": "[協]青春コンプレックス",
+      "artist": "結束バンド",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111634,
+      "title": "[協]青春コンプレックス",
+      "artist": "結束バンド",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111636,
+      "title": "[奏]さくゆいたいそう",
+      "artist": "さくゆい",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[奏]さくゆいたいそう"
+        ]
+      }
+    },
+    {
+      "id": 111638,
+      "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+      "artist": "南ノ南",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【耐】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111670,
+      "title": "[奏]のじゃロリック",
+      "artist": "なみぐる feat.ちょこ 桃寝ちのい",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111697,
+      "title": "[音]ラビットホール",
+      "artist": "DECO*27",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111714,
+      "title": "[匿]匿名M",
+      "artist": "ピノキオピー",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【匿】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111715,
+      "title": "[嘘]ライアーダンサー",
+      "artist": "マサラダ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【嘘】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111770,
+      "title": "[協]Ultimate taste",
+      "artist": "ぱらどっと",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111772,
+      "title": "[X]人マニア",
+      "artist": "原口沙輔 feat.重音テト",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【X】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111838,
+      "title": "[助]メズマライザー",
+      "artist": "サツキ feat.初音ミク・重音テト",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【助】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111852,
+      "title": "[好]好きな惣菜発表ドラゴン",
+      "artist": "ンバヂ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【好】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111859,
+      "title": "[騒]ありきたりな恋の歌",
+      "artist": "GYARI",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【騒】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111908,
+      "title": "[耐]死ぬな！",
+      "artist": "こっちのけんと",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【耐】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120227,
+      "title": "[r]Garakuta Doll Play",
+      "artist": "t+pazolite",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【r】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[r]garakuta doll play"
+        ]
+      }
+    },
+    {
+      "id": 121852,
+      "title": "[譜]好きな惣菜発表ドラゴン",
+      "artist": "ンバヂ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【譜】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130227,
+      "title": "[玉]Garakuta Doll Play",
+      "artist": "t+pazolite",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【玉】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[玉]garakuta doll play"
+        ]
+      }
+    },
+    {
+      "id": 131852,
+      "title": "[面]好きな惣菜発表ドラゴン",
+      "artist": "ンバヂ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【面】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 140227,
+      "title": "[某]Garakuta Doll Play",
+      "artist": "t+pazolite",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【某】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "[某]garakuta doll play"
+        ]
+      }
+    },
+    {
+      "id": 141852,
+      "title": "[発]好きな惣菜発表ドラゴン",
+      "artist": "ンバヂ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【発】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151852,
+      "title": "[表]好きな惣菜発表ドラゴン",
+      "artist": "ンバヂ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【表】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 161852,
+      "title": "[龍]好きな惣菜発表ドラゴン",
+      "artist": "ンバヂ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【龍】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "avalibleRegions": [
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]

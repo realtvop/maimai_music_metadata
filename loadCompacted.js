@@ -58,8 +58,8 @@ export function convertCompactedToNormal(compacted) {
             if (!type) {
                 throw new Error(`Chart type index ${typeIndex} not found for music ${id}`);
             }
-            const version = versions[versionIndex];
-            if (!version) {
+            const version = versionIndex === -1 ? null : versions[versionIndex];
+            if (versionIndex !== -1 && !version) {
                 throw new Error(`Version index ${versionIndex} not found for music ${id}`);
             }
 
@@ -79,7 +79,7 @@ export function convertCompactedToNormal(compacted) {
                 difficulty,
                 level,
                 internalLevel,
-                version: version.version,
+                version: version ? version.version : null,
                 regionVersionOverride,
                 noteDesigner,
                 noteCounts: {
@@ -101,7 +101,7 @@ export function convertCompactedToNormal(compacted) {
     return { musics, versions };
 }
 
-export async function loadFullMetadata(url = './meta.compacted.json') {
+export async function loadFullMetadata(url = 'https://meta.salt.realtvop.top/meta.compacted.json') {
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`Failed to load compacted metadata: ${response.status} ${response.statusText}`);
