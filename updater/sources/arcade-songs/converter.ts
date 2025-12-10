@@ -30,7 +30,7 @@ function convertChart(sheet: Sheet, cnVersion: number | null): Chart {
         regionVersionOverride.intl = intlOverride;
     }
 
-    if (cnVersion !== null) {
+    if (cnVersion !== null && cnVersion !== -1) {
         regionVersionOverride.cn = cnVersion;
         if (!avalibleRegions.includes("cn")) avalibleRegions.push("cn");
     }
