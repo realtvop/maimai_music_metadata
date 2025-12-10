@@ -1,5 +1,6 @@
 import type { ChartCompacted, MusicCompacted, VersionCompacted } from "./compacted";
 import type { Music, Version } from "./normal";
+import type { AvalibleRegion } from "./data";
 import { categories } from "./data";
 
 export type { Music, Chart, Version } from "./normal";
@@ -37,13 +38,17 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
             const typeIndex = chart.type === "sd" ? 0 : chart.type === "dx" ? 1 : 2;
             const versionIndex = versionIndexMap.get(chart.version) ?? -1;
 
+            const regionVersionOverrideCompacted = chart.regionVersionOverride && Object.keys(chart.regionVersionOverride).length
+                ? Object.entries(chart.regionVersionOverride) as [AvalibleRegion, string | number][]
+                : null;
+
             return [
                 typeIndex,
                 chart.difficulty,
                 chart.level,
                 chart.internalLevel,
                 versionIndex,
-                chart.cnVersion,
+                regionVersionOverrideCompacted,
                 chart.noteDesigner,
                 [
                     chart.noteCounts.tap,

@@ -23,7 +23,7 @@ export interface Chart {
     level: string;
     internalLevel: number;
     version: string;
-    cnVersion: number | null; // Chinese version release year or null when unavailable
+    regionVersionOverride?: Partial<Record<AvalibleRegion, string | number>>;
 
     noteDesigner: string;
     noteCounts: {

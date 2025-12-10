@@ -48,7 +48,7 @@ export function convertCompactedToNormal(compacted) {
                 level,
                 internalLevel,
                 versionIndex,
-                cnVersion,
+                regionVersionOverrideCompacted,
                 noteDesigner,
                 noteCountsCompacted,
                 avalibleRegions,
@@ -63,6 +63,10 @@ export function convertCompactedToNormal(compacted) {
                 throw new Error(`Version index ${versionIndex} not found for music ${id}`);
             }
 
+            const regionVersionOverride = Array.isArray(regionVersionOverrideCompacted) && regionVersionOverrideCompacted.length
+                ? Object.fromEntries(regionVersionOverrideCompacted)
+                : undefined;
+
             if (!Array.isArray(noteCountsCompacted) || noteCountsCompacted.length < 5) {
                 throw new Error(`Invalid note counts for music ${id}`);
             }
@@ -76,7 +80,7 @@ export function convertCompactedToNormal(compacted) {
                 level,
                 internalLevel,
                 version: version.version,
-                cnVersion: cnVersion ?? null,
+                regionVersionOverride,
                 noteDesigner,
                 noteCounts: {
                     tap,

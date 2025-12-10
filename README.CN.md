@@ -122,7 +122,7 @@ interface Chart {
     level: string; // 显示等级，如 "14+"
     internalLevel: number; // 内部定数
     version: string; // 版本名称
-    cnVersion: number | null; // 国服版本年份；"舞萌DX" 记为 0，非 DX 前缀记为 -1，缺省为 null
+    regionVersionOverride?: Partial<Record<AvalibleRegion, string | number>>; // 当某区域与 version 不一致时的覆盖表
 
     noteDesigner: string;
     noteCounts: {
@@ -179,7 +179,7 @@ type ChartCompacted = [
     string, // 2. 等级字符串
     number, // 3. 内部定数
     number, // 4. 版本索引 (versions 数组中的索引)
-    number | null, // 5. 国服版本年份
+    [AvalibleRegion, string | number][] | null, // 5. 区域版本覆盖 [region, overrideVersion]
 
     string, // 6. 谱面设计者
     [number, number, number | null, number, number], // 7. 物量: [tap, hold, slide, touch, break]

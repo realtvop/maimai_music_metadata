@@ -17,20 +17,37 @@ export async function convertArcadeSongsData(
 
 function convertChart(sheet: Sheet, cnVersion: number | null): Chart {
     const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
-    
+    const baseVersion = sheet.version;
+
+    const avalibleRegions = Object.entries(sheet.regions)
+        .filter(([, available]) => available)
+        .map(([region]) => region === "usa" ? "us" : region) as Chart["avalibleRegions"]; // normalize region key
+
+    const regionVersionOverride: Chart["regionVersionOverride"] = {};
+
+    const intlOverride = sheet.regionOverrides?.intl?.version;
+    if (intlOverride && intlOverride !== baseVersion && avalibleRegions.includes("intl")) {
+        regionVersionOverride.intl = intlOverride;
+    }
+
+    if (cnVersion !== null) {
+        regionVersionOverride.cn = cnVersion;
+        if (!avalibleRegions.includes("cn")) avalibleRegions.push("cn");
+    }
+
     return {
         type: sheet.type.replace("std", "sd") as Chart["type"],
         difficulty: difficulty == -1 ? 10 : difficulty,
         level: difficulty == -1 ? sheet.difficulty : sheet.level,
         internalLevel: sheet.internalLevelValue,
-        version: sheet.version,
-        cnVersion,
+        version: baseVersion,
+        regionVersionOverride: Object.keys(regionVersionOverride).length ? regionVersionOverride : undefined,
 
         noteDesigner: sheet.noteDesigner,
         noteCounts: sheet.noteCounts,
 
-        avalibleRegions: Object.entries(sheet.regions).filter(([_, available]) => available).map(([region, _]) => region as Chart["avalibleRegions"][number]),
-    }
+        avalibleRegions,
+    };
 }
 
 async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Promise<Music> {

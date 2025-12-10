@@ -122,7 +122,7 @@ interface Chart {
     level: string; // Display level, e.g. "14+"
     internalLevel: number; // Internal level value
     version: string; // Version name
-    cnVersion: number | null; // Chinese version year; 0 for "舞萌DX", -1 for non-DX labels, null when missing
+    regionVersionOverride?: Partial<Record<AvalibleRegion, string | number>>; // Region-specific version overrides when different from `version`
 
     noteDesigner: string;
     noteCounts: {
@@ -179,7 +179,7 @@ type ChartCompacted = [
     string, // 2. levelString
     number, // 3. internalLevel
     number, // 4. versionIndex (index in versions array)
-    number | null, // 5. cnVersionYear
+    [AvalibleRegion, string | number][] | null, // 5. regionVersionOverrides as [region, overrideVersion]
 
     string, // 6. noteDesigner
     [number, number, number | null, number, number], // 7. noteCounts: [tap, hold, slide, touch, break]
