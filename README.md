@@ -4,6 +4,41 @@ English | [中文](./README.CN.md)
 
 maimai DX music metadata and cover images.
 
+## Usage
+
+### npm (ESM/CJS)
+
+```bash
+npm install maimai_music_metadata
+```
+
+```ts
+import { loadFullMetadata, convertCompactedToNormal, compactMusicMetadata } from "maimai_music_metadata";
+
+// Fetch the hosted compacted metadata and expand it to the normal shape with full typings
+const metadata = await loadFullMetadata();
+
+// Or convert a local compacted payload
+const normal = convertCompactedToNormal(compactedPayload);
+
+// Convert back to the compacted representation when you need to save bandwidth
+const compacted = compactMusicMetadata(normal);
+```
+
+### Browser `<script>` tag
+
+Use the prebuilt IIFE bundle (global name `MaimaiMetadata`).
+
+```html
+<script src="https://unpkg.com/maimai_music_metadata/dist/index.js"></script>
+<script>
+    (async () => {
+        const metadata = await MaimaiMetadata.loadFullMetadata();
+        console.log(metadata.musics.length);
+    })();
+</script>
+```
+
 ## Table of Contents
 
 - [File Types](#file-types)

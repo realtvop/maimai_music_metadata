@@ -1,7 +1,7 @@
 import { mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { getImageUrl } from "./sources/aquadx";
-import type { Music } from "./types";
+import type { Music } from "../types";
 
 export const COVERS_DIR = new URL("../covers/", import.meta.url);
 

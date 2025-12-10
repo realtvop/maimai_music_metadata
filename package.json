@@ -1,0 +1,44 @@
+{
+  "name": "maimai_music_metadata",
+  "version": "1.0.0",
+  "description": "maimai DX music metadata and cover images | 舞萌 DX 曲目数据及曲绘",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    },
+    "./browser": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "types",
+    "meta.compacted.json",
+    "meta.json"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realtvop/maimai_music_metadata.git"
+  },
+  "author": "realtvop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realtvop/maimai_music_metadata/issues"
+  },
+  "homepage": "https://github.com/realtvop/maimai_music_metadata#readme",
+  "devDependencies": {
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.3"
+  }
+}

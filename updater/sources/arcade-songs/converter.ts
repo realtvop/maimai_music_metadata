@@ -1,4 +1,4 @@
-import type { Chart, Music, Version } from "../../types";
+import type { Chart, Music, Version } from "../../../types";
 import { matchSongID } from "../songid";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
 

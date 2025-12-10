@@ -1,4 +1,4 @@
-import type { Music, Version } from "../../types";
+import type { Music, Version } from "../../../types";
 import { convertArcadeSongsData } from "./converter";
 import type { ArcadeSongsData } from "./types";
 import { fetchChineseChartVersions } from "../cn-version";

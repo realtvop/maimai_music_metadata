@@ -22,7 +22,7 @@ export interface Chart {
     difficulty: MusicDifficultyID;
     level: string;
     internalLevel: number;
-    version: string;
+    version: string | null;
     regionVersionOverride?: Partial<Record<AvalibleRegion, string | number>>;
 
     noteDesigner: string;

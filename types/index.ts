@@ -36,7 +36,7 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
 
         const charts: ChartCompacted[] = music.charts.map(chart => {
             const typeIndex = chart.type === "sd" ? 0 : chart.type === "dx" ? 1 : 2;
-            const versionIndex = versionIndexMap.get(chart.version) ?? -1;
+            const versionIndex = chart.version ? versionIndexMap.get(chart.version) ?? -1 : -1;
 
             const regionVersionOverrideCompacted = chart.regionVersionOverride && Object.keys(chart.regionVersionOverride).length
                 ? Object.entries(chart.regionVersionOverride) as [AvalibleRegion, string | number][]

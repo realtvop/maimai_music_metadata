@@ -1,7 +1,7 @@
 import { writeFile } from "node:fs/promises";
 import { getArcadeSongsData } from "./sources/arcade-songs";
 import { downloadCovers, COVERS_DIR } from "./downloadCovers";
-import { compactMusicMetadata } from "./types";
+import { compactMusicMetadata } from "../types";
 import { fetchChineseAliases } from "./sources/aliases";
 
 const META_PATH = new URL("../meta.json", import.meta.url);
