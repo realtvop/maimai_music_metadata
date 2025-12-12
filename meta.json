@@ -5930,7 +5930,7 @@
           "level": "11",
           "internalLevel": 11,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 262,
             "hold": 45,
@@ -5949,7 +5949,7 @@
           "level": "13",
           "internalLevel": 13.5,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "メロンポップ",
           "noteCounts": {
             "tap": 411,
             "hold": 45,
@@ -165163,7 +165163,7 @@
       "id": 1890,
       "title": "ミクマリ",
       "artist": "テヅカ",
-      "bpm": null,
+      "bpm": 174,
       "category": "maimai",
       "isLocked": true,
       "charts": [
@@ -165173,14 +165173,14 @@
           "level": "4",
           "internalLevel": 4,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 171,
+            "hold": 11,
+            "slide": 9,
+            "touch": 8,
+            "break": 9,
+            "total": 208
           },
           "avalibleRegions": [
             "jp"
@@ -165192,14 +165192,14 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 315,
+            "hold": 16,
+            "slide": 12,
+            "touch": 24,
+            "break": 4,
+            "total": 371
           },
           "avalibleRegions": [
             "jp"
@@ -165211,14 +165211,14 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 290,
+            "hold": 74,
+            "slide": 53,
+            "touch": 31,
+            "break": 16,
+            "total": 464
           },
           "avalibleRegions": [
             "jp"
@@ -165230,14 +165230,14 @@
           "level": "13",
           "internalLevel": 13,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "アマリリス",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 549,
+            "hold": 59,
+            "slide": 67,
+            "touch": 73,
+            "break": 29,
+            "total": 777
           },
           "avalibleRegions": [
             "jp"
@@ -165249,7 +165249,7 @@
       "id": 1891,
       "title": "雲外蒼電 -Dreaming Voltage-",
       "artist": "adaptor vs DRIVE.",
-      "bpm": null,
+      "bpm": 160,
       "category": "maimai",
       "isLocked": true,
       "charts": [
@@ -165259,14 +165259,14 @@
           "level": "4",
           "internalLevel": 4,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 184,
+            "hold": 13,
+            "slide": 5,
+            "touch": 14,
+            "break": 7,
+            "total": 223
           },
           "avalibleRegions": [
             "jp"
@@ -165278,14 +165278,14 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 275,
+            "hold": 14,
+            "slide": 9,
+            "touch": 27,
+            "break": 6,
+            "total": 331
           },
           "avalibleRegions": [
             "jp"
@@ -165297,14 +165297,14 @@
           "level": "12",
           "internalLevel": 12,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 392,
+            "hold": 46,
+            "slide": 56,
+            "touch": 16,
+            "break": 87,
+            "total": 597
           },
           "avalibleRegions": [
             "jp"
@@ -165316,14 +165316,14 @@
           "level": "13+",
           "internalLevel": 13.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 584,
+            "hold": 53,
+            "slide": 96,
+            "touch": 72,
+            "break": 71,
+            "total": 876
           },
           "avalibleRegions": [
             "jp"
@@ -165335,7 +165335,7 @@
       "id": 1892,
       "title": "鬼女紅妖",
       "artist": "Earliri",
-      "bpm": null,
+      "bpm": 165,
       "category": "maimai",
       "isLocked": true,
       "charts": [
@@ -165345,14 +165345,14 @@
           "level": "5",
           "internalLevel": 5,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 209,
+            "hold": 13,
+            "slide": 4,
+            "touch": 9,
+            "break": 6,
+            "total": 241
           },
           "avalibleRegions": [
             "jp"
@@ -165364,14 +165364,14 @@
           "level": "8",
           "internalLevel": 8,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 282,
+            "hold": 14,
+            "slide": 12,
+            "touch": 26,
+            "break": 4,
+            "total": 338
           },
           "avalibleRegions": [
             "jp"
@@ -165383,14 +165383,14 @@
           "level": "11+",
           "internalLevel": 11.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 378,
+            "hold": 95,
+            "slide": 33,
+            "touch": 9,
+            "break": 16,
+            "total": 531
           },
           "avalibleRegions": [
             "jp"
@@ -165402,14 +165402,14 @@
           "level": "14",
           "internalLevel": 14,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 690,
+            "hold": 53,
+            "slide": 73,
+            "touch": 15,
+            "break": 103,
+            "total": 934
           },
           "avalibleRegions": [
             "jp"
@@ -165421,7 +165421,7 @@
       "id": 1893,
       "title": "華天月兎",
       "artist": "satella feat.Risa Yuzuki",
-      "bpm": null,
+      "bpm": 184,
       "category": "maimai",
       "isLocked": true,
       "charts": [
@@ -165431,14 +165431,14 @@
           "level": "5",
           "internalLevel": 5,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 193,
+            "hold": 10,
+            "slide": 9,
+            "touch": 27,
+            "break": 10,
+            "total": 249
           },
           "avalibleRegions": [
             "jp"
@@ -165450,14 +165450,14 @@
           "level": "8",
           "internalLevel": 8,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 320,
+            "hold": 10,
+            "slide": 13,
+            "touch": 41,
+            "break": 6,
+            "total": 390
           },
           "avalibleRegions": [
             "jp"
@@ -165469,14 +165469,14 @@
           "level": "12",
           "internalLevel": 12,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "Jack",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 366,
+            "hold": 35,
+            "slide": 54,
+            "touch": 78,
+            "break": 14,
+            "total": 547
           },
           "avalibleRegions": [
             "jp"
@@ -165488,14 +165488,14 @@
           "level": "14",
           "internalLevel": 14,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 593,
+            "hold": 55,
+            "slide": 100,
+            "touch": 126,
+            "break": 14,
+            "total": 888
           },
           "avalibleRegions": [
             "jp"
