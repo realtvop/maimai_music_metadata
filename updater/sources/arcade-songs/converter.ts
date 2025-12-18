@@ -19,20 +19,20 @@ function convertChart(sheet: Sheet, cnVersion: number | null): Chart {
     const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
     const baseVersion = sheet.version;
 
-    const avalibleRegions = Object.entries(sheet.regions)
+    const availableRegions = Object.entries(sheet.regions)
         .filter(([, available]) => available)
-        .map(([region]) => region === "usa" ? "us" : region) as Chart["avalibleRegions"]; // normalize region key
+        .map(([region]) => region === "usa" ? "us" : region) as Chart["availableRegions"]; // normalize region key
 
     const regionVersionOverride: Chart["regionVersionOverride"] = {};
 
     const intlOverride = sheet.regionOverrides?.intl?.version;
-    if (intlOverride && intlOverride !== baseVersion && avalibleRegions.includes("intl")) {
+    if (intlOverride && intlOverride !== baseVersion && availableRegions.includes("intl")) {
         regionVersionOverride.intl = intlOverride;
     }
 
     if (cnVersion !== null && cnVersion !== -1) {
         regionVersionOverride.cn = cnVersion;
-        if (!avalibleRegions.includes("cn")) avalibleRegions.push("cn");
+        if (!availableRegions.includes("cn")) availableRegions.push("cn");
     }
 
     return {
@@ -46,7 +46,7 @@ function convertChart(sheet: Sheet, cnVersion: number | null): Chart {
         noteDesigner: sheet.noteDesigner,
         noteCounts: sheet.noteCounts,
 
-        avalibleRegions,
+        availableRegions,
     };
 }
 
@@ -62,7 +62,7 @@ async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Prom
         category: song.category,
         isLocked: song.isLocked,
 
-        charts: song.sheets.map(sheet => convertChart(sheet, cnVersion)).filter(chart => chart.avalibleRegions.length),
+        charts: song.sheets.map(sheet => convertChart(sheet, cnVersion)).filter(chart => chart.availableRegions.length),
     }
 }
 

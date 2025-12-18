@@ -1,11 +1,11 @@
 import type { ChartCompacted, MusicCompacted, VersionCompacted } from "./compacted";
 import type { Music, Version } from "./normal";
-import type { AvalibleRegion } from "./data";
+import type { AvailableRegion } from "./data";
 import { categories } from "./data";
 
 export type { Music, Chart, Version } from "./normal";
 export type { MusicCompacted, ChartCompacted, VersionCompacted } from "./compacted";
-export type { AvalibleRegion, MusicDifficultyID } from "./data";
+export type { AvailableRegion, MusicDifficultyID } from "./data";
 
 export { categories } from "./data";
 
@@ -39,7 +39,7 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
             const versionIndex = chart.version ? versionIndexMap.get(chart.version) ?? -1 : -1;
 
             const regionVersionOverrideCompacted = chart.regionVersionOverride && Object.keys(chart.regionVersionOverride).length
-                ? Object.entries(chart.regionVersionOverride) as [AvalibleRegion, string | number][]
+                ? Object.entries(chart.regionVersionOverride) as [AvailableRegion, string | number][]
                 : null;
 
             return [
@@ -57,7 +57,7 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
                     chart.noteCounts.touch ?? 0,
                     chart.noteCounts.break,
                 ],
-                chart.avalibleRegions,
+                chart.availableRegions,
             ];
         });
 

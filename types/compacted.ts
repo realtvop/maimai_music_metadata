@@ -1,4 +1,4 @@
-import type { AvalibleRegion, MusicDifficultyID } from "./data";
+import type { AvailableRegion, MusicDifficultyID } from "./data";
 
 export type MusicCompacted = [
     number, // id: < 10000, same for sd and dx
@@ -19,12 +19,12 @@ export type ChartCompacted = [
     string, // levelString
     number, // internalLevel
     number, // versionIndex
-    [AvalibleRegion, string | number][] | null, // regionVersionOverrides
+    [AvailableRegion, string | number][] | null, // regionVersionOverrides
 
     string, // noteDesigner
     [number, number, number | null, number, number], // noteCounts: [tap, hold, slide, touch, break]
 
-    AvalibleRegion[],
+    AvailableRegion[],
 ]
 
 export type VersionCompacted = [

@@ -1,6 +1,6 @@
 import { categories, compactMusicMetadata } from "../types";
 import type {
-    AvalibleRegion,
+    AvailableRegion,
     Chart,
     ChartCompacted,
     Music,
@@ -51,14 +51,14 @@ function expandChart(compacted: ChartCompacted, versions: Version[], musicId: nu
         regionVersionOverrideCompacted,
         noteDesigner,
         noteCountsCompacted,
-        avalibleRegions,
+        availableRegions,
     ] = compacted;
 
     const type = resolveChartType(typeIndex, musicId);
     const version = resolveVersion(versions, versionIndex, musicId);
 
     const regionVersionOverride = regionVersionOverrideCompacted?.length
-        ? (Object.fromEntries(regionVersionOverrideCompacted) as Partial<Record<AvalibleRegion, string | number>>)
+        ? (Object.fromEntries(regionVersionOverrideCompacted) as Partial<Record<AvailableRegion, string | number>>)
         : undefined;
 
     if (!Array.isArray(noteCountsCompacted) || noteCountsCompacted.length < 5) {
@@ -86,7 +86,7 @@ function expandChart(compacted: ChartCompacted, versions: Version[], musicId: nu
             break: breakCount,
             total,
         },
-        avalibleRegions,
+        availableRegions,
     };
 }
 
@@ -135,7 +135,7 @@ export async function loadFullMetadata(
 
 export { compactMusicMetadata, categories };
 export type {
-    AvalibleRegion,
+    AvailableRegion,
     Chart,
     ChartCompacted,
     Music,

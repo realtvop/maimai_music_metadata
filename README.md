@@ -101,7 +101,7 @@ const getImageUrl = (id: string | number) => `http://meta.salt.realtvop.top/cove
 | 4 | ReMaster |
 | 10 | Utage |
 
-#### AvalibleRegion
+#### AvailableRegion
 
 | Value | Region |
 | :--- | :--- |
@@ -157,7 +157,7 @@ interface Chart {
     level: string; // Display level, e.g. "14+"
     internalLevel: number; // Internal level value
     version: string; // Version name
-    regionVersionOverride?: Partial<Record<AvalibleRegion, string | number>>; // Region-specific version overrides when different from `version`
+    regionVersionOverride?: Partial<Record<AvailableRegion, string | number>>; // Region-specific version overrides when different from `version`
 
     noteDesigner: string;
     noteCounts: {
@@ -169,7 +169,7 @@ interface Chart {
         total: number;
     };
 
-    avalibleRegions: AvalibleRegion[];
+    availableRegions: AvailableRegion[];
 }
 ```
 
@@ -214,12 +214,12 @@ type ChartCompacted = [
     string, // 2. levelString
     number, // 3. internalLevel
     number, // 4. versionIndex (index in versions array)
-    [AvalibleRegion, string | number][] | null, // 5. regionVersionOverrides as [region, overrideVersion]
+    [AvailableRegion, string | number][] | null, // 5. regionVersionOverrides as [region, overrideVersion]
 
     string, // 6. noteDesigner
     [number, number, number | null, number, number], // 7. noteCounts: [tap, hold, slide, touch, break]
 
-    AvalibleRegion[], // 8. avalibleRegions
+    AvailableRegion[], // 8. availableRegions
 ]
 ```
 
