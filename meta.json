@@ -74156,7 +74156,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "12",
-          "internalLevel": 12.4,
+          "internalLevel": 12.5,
           "version": "maimaiでらっくす",
           "regionVersionOverride": {
             "cn": 0
@@ -163880,7 +163880,9 @@
             "total": 180
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -163899,7 +163901,9 @@
             "total": 310
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -163918,7 +163922,9 @@
             "total": 521
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -163937,7 +163943,9 @@
             "total": 827
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -163966,7 +163974,9 @@
             "total": 160
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -163985,7 +163995,9 @@
             "total": 269
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164004,7 +164016,9 @@
             "total": 433
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164023,7 +164037,9 @@
             "total": 684
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -164052,7 +164068,9 @@
             "total": 372
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164071,7 +164089,9 @@
             "total": 429
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164090,7 +164110,9 @@
             "total": 802
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164109,7 +164131,9 @@
             "total": 1088
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -164138,7 +164162,9 @@
             "total": 241
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164157,7 +164183,9 @@
             "total": 380
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164176,7 +164204,9 @@
             "total": 578
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164195,7 +164225,9 @@
             "total": 882
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -165231,7 +165263,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13,
+          "internalLevel": 13.5,
           "version": "CiRCLE",
           "noteDesigner": "アマリリス",
           "noteCounts": {
@@ -165298,7 +165330,7 @@
           "type": "dx",
           "difficulty": 2,
           "level": "12",
-          "internalLevel": 12,
+          "internalLevel": 12.2,
           "version": "CiRCLE",
           "noteDesigner": "サファ太",
           "noteCounts": {
