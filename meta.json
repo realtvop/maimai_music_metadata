@@ -96303,7 +96303,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "12",
-          "internalLevel": 12.4,
+          "internalLevel": 12.5,
           "version": "Splash PLUS",
           "noteDesigner": "はっぴー",
           "noteCounts": {
@@ -158492,7 +158492,7 @@
           "type": "dx",
           "difficulty": 2,
           "level": "12",
-          "internalLevel": 12,
+          "internalLevel": 12.5,
           "version": "PRiSM PLUS",
           "noteDesigner": "サファ太",
           "noteCounts": {
@@ -165541,7 +165541,7 @@
           "type": "dx",
           "difficulty": 2,
           "level": "12",
-          "internalLevel": 12,
+          "internalLevel": 12.5,
           "version": "CiRCLE",
           "noteDesigner": "Jack",
           "noteCounts": {
@@ -168379,6 +168379,260 @@
             "touch": 21,
             "break": 62,
             "total": 1111
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1937,
+      "title": "スノーマン (Rerec)",
+      "artist": "halyosy",
+      "bpm": 127,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 144,
+            "hold": 10,
+            "slide": 4,
+            "touch": 8,
+            "break": 10,
+            "total": 176
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 200,
+            "hold": 18,
+            "slide": 7,
+            "touch": 30,
+            "break": 10,
+            "total": 265
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "CiRCLE",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 353,
+            "hold": 59,
+            "slide": 24,
+            "touch": 17,
+            "break": 27,
+            "total": 480
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "CiRCLE",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 504,
+            "hold": 86,
+            "slide": 69,
+            "touch": 36,
+            "break": 31,
+            "total": 725
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1938,
+      "title": "JINGLE DEATH",
+      "artist": "DJ Myosuke & Gram",
+      "bpm": 222,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 172,
+            "hold": 12,
+            "slide": 8,
+            "touch": 12,
+            "break": 4,
+            "total": 208
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 372,
+            "hold": 18,
+            "slide": 7,
+            "touch": 13,
+            "break": 8,
+            "total": 418
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12,
+          "version": "CiRCLE",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 402,
+            "hold": 52,
+            "slide": 47,
+            "touch": 21,
+            "break": 26,
+            "total": 548
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14,
+          "version": "CiRCLE",
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 563,
+            "hold": 46,
+            "slide": 103,
+            "touch": 92,
+            "break": 55,
+            "total": 859
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1942,
+      "title": "ヤミナベ!!!!",
+      "artist": "cosMo＠暴走P",
+      "bpm": 264,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 253,
+            "hold": 15,
+            "slide": 4,
+            "touch": 13,
+            "break": 14,
+            "total": 299
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 322,
+            "hold": 10,
+            "slide": 12,
+            "touch": 20,
+            "break": 8,
+            "total": 372
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.6,
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 542,
+            "hold": 39,
+            "slide": 36,
+            "touch": 25,
+            "break": 10,
+            "total": 652
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14,
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 661,
+            "hold": 121,
+            "slide": 80,
+            "touch": 40,
+            "break": 100,
+            "total": 1006
           },
           "availableRegions": [
             "jp"
