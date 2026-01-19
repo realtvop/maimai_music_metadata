@@ -169215,12 +169215,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 185,
+            "hold": 13,
+            "slide": 6,
+            "touch": 11,
+            "break": 5,
+            "total": 220
           },
           "availableRegions": [
             "jp"
@@ -169234,12 +169234,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 302,
+            "hold": 20,
+            "slide": 9,
+            "touch": 26,
+            "break": 8,
+            "total": 365
           },
           "availableRegions": [
             "jp"
@@ -169251,14 +169251,14 @@
           "level": "9+",
           "internalLevel": 9.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 334,
+            "hold": 94,
+            "slide": 41,
+            "touch": 6,
+            "break": 21,
+            "total": 496
           },
           "availableRegions": [
             "jp"
@@ -169270,14 +169270,14 @@
           "level": "13",
           "internalLevel": 13,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー(INFP)",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 659,
+            "hold": 61,
+            "slide": 176,
+            "touch": 4,
+            "break": 26,
+            "total": 926
           },
           "availableRegions": [
             "jp"
