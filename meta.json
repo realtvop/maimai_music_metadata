@@ -13538,7 +13538,9 @@
             "total": 168
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -13557,7 +13559,9 @@
             "total": 295
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -13576,7 +13580,9 @@
             "total": 362
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -13595,7 +13601,9 @@
             "total": 693
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164510,7 +164518,9 @@
             "total": 254
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164529,7 +164539,9 @@
             "total": 405
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164548,7 +164560,9 @@
             "total": 619
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164567,7 +164581,9 @@
             "total": 965
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -164596,7 +164612,9 @@
             "total": 279
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164615,7 +164633,9 @@
             "total": 400
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164634,7 +164654,9 @@
             "total": 586
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164653,7 +164675,9 @@
             "total": 1052
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -164682,7 +164706,9 @@
             "total": 303
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164701,7 +164727,9 @@
             "total": 345
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164720,7 +164748,9 @@
             "total": 633
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -164739,7 +164769,9 @@
             "total": 885
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -165730,7 +165762,9 @@
             "total": 227
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165749,7 +165783,9 @@
             "total": 404
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165768,7 +165804,9 @@
             "total": 642
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165787,7 +165825,9 @@
             "total": 1120
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -165816,7 +165856,9 @@
             "total": 273
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165835,7 +165877,9 @@
             "total": 450
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165854,7 +165898,9 @@
             "total": 734
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165873,7 +165919,9 @@
             "total": 853
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -165988,7 +166036,9 @@
             "total": 204
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166007,7 +166057,9 @@
             "total": 311
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166026,7 +166078,9 @@
             "total": 479
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166045,7 +166099,9 @@
             "total": 745
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166064,7 +166120,9 @@
             "total": 960
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166093,7 +166151,9 @@
             "total": 112
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166112,7 +166172,9 @@
             "total": 208
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166131,7 +166193,9 @@
             "total": 328
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166150,7 +166214,9 @@
             "total": 466
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166179,7 +166245,9 @@
             "total": 189
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166198,7 +166266,9 @@
             "total": 331
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166217,7 +166287,9 @@
             "total": 375
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166236,7 +166308,9 @@
             "total": 641
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166265,7 +166339,9 @@
             "total": 166
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166284,7 +166360,9 @@
             "total": 275
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166303,7 +166381,9 @@
             "total": 420
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166322,7 +166402,9 @@
             "total": 608
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166437,7 +166519,9 @@
             "total": 103
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166456,7 +166540,9 @@
             "total": 209
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166475,7 +166561,9 @@
             "total": 284
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166494,7 +166582,9 @@
             "total": 468
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166523,7 +166613,9 @@
             "total": 174
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166542,7 +166634,9 @@
             "total": 287
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166561,7 +166655,9 @@
             "total": 437
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166580,7 +166676,9 @@
             "total": 824
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166609,7 +166707,9 @@
             "total": 153
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166628,7 +166728,9 @@
             "total": 248
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166647,7 +166749,9 @@
             "total": 473
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166666,7 +166770,9 @@
             "total": 497
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166685,7 +166791,9 @@
             "total": 646
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166714,7 +166822,9 @@
             "total": 246
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166733,7 +166843,9 @@
             "total": 379
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166752,7 +166864,9 @@
             "total": 561
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166771,7 +166885,9 @@
             "total": 741
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166790,7 +166906,9 @@
             "total": 941
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166905,7 +167023,9 @@
             "total": 163
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166924,7 +167044,9 @@
             "total": 302
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166943,7 +167065,9 @@
             "total": 446
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166962,7 +167086,9 @@
             "total": 645
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166991,7 +167117,9 @@
             "total": 197
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167010,7 +167138,9 @@
             "total": 328
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167029,7 +167159,9 @@
             "total": 475
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167048,7 +167180,9 @@
             "total": 907
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -167077,7 +167211,9 @@
             "total": 311
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167096,7 +167232,9 @@
             "total": 394
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167115,7 +167253,9 @@
             "total": 673
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167134,7 +167274,9 @@
             "total": 880
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -169309,7 +169451,9 @@
             "total": 195
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169328,7 +169472,9 @@
             "total": 404
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169347,7 +169493,9 @@
             "total": 532
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169366,7 +169514,9 @@
             "total": 750
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -169547,7 +169697,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -170282,75 +170434,6 @@
       }
     },
     {
-      "id": 110606,
-      "title": "[右]The wheel to the right",
-      "artist": "Sampling Masters MEGA",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【右】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "[右]the wheel to the right",
-          "宴电锯人"
-        ]
-      }
-    },
-    {
-      "id": 110631,
-      "title": "[逆]KING is BACK!!",
-      "artist": "A-One",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【逆】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "[逆]king is back!!"
-        ]
-      }
-    },
-    {
       "id": 110647,
       "title": "[協]エイリアンエイリアン",
       "artist": "ナユタン星人",
@@ -170959,7 +171042,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -171238,7 +171323,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -171266,7 +171353,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -171504,7 +171593,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
