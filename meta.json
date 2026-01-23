@@ -90299,6 +90299,98 @@
             "us",
             "cn"
           ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE",
+          "regionVersionOverride": {
+            "cn": 2021
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "cn"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE",
+          "regionVersionOverride": {
+            "cn": 2021
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "cn"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE",
+          "regionVersionOverride": {
+            "cn": 2021
+          },
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "cn"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE",
+          "regionVersionOverride": {
+            "cn": 2021
+          },
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "cn"
+          ]
         }
       ],
       "aliases": {
@@ -169428,6 +169520,288 @@
       ]
     },
     {
+      "id": 1944,
+      "title": "Restricted Access",
+      "artist": "Knighthood",
+      "bpm": null,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1945,
+      "title": "胡蝶乃舞",
+      "artist": "Srav3R",
+      "bpm": null,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11.6,
+          "version": "CiRCLE",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1946,
+      "title": "零號車輛",
+      "artist": "seatrus",
+      "bpm": 240,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.6,
+          "version": "CiRCLE",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14+",
+          "internalLevel": 14.6,
+          "version": "CiRCLE",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 836,
+            "hold": 83,
+            "slide": 92,
+            "touch": 72,
+            "break": 60,
+            "total": 1143
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
       "id": 1951,
       "title": "サイエンス",
       "artist": "MIMI",
@@ -169562,42 +169936,6 @@
           "宴love you",
           "协爱你",
           "xql"
-        ]
-      }
-    },
-    {
-      "id": 100022,
-      "title": "[蔵]In Chaos",
-      "artist": "Hiro「Crackin’DJ」",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【蔵】",
-          "internalLevel": 14.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "[蔵]in chaos",
-          "宴超市",
-          "藏超市"
         ]
       }
     },
