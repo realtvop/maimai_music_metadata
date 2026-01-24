@@ -90312,12 +90312,12 @@
           },
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 141,
+            "hold": 12,
+            "slide": 4,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 13,
+            "total": 170
           },
           "availableRegions": [
             "jp",
@@ -90335,12 +90335,12 @@
           },
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 246,
+            "hold": 18,
+            "slide": 6,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 14,
+            "total": 284
           },
           "availableRegions": [
             "jp",
@@ -90356,14 +90356,14 @@
           "regionVersionOverride": {
             "cn": 2021
           },
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 331,
+            "hold": 59,
+            "slide": 22,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 35,
+            "total": 447
           },
           "availableRegions": [
             "jp",
@@ -90379,14 +90379,14 @@
           "regionVersionOverride": {
             "cn": 2021
           },
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 579,
+            "hold": 33,
+            "slide": 118,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 88,
+            "total": 818
           },
           "availableRegions": [
             "jp",
@@ -169573,7 +169573,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13,
+          "internalLevel": 13.3,
           "version": "CiRCLE",
           "noteDesigner": "はっぴー(INFP)",
           "noteCounts": {
@@ -169594,7 +169594,7 @@
       "id": 1944,
       "title": "Restricted Access",
       "artist": "Knighthood",
-      "bpm": null,
+      "bpm": 185,
       "category": "ゲーム＆バラエティ",
       "isLocked": false,
       "charts": [
@@ -169606,12 +169606,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 172,
+            "hold": 15,
+            "slide": 4,
+            "touch": 20,
+            "break": 6,
+            "total": 217
           },
           "availableRegions": [
             "jp",
@@ -169627,12 +169627,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 312,
+            "hold": 13,
+            "slide": 11,
+            "touch": 45,
+            "break": 8,
+            "total": 389
           },
           "availableRegions": [
             "jp",
@@ -169646,14 +169646,14 @@
           "level": "11",
           "internalLevel": 11,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "アマリリス",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 309,
+            "hold": 58,
+            "slide": 38,
+            "touch": 72,
+            "break": 58,
+            "total": 535
           },
           "availableRegions": [
             "jp",
@@ -169665,16 +169665,16 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.6,
+          "internalLevel": 13.8,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 556,
+            "hold": 68,
+            "slide": 98,
+            "touch": 165,
+            "break": 33,
+            "total": 920
           },
           "availableRegions": [
             "jp",
@@ -169688,7 +169688,7 @@
       "id": 1945,
       "title": "胡蝶乃舞",
       "artist": "Srav3R",
-      "bpm": null,
+      "bpm": 180,
       "category": "ゲーム＆バラエティ",
       "isLocked": false,
       "charts": [
@@ -169700,12 +169700,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 177,
+            "hold": 10,
+            "slide": 4,
+            "touch": 8,
+            "break": 7,
+            "total": 206
           },
           "availableRegions": [
             "jp",
@@ -169721,12 +169721,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 266,
+            "hold": 17,
+            "slide": 6,
+            "touch": 23,
+            "break": 6,
+            "total": 318
           },
           "availableRegions": [
             "jp",
@@ -169740,14 +169740,14 @@
           "level": "11+",
           "internalLevel": 11.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 345,
+            "hold": 65,
+            "slide": 61,
+            "touch": 17,
+            "break": 38,
+            "total": 526
           },
           "availableRegions": [
             "jp",
@@ -169759,16 +169759,16 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.6,
+          "internalLevel": 13.9,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "じゃこレモン",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 632,
+            "hold": 45,
+            "slide": 96,
+            "touch": 20,
+            "break": 38,
+            "total": 832
           },
           "availableRegions": [
             "jp",
@@ -169794,12 +169794,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 263,
+            "hold": 15,
+            "slide": 8,
+            "touch": 7,
+            "break": 10,
+            "total": 303
           },
           "availableRegions": [
             "jp",
@@ -169815,12 +169815,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 354,
+            "hold": 17,
+            "slide": 13,
+            "touch": 16,
+            "break": 10,
+            "total": 410
           },
           "availableRegions": [
             "jp",
@@ -169832,16 +169832,16 @@
           "type": "dx",
           "difficulty": 2,
           "level": "12+",
-          "internalLevel": 12.6,
+          "internalLevel": 12.8,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 460,
+            "hold": 63,
+            "slide": 34,
+            "touch": 38,
+            "break": 61,
+            "total": 656
           },
           "availableRegions": [
             "jp",
