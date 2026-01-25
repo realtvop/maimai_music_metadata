@@ -160704,7 +160704,8 @@
           },
           "availableRegions": [
             "jp",
-            "intl"
+            "intl",
+            "us"
           ]
         },
         {
@@ -160724,7 +160725,8 @@
           },
           "availableRegions": [
             "jp",
-            "intl"
+            "intl",
+            "us"
           ]
         },
         {
@@ -160744,7 +160746,8 @@
           },
           "availableRegions": [
             "jp",
-            "intl"
+            "intl",
+            "us"
           ]
         },
         {
@@ -160764,7 +160767,8 @@
           },
           "availableRegions": [
             "jp",
-            "intl"
+            "intl",
+            "us"
           ]
         }
       ]
@@ -169990,8 +169994,7 @@
           },
           "availableRegions": [
             "jp",
-            "intl",
-            "us"
+            "intl"
           ]
         }
       ],
@@ -170976,8 +170979,7 @@
           },
           "availableRegions": [
             "jp",
-            "intl",
-            "us"
+            "intl"
           ]
         }
       ]
@@ -171532,8 +171534,7 @@
           },
           "availableRegions": [
             "jp",
-            "intl",
-            "us"
+            "intl"
           ]
         }
       ],
