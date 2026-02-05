@@ -6873,7 +6873,7 @@
           "version": "maimai PLUS",
           "noteDesigner": "Safata.Hz",
           "noteCounts": {
-            "tap": 502,
+            "tap": 512,
             "hold": 48,
             "slide": 54,
             "touch": null,
@@ -85854,7 +85854,7 @@
           },
           "noteDesigner": "じゃこレモン",
           "noteCounts": {
-            "tap": 517,
+            "tap": 617,
             "hold": 54,
             "slide": 96,
             "touch": 17,
@@ -168844,7 +168844,7 @@
             "tap": 484,
             "hold": 59,
             "slide": 87,
-            "touch": 63,
+            "touch": 64,
             "break": 48,
             "total": 742
           },
@@ -169615,7 +169615,7 @@
           "version": "CiRCLE",
           "noteDesigner": "Jack",
           "noteCounts": {
-            "tap": 504,
+            "tap": 503,
             "hold": 86,
             "slide": 69,
             "touch": 36,
@@ -170044,7 +170044,7 @@
             "tap": 661,
             "hold": 121,
             "slide": 80,
-            "touch": 40,
+            "touch": 44,
             "break": 100,
             "total": 1006
           },
@@ -170315,7 +170315,7 @@
           "noteCounts": {
             "tap": 632,
             "hold": 45,
-            "slide": 96,
+            "slide": 97,
             "touch": 20,
             "break": 38,
             "total": 832
