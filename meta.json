@@ -169504,7 +169504,9 @@
             "total": 218
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169523,7 +169525,9 @@
             "total": 324
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169542,7 +169546,9 @@
             "total": 519
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169561,7 +169567,9 @@
             "total": 924
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -170611,6 +170619,7 @@
           "difficulty": 0,
           "level": "6",
           "internalLevel": 6,
+          "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 253,
@@ -170629,6 +170638,7 @@
           "difficulty": 1,
           "level": "8",
           "internalLevel": 8,
+          "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 322,
@@ -170647,6 +170657,7 @@
           "difficulty": 2,
           "level": "12+",
           "internalLevel": 12.6,
+          "version": "CiRCLE",
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 542,
@@ -170665,6 +170676,7 @@
           "difficulty": 3,
           "level": "14",
           "internalLevel": 14.5,
+          "version": "CiRCLE",
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 661,
@@ -171121,18 +171133,18 @@
       }
     },
     {
-      "id": 1950,
-      "title": "ラプラスショコラ",
-      "artist": "Kai",
-      "bpm": null,
-      "category": "niconico＆ボーカロイド",
+      "id": 1947,
+      "title": "恋の氷結おてんば湯けむりチルノ温泉",
+      "artist": "uno×夕野ヨシミ feat. miko",
+      "bpm": 188,
+      "category": "東方Project",
       "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
-          "level": "2",
-          "internalLevel": 2,
+          "level": "3",
+          "internalLevel": 3,
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
@@ -171141,7 +171153,7 @@
             "slide": null,
             "touch": null,
             "break": null,
-            "total": null
+            "total": 140
           },
           "availableRegions": [
             "jp"
@@ -171150,8 +171162,8 @@
         {
           "type": "dx",
           "difficulty": 1,
-          "level": "6",
-          "internalLevel": 6,
+          "level": "7",
+          "internalLevel": 7,
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
@@ -171160,7 +171172,7 @@
             "slide": null,
             "touch": null,
             "break": null,
-            "total": null
+            "total": 242
           },
           "availableRegions": [
             "jp"
@@ -171169,8 +171181,8 @@
         {
           "type": "dx",
           "difficulty": 2,
-          "level": "9+",
-          "internalLevel": 9.6,
+          "level": "10+",
+          "internalLevel": 10.6,
           "version": "CiRCLE",
           "noteDesigner": null,
           "noteCounts": {
@@ -171179,7 +171191,93 @@
             "slide": null,
             "touch": null,
             "break": null,
-            "total": null
+            "total": 365
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "CiRCLE",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 411,
+            "hold": 58,
+            "slide": 73,
+            "touch": 44,
+            "break": 34,
+            "total": 620
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1948,
+      "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+      "artist": "七条レタスグループ",
+      "bpm": 112,
+      "category": "東方Project",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "1",
+          "internalLevel": 1,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 125
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 238
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9",
+          "internalLevel": 9,
+          "version": "CiRCLE",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 355
           },
           "availableRegions": [
             "jp"
@@ -171191,6 +171289,73 @@
           "level": "12+",
           "internalLevel": 12.6,
           "version": "CiRCLE",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 297,
+            "hold": 15,
+            "slide": 54,
+            "touch": 744,
+            "break": 29,
+            "total": 1139
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1949,
+      "title": "むしみこうにゃーのハッピッピー",
+      "artist": "ARM×狐夢想 feat. miko×山本椛",
+      "bpm": null,
+      "category": "東方Project",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 172
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 281
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE",
           "noteDesigner": null,
           "noteCounts": {
             "tap": null,
@@ -171198,10 +171363,123 @@
             "slide": null,
             "touch": null,
             "break": null,
-            "total": null
+            "total": 511
           },
           "availableRegions": [
             "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE",
+          "noteDesigner": "じゃこレモン",
+          "noteCounts": {
+            "tap": 474,
+            "hold": 38,
+            "slide": 130,
+            "touch": 31,
+            "break": 56,
+            "total": 729
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1950,
+      "title": "ラプラスショコラ",
+      "artist": "Kai",
+      "bpm": 130,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 130,
+            "hold": 11,
+            "slide": 6,
+            "touch": 7,
+            "break": 4,
+            "total": 158
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 211,
+            "hold": 18,
+            "slide": 8,
+            "touch": 11,
+            "break": 6,
+            "total": 254
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "CiRCLE",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 276,
+            "hold": 37,
+            "slide": 54,
+            "touch": 16,
+            "break": 20,
+            "total": 403
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.9,
+          "version": "CiRCLE",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 488,
+            "hold": 42,
+            "slide": 135,
+            "touch": 9,
+            "break": 17,
+            "total": 691
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
