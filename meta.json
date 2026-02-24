@@ -165746,7 +165746,9 @@
             "total": 270
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165765,7 +165767,9 @@
             "total": 407
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165784,7 +165788,9 @@
             "total": 583
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -165803,7 +165809,9 @@
             "total": 879
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -171155,11 +171163,11 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 109,
+            "hold": 9,
+            "slide": 6,
+            "touch": 13,
+            "break": 3,
             "total": 140
           },
           "availableRegions": [
@@ -171174,11 +171182,11 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 216,
+            "hold": 12,
+            "slide": 5,
+            "touch": 7,
+            "break": 2,
             "total": 242
           },
           "availableRegions": [
@@ -171191,13 +171199,13 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "ロシェ@ペンギン",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 243,
+            "hold": 43,
+            "slide": 43,
+            "touch": 18,
+            "break": 18,
             "total": 365
           },
           "availableRegions": [
@@ -171208,7 +171216,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13,
+          "internalLevel": 13.3,
           "version": "CiRCLE",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -171241,11 +171249,11 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 92,
+            "hold": 13,
+            "slide": 4,
+            "touch": 11,
+            "break": 5,
             "total": 125
           },
           "availableRegions": [
@@ -171260,11 +171268,11 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 184,
+            "hold": 14,
+            "slide": 6,
+            "touch": 26,
+            "break": 8,
             "total": 238
           },
           "availableRegions": [
@@ -171277,13 +171285,13 @@
           "level": "9",
           "internalLevel": 9,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 217,
+            "hold": 42,
+            "slide": 37,
+            "touch": 10,
+            "break": 49,
             "total": 355
           },
           "availableRegions": [
@@ -171294,7 +171302,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "12+",
-          "internalLevel": 12.6,
+          "internalLevel": 12.8,
           "version": "CiRCLE",
           "noteDesigner": "はっぴー",
           "noteCounts": {
@@ -171315,7 +171323,7 @@
       "id": 1949,
       "title": "むしみこうにゃーのハッピッピー",
       "artist": "ARM×狐夢想 feat. miko×山本椛",
-      "bpm": null,
+      "bpm": 225,
       "category": "東方Project",
       "isLocked": false,
       "charts": [
@@ -171327,11 +171335,11 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 139,
+            "hold": 14,
+            "slide": 4,
+            "touch": 9,
+            "break": 6,
             "total": 172
           },
           "availableRegions": [
@@ -171346,11 +171354,11 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 239,
+            "hold": 17,
+            "slide": 8,
+            "touch": 11,
+            "break": 6,
             "total": 281
           },
           "availableRegions": [
@@ -171363,13 +171371,13 @@
           "level": "11",
           "internalLevel": 11,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 315,
+            "hold": 75,
+            "slide": 16,
+            "touch": 10,
+            "break": 95,
             "total": 511
           },
           "availableRegions": [
