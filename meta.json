@@ -4455,7 +4455,9 @@
             "total": 169
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -4474,7 +4476,9 @@
             "total": 278
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -4493,7 +4497,9 @@
             "total": 441
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -4512,7 +4518,9 @@
             "total": 647
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169262,7 +169270,9 @@
             "total": 134
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169281,7 +169291,9 @@
             "total": 280
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169300,7 +169312,9 @@
             "total": 433
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169319,7 +169333,9 @@
             "total": 623
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -169348,7 +169364,9 @@
             "total": 140
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169367,7 +169385,9 @@
             "total": 240
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169386,7 +169406,9 @@
             "total": 384
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -169405,7 +169427,9 @@
             "total": 532
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
