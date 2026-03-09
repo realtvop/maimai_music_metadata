@@ -167668,12 +167668,12 @@
           "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 320,
+            "hold": 14,
+            "slide": 7,
+            "touch": 24,
+            "break": 10,
+            "total": 375
           },
           "availableRegions": [
             "jp"
@@ -167687,12 +167687,12 @@
           "version": "CiRCLE",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 371,
+            "hold": 72,
+            "slide": 70,
+            "touch": 48,
+            "break": 31,
+            "total": 592
           },
           "availableRegions": [
             "jp"
