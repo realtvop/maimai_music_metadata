@@ -12982,6 +12982,92 @@
       }
     },
     {
+      "id": 192,
+      "title": "SPiCa",
+      "artist": "とくP",
+      "bpm": 162,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "GreeN PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 147,
+            "hold": 6,
+            "slide": 7,
+            "touch": null,
+            "break": 6,
+            "total": 166
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "GreeN PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 253,
+            "hold": 20,
+            "slide": 18,
+            "touch": null,
+            "break": 11,
+            "total": 302
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "GreeN PLUS",
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 233,
+            "hold": 52,
+            "slide": 52,
+            "touch": null,
+            "break": 7,
+            "total": 344
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "GreeN PLUS",
+          "noteDesigner": "mai-Star",
+          "noteCounts": {
+            "tap": 320,
+            "hold": 10,
+            "slide": 129,
+            "touch": null,
+            "break": 14,
+            "total": 473
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 193,
       "title": "セツナトリップ",
       "artist": "Last Note.",
@@ -32686,6 +32772,92 @@
       ]
     },
     {
+      "id": 410,
+      "title": "どういうことなの！？",
+      "artist": "くちばしP",
+      "bpm": 175,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "ORANGE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 178,
+            "hold": 6,
+            "slide": 1,
+            "touch": null,
+            "break": 5,
+            "total": 190
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "ORANGE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 231,
+            "hold": 45,
+            "slide": 19,
+            "touch": null,
+            "break": 12,
+            "total": 307
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "ORANGE PLUS",
+          "noteDesigner": "rioN",
+          "noteCounts": {
+            "tap": 417,
+            "hold": 24,
+            "slide": 39,
+            "touch": null,
+            "break": 9,
+            "total": 489
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "ORANGE PLUS",
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 452,
+            "hold": 65,
+            "slide": 69,
+            "touch": null,
+            "break": 8,
+            "total": 594
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 411,
       "title": "初音ミクの消失",
       "artist": "cosMo＠暴走P",
@@ -40287,6 +40459,92 @@
             "touch": null,
             "break": 20,
             "total": 855
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "title": "ココロ",
+      "artist": "トラボルタ",
+      "bpm": 140,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MURASAKi",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 178,
+            "hold": 15,
+            "slide": 5,
+            "touch": null,
+            "break": 8,
+            "total": 206
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "MURASAKi",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 264,
+            "hold": 38,
+            "slide": 19,
+            "touch": null,
+            "break": 6,
+            "total": 327
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "MURASAKi",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 295,
+            "hold": 58,
+            "slide": 58,
+            "touch": null,
+            "break": 5,
+            "total": 416
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12.5,
+          "version": "MURASAKi",
+          "noteDesigner": "rioN",
+          "noteCounts": {
+            "tap": 366,
+            "hold": 48,
+            "slide": 142,
+            "touch": null,
+            "break": 10,
+            "total": 566
           },
           "availableRegions": [
             "jp"
@@ -53790,6 +54048,92 @@
             "touch": null,
             "break": 41,
             "total": 721
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "title": "好き！雪！本気マジック",
+      "artist": "Mitchie M",
+      "bpm": 167,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MiLK",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 186,
+            "hold": 8,
+            "slide": 9,
+            "touch": null,
+            "break": 2,
+            "total": 205
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "MiLK",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 349,
+            "hold": 21,
+            "slide": 21,
+            "touch": null,
+            "break": 4,
+            "total": 395
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "MiLK",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 416,
+            "hold": 65,
+            "slide": 31,
+            "touch": null,
+            "break": 12,
+            "total": 524
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12.5,
+          "version": "MiLK",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 494,
+            "hold": 53,
+            "slide": 122,
+            "touch": null,
+            "break": 17,
+            "total": 686
           },
           "availableRegions": [
             "jp"
@@ -67302,6 +67646,216 @@
           "你们怎么解读出我和他切割的"
         ]
       }
+    },
+    {
+      "id": 826,
+      "title": "キミとボクのミライ",
+      "artist": "ジータ（CV:金元寿子）、ルリア（CV:東山奈央）、ヴィーラ（CV:今井麻美）、マリー（CV:長谷川明子）",
+      "bpm": 178,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "FiNALE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 132,
+            "hold": 7,
+            "slide": 5,
+            "touch": null,
+            "break": 2,
+            "total": 146
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "FiNALE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 263,
+            "hold": 8,
+            "slide": 17,
+            "touch": null,
+            "break": 6,
+            "total": 294
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "FiNALE",
+          "noteDesigner": "某S氏",
+          "noteCounts": {
+            "tap": 285,
+            "hold": 33,
+            "slide": 50,
+            "touch": null,
+            "break": 10,
+            "total": 378
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "FiNALE",
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 414,
+            "hold": 12,
+            "slide": 87,
+            "touch": null,
+            "break": 4,
+            "total": 517
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 4,
+          "level": "12+",
+          "internalLevel": 12.7,
+          "version": "FiNALE",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 455,
+            "hold": 34,
+            "slide": 96,
+            "touch": null,
+            "break": 18,
+            "total": 603
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "title": "Lost Princess",
+      "artist": "ペコリーヌ（CV：M・A・O）、コッコロ（CV：伊藤美来）、キャル（CV：立花理香）",
+      "bpm": 150,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "FiNALE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 87,
+            "hold": 14,
+            "slide": 6,
+            "touch": null,
+            "break": 2,
+            "total": 109
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "FiNALE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 152,
+            "hold": 17,
+            "slide": 15,
+            "touch": null,
+            "break": 12,
+            "total": 196
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "FiNALE",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 247,
+            "hold": 16,
+            "slide": 40,
+            "touch": null,
+            "break": 11,
+            "total": 314
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "FiNALE",
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 276,
+            "hold": 15,
+            "slide": 75,
+            "touch": null,
+            "break": 6,
+            "total": 372
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 4,
+          "level": "12",
+          "internalLevel": 12.5,
+          "version": "FiNALE",
+          "noteDesigner": "某S氏",
+          "noteCounts": {
+            "tap": 249,
+            "hold": 36,
+            "slide": 70,
+            "touch": null,
+            "break": 13,
+            "total": 368
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
     },
     {
       "id": 829,
@@ -103606,6 +104160,454 @@
       }
     },
     {
+      "id": 1321,
+      "title": "夜に駆ける",
+      "artist": "YOASOBI",
+      "bpm": 130,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 95,
+            "hold": 6,
+            "slide": 8,
+            "touch": 9,
+            "break": 2,
+            "total": 120
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 280,
+            "hold": 15,
+            "slide": 15,
+            "touch": 8,
+            "break": 5,
+            "total": 323
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "みそかつ侍",
+          "noteCounts": {
+            "tap": 303,
+            "hold": 62,
+            "slide": 36,
+            "touch": 43,
+            "break": 20,
+            "total": 464
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 512,
+            "hold": 51,
+            "slide": 88,
+            "touch": 20,
+            "break": 13,
+            "total": 684
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13",
+          "internalLevel": 12.8,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "隅田川星人",
+          "noteCounts": {
+            "tap": 632,
+            "hold": 61,
+            "slide": 87,
+            "touch": 27,
+            "break": 17,
+            "total": 824
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "夜驱",
+          "向夜晚奔去"
+        ]
+      }
+    },
+    {
+      "id": 1322,
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "bpm": 178,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 89,
+            "hold": 17,
+            "slide": 4,
+            "touch": 17,
+            "break": 6,
+            "total": 133
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 272,
+            "hold": 28,
+            "slide": 19,
+            "touch": 6,
+            "break": 17,
+            "total": 342
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "隅田川星人",
+          "noteCounts": {
+            "tap": 320,
+            "hold": 56,
+            "slide": 40,
+            "touch": 68,
+            "break": 26,
+            "total": 510
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11+",
+          "internalLevel": 11.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 537,
+            "hold": 40,
+            "slide": 115,
+            "touch": 36,
+            "break": 19,
+            "total": 747
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "あまくちジンジャー＠やべー新人",
+          "noteCounts": {
+            "tap": 438,
+            "hold": 60,
+            "slide": 115,
+            "touch": 102,
+            "break": 76,
+            "total": 791
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "吵死了",
+          "烦死了"
+        ]
+      }
+    },
+    {
+      "id": 1323,
+      "title": "Shooting Stars",
+      "artist": "クレシェンドブルー [最上静香 (CV.田所あずさ)、北上麗花 (CV.平山笑美)、北沢志保 (CV.雨宮 天)、野々原 茜 (CV.小笠原早紀)、箱崎星梨花 (CV.麻倉もも)]",
+      "bpm": 150,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 69,
+            "hold": 12,
+            "slide": 4,
+            "touch": 8,
+            "break": 2,
+            "total": 95
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 205,
+            "hold": 21,
+            "slide": 22,
+            "touch": 7,
+            "break": 8,
+            "total": 263
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 216,
+            "hold": 59,
+            "slide": 37,
+            "touch": 18,
+            "break": 6,
+            "total": 336
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12.5,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "隅田川星人",
+          "noteCounts": {
+            "tap": 481,
+            "hold": 49,
+            "slide": 81,
+            "touch": 5,
+            "break": 26,
+            "total": 642
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1324,
+      "title": "MOON NIGHTのせいにして",
+      "artist": "DRAMATIC STARS [天道 輝 (CV.仲村宗悟), 桜庭 薫 (CV.内田雄馬), 柏木 翼 (CV.八代 拓)]",
+      "bpm": 141,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 76,
+            "hold": 9,
+            "slide": 3,
+            "touch": 8,
+            "break": 1,
+            "total": 97
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 211,
+            "hold": 16,
+            "slide": 6,
+            "touch": 21,
+            "break": 14,
+            "total": 268
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "隅田川星人",
+          "noteCounts": {
+            "tap": 242,
+            "hold": 53,
+            "slide": 25,
+            "touch": 14,
+            "break": 12,
+            "total": 346
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 406,
+            "hold": 47,
+            "slide": 95,
+            "touch": 14,
+            "break": 6,
+            "total": 568
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ]
+    },
+    {
       "id": 1325,
       "title": "テレキャスタービーボーイ",
       "artist": "すりぃ",
@@ -105990,6 +106992,213 @@
       }
     },
     {
+      "id": 1347,
+      "title": "泥の分際で私だけの大切を奪おうだなんて",
+      "artist": "ツユ",
+      "bpm": 225,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 101,
+            "hold": 7,
+            "slide": 2,
+            "touch": 6,
+            "break": 5,
+            "total": 121
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 279,
+            "hold": 37,
+            "slide": 19,
+            "touch": 13,
+            "break": 7,
+            "total": 355
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "翠楼屋",
+          "noteCounts": {
+            "tap": 482,
+            "hold": 32,
+            "slide": 36,
+            "touch": 3,
+            "break": 37,
+            "total": 590
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 522,
+            "hold": 76,
+            "slide": 137,
+            "touch": 52,
+            "break": 37,
+            "total": 824
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "泥分大切",
+          "泥歌",
+          "泥分",
+          "烂泥",
+          "泥分切",
+          "泥的分际",
+          "泥分际"
+        ]
+      }
+    },
+    {
+      "id": 1348,
+      "title": "VOLTAGE",
+      "artist": "Rain Drops",
+      "bpm": 194,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 196,
+            "hold": 6,
+            "slide": 4,
+            "touch": 7,
+            "break": 2,
+            "total": 215
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 370,
+            "hold": 18,
+            "slide": 11,
+            "touch": 13,
+            "break": 2,
+            "total": 414
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "翠楼屋",
+          "noteCounts": {
+            "tap": 481,
+            "hold": 72,
+            "slide": 42,
+            "touch": 31,
+            "break": 19,
+            "total": 645
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 573,
+            "hold": 70,
+            "slide": 161,
+            "touch": 23,
+            "break": 15,
+            "total": 842
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ]
+    },
+    {
       "id": 1349,
       "title": "失敗作少女",
       "artist": "かいりきベア・MARETU feat.初音ミク",
@@ -107803,6 +109012,109 @@
       }
     },
     {
+      "id": 1367,
+      "title": "veil",
+      "artist": "須田景凪",
+      "bpm": 150,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 98,
+            "hold": 2,
+            "slide": 5,
+            "touch": 20,
+            "break": 2,
+            "total": 127
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 186,
+            "hold": 20,
+            "slide": 13,
+            "touch": 21,
+            "break": 8,
+            "total": 248
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "8+",
+          "internalLevel": 8.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "隅田川星人",
+          "noteCounts": {
+            "tap": 262,
+            "hold": 35,
+            "slide": 24,
+            "touch": 30,
+            "break": 13,
+            "total": 364
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.7,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 352,
+            "hold": 66,
+            "slide": 116,
+            "touch": 22,
+            "break": 20,
+            "total": 576
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "苹果"
+        ]
+      }
+    },
+    {
       "id": 1369,
       "title": "廻廻奇譚",
       "artist": "Eve TVアニメ「呪術廻戦」第1クールオープニングテーマ",
@@ -107947,6 +109259,104 @@
           "回回奇谭"
         ]
       }
+    },
+    {
+      "id": 1370,
+      "title": "さんさーら！",
+      "artist": "ARuFa",
+      "bpm": 140,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 120,
+            "hold": 13,
+            "slide": 4,
+            "touch": 8,
+            "break": 3,
+            "total": 148
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 269,
+            "hold": 16,
+            "slide": 15,
+            "touch": 20,
+            "break": 4,
+            "total": 324
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "8+",
+          "internalLevel": 8.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 286,
+            "hold": 107,
+            "slide": 15,
+            "touch": 9,
+            "break": 13,
+            "total": 430
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.6,
+          "version": "UNiVERSE",
+          "regionVersionOverride": {
+            "cn": 2022
+          },
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 519,
+            "hold": 47,
+            "slide": 107,
+            "touch": 52,
+            "break": 68,
+            "total": 793
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ]
     },
     {
       "id": 1371,
@@ -111081,6 +112491,111 @@
       }
     },
     {
+      "id": 1396,
+      "title": "テリトリーバトル",
+      "artist": "ツユ",
+      "bpm": 140,
+      "category": "オンゲキ＆CHUNITHM",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 170,
+            "hold": 5,
+            "slide": 3,
+            "touch": 16,
+            "break": 15,
+            "total": 209
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 258,
+            "hold": 21,
+            "slide": 16,
+            "touch": 11,
+            "break": 10,
+            "total": 316
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 427,
+            "hold": 50,
+            "slide": 43,
+            "touch": 10,
+            "break": 12,
+            "total": 542
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "アミノハバキリ",
+          "noteCounts": {
+            "tap": 671,
+            "hold": 36,
+            "slide": 98,
+            "touch": 37,
+            "break": 26,
+            "total": 868
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "领土战争",
+          "小男娘",
+          "奈伊"
+        ]
+      }
+    },
+    {
       "id": 1398,
       "title": "Good bye, Merry-Go-Round.",
       "artist": "Yooh",
@@ -111959,6 +113474,239 @@
           "咱家那超级大串",
           "工一夕",
           "ἥβη"
+        ]
+      }
+    },
+    {
+      "id": 1407,
+      "title": "くらべられっ子",
+      "artist": "ツユ",
+      "bpm": 194,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 81,
+            "hold": 18,
+            "slide": 3,
+            "touch": 6,
+            "break": 2,
+            "total": 110
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 241,
+            "hold": 27,
+            "slide": 20,
+            "touch": 16,
+            "break": 3,
+            "total": 307
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.8,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "翠楼屋",
+          "noteCounts": {
+            "tap": 269,
+            "hold": 53,
+            "slide": 20,
+            "touch": 16,
+            "break": 21,
+            "total": 379
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11",
+          "internalLevel": 11.5,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 376,
+            "hold": 43,
+            "slide": 85,
+            "touch": 12,
+            "break": 11,
+            "total": 527
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 416,
+            "hold": 64,
+            "slide": 116,
+            "touch": 17,
+            "break": 15,
+            "total": 628
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "比较子",
+          "比较的孩子",
+          "被比较的孩子",
+          "日服第一男刀"
+        ]
+      }
+    },
+    {
+      "id": 1408,
+      "title": "あの世行きのバスに乗ってさらば。",
+      "artist": "ツユ",
+      "bpm": 240,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 84,
+            "hold": 16,
+            "slide": 7,
+            "touch": 8,
+            "break": 5,
+            "total": 120
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 240,
+            "hold": 37,
+            "slide": 12,
+            "touch": 32,
+            "break": 11,
+            "total": 332
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "翠楼屋",
+          "noteCounts": {
+            "tap": 380,
+            "hold": 41,
+            "slide": 24,
+            "touch": 13,
+            "break": 28,
+            "total": 486
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "すきやき奉行",
+          "noteCounts": {
+            "tap": 462,
+            "hold": 63,
+            "slide": 71,
+            "touch": 38,
+            "break": 64,
+            "total": 698
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "世行",
+          "巴士酱",
+          "地雷女"
         ]
       }
     },
@@ -112874,6 +114622,213 @@
           "昆虫学家法布尔",
           "室内系武士",
           "毛毛虫之歌"
+        ]
+      }
+    },
+    {
+      "id": 1420,
+      "title": "Photon Melodies",
+      "artist": "Photon Maiden",
+      "bpm": 128,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 106,
+            "hold": 8,
+            "slide": 3,
+            "touch": 0,
+            "break": 3,
+            "total": 120
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 116,
+            "hold": 16,
+            "slide": 14,
+            "touch": 27,
+            "break": 10,
+            "total": 183
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 222,
+            "hold": 86,
+            "slide": 23,
+            "touch": 18,
+            "break": 12,
+            "total": 361
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 359,
+            "hold": 26,
+            "slide": 121,
+            "touch": 54,
+            "break": 15,
+            "total": 575
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "光子旋律"
+        ]
+      }
+    },
+    {
+      "id": 1421,
+      "title": "吾輩よ猫であれ",
+      "artist": "Lyrical Lily",
+      "bpm": 136,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 103,
+            "hold": 7,
+            "slide": 3,
+            "touch": 7,
+            "break": 1,
+            "total": 121
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 169,
+            "hold": 23,
+            "slide": 10,
+            "touch": 25,
+            "break": 4,
+            "total": 231
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "8+",
+          "internalLevel": 8.6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 223,
+            "hold": 72,
+            "slide": 22,
+            "touch": 25,
+            "break": 6,
+            "total": 348
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12.2,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 377,
+            "hold": 56,
+            "slide": 90,
+            "touch": 27,
+            "break": 8,
+            "total": 558
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "我是猫",
+          "我们是猫"
         ]
       }
     },
@@ -113869,6 +115824,213 @@
           "马达加斯加",
           "爱的主题坏屁股",
           "小绿人"
+        ]
+      }
+    },
+    {
+      "id": 1430,
+      "title": "オントロジー",
+      "artist": "Rain Drops",
+      "bpm": 192,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 103,
+            "hold": 4,
+            "slide": 6,
+            "touch": 15,
+            "break": 3,
+            "total": 131
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 329,
+            "hold": 15,
+            "slide": 13,
+            "touch": 15,
+            "break": 10,
+            "total": 382
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 449,
+            "hold": 39,
+            "slide": 24,
+            "touch": 16,
+            "break": 14,
+            "total": 542
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 479,
+            "hold": 30,
+            "slide": 149,
+            "touch": 20,
+            "break": 24,
+            "total": 702
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "存在论"
+        ]
+      }
+    },
+    {
+      "id": 1431,
+      "title": "剣を抜け！GCCX MAX",
+      "artist": "メッセメッセクラブ",
+      "bpm": 96,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 143,
+            "hold": 5,
+            "slide": 5,
+            "touch": 9,
+            "break": 8,
+            "total": 170
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 181,
+            "hold": 20,
+            "slide": 8,
+            "touch": 66,
+            "break": 16,
+            "total": 291
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9",
+          "internalLevel": 9,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 218,
+            "hold": 114,
+            "slide": 44,
+            "touch": 17,
+            "break": 32,
+            "total": 425
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.9,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "ぴちネコ",
+          "noteCounts": {
+            "tap": 359,
+            "hold": 96,
+            "slide": 101,
+            "touch": 168,
+            "break": 64,
+            "total": 788
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "gccx",
+          "拔剑"
         ]
       }
     },
@@ -115846,6 +118008,104 @@
           "东云彰人"
         ]
       }
+    },
+    {
+      "id": 1450,
+      "title": "YONA YONA DANCE",
+      "artist": "和田アキ子",
+      "bpm": 145,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "1",
+          "internalLevel": 1,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 72,
+            "hold": 8,
+            "slide": 7,
+            "touch": 8,
+            "break": 3,
+            "total": 98
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 260,
+            "hold": 26,
+            "slide": 9,
+            "touch": 11,
+            "break": 12,
+            "total": 318
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9",
+          "internalLevel": 9,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "隅田川星人",
+          "noteCounts": {
+            "tap": 280,
+            "hold": 93,
+            "slide": 23,
+            "touch": 96,
+            "break": 12,
+            "total": 504
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12.5,
+          "version": "UNiVERSE PLUS",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 404,
+            "hold": 67,
+            "slide": 116,
+            "touch": 53,
+            "break": 27,
+            "total": 667
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ]
     },
     {
       "id": 1451,
@@ -119672,6 +121932,112 @@
       }
     },
     {
+      "id": 1484,
+      "title": "残響散歌",
+      "artist": "Aimer",
+      "bpm": 171,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 117,
+            "hold": 12,
+            "slide": 4,
+            "touch": 22,
+            "break": 7,
+            "total": 162
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 295,
+            "hold": 17,
+            "slide": 7,
+            "touch": 46,
+            "break": 8,
+            "total": 373
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.7,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "翠楼屋",
+          "noteCounts": {
+            "tap": 370,
+            "hold": 57,
+            "slide": 50,
+            "touch": 32,
+            "break": 38,
+            "total": 547
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 657,
+            "hold": 38,
+            "slide": 199,
+            "touch": 22,
+            "break": 23,
+            "total": 939
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "残響散歌",
+          "散歌",
+          "残响",
+          "残响散歌"
+        ]
+      }
+    },
+    {
       "id": 1485,
       "title": "フォニイ",
       "artist": "ツミキ　feat.音楽的同位体　可不（KAFU）",
@@ -121164,6 +123530,114 @@
           "dr",
           "命运跑者",
           "命运奔跑者"
+        ]
+      }
+    },
+    {
+      "id": 1497,
+      "title": "アマカミサマ",
+      "artist": "名取さな",
+      "bpm": 174,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 118,
+            "hold": 11,
+            "slide": 3,
+            "touch": 8,
+            "break": 2,
+            "total": 142
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 252,
+            "hold": 31,
+            "slide": 11,
+            "touch": 26,
+            "break": 6,
+            "total": 326
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9",
+          "internalLevel": 9,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 345,
+            "hold": 42,
+            "slide": 26,
+            "touch": 6,
+            "break": 10,
+            "total": 429
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.7,
+          "version": "FESTiVAL",
+          "regionVersionOverride": {
+            "cn": 2023
+          },
+          "noteDesigner": "アマリリスせんせえ",
+          "noteCounts": {
+            "tap": 390,
+            "hold": 70,
+            "slide": 79,
+            "touch": 145,
+            "break": 17,
+            "total": 701
+          },
+          "availableRegions": [
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "アマカミサマ",
+          "天神",
+          "amakamisama",
+          "天神大人",
+          "美少女跳楼",
+          "阿妈卡密萨马"
         ]
       }
     },
@@ -170068,6 +172542,36 @@
       }
     },
     {
+      "id": 100417,
+      "title": "[習]ウミユリ海底譚",
+      "artist": "n-buna",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【習】",
+          "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
       "id": 100456,
       "title": "[蔵]Glorious Crown",
       "artist": "xi",
@@ -170295,9 +172799,9 @@
       }
     },
     {
-      "id": 100851,
-      "title": "[幸]犬日和。(はっぴー歌唱Ver)",
-      "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+      "id": 100793,
+      "title": "[疑]ロキ",
+      "artist": "みきとP",
       "bpm": null,
       "category": "宴会場",
       "isLocked": false,
@@ -170305,7 +172809,7 @@
         {
           "type": "utage",
           "difficulty": 10,
-          "level": "【幸】",
+          "level": "【疑】",
           "internalLevel": 13,
           "noteDesigner": null,
           "noteCounts": {
@@ -170325,7 +172829,7 @@
       ]
     },
     {
-      "id": 100998,
+      "id": 100846,
       "title": "[宴]Oshama Scramble! (Cranky Remix)",
       "artist": "Cranky",
       "bpm": null,
@@ -170352,12 +172856,7 @@
             "us"
           ]
         }
-      ],
-      "aliases": {
-        "cn": [
-          "[宴]oshama scramble! (cranky remix)"
-        ]
-      }
+      ]
     },
     {
       "id": 110114,
@@ -170491,41 +172990,6 @@
       "aliases": {
         "cn": [
           "[回]ダブルラリアット"
-        ]
-      }
-    },
-    {
-      "id": 110417,
-      "title": "[習]ウミユリ海底譚",
-      "artist": "n-buna",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【習】",
-          "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "[習]ウミユリ海底譚"
         ]
       }
     },
@@ -170666,41 +173130,6 @@
       ]
     },
     {
-      "id": 110793,
-      "title": "[疑]ロキ",
-      "artist": "みきとP",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【疑】",
-          "internalLevel": 13,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "[疑]ロキ"
-        ]
-      }
-    },
-    {
       "id": 111069,
       "title": "[協]太陽系デスコ",
       "artist": "ナユタン星人",
@@ -170777,36 +173206,6 @@
           "difficulty": 10,
           "level": "【奏】",
           "internalLevel": 12.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 111188,
-      "title": "[藍]絶え間なく藍色",
-      "artist": "獅子志司",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【藍】",
-          "internalLevel": 13,
           "noteDesigner": null,
           "noteCounts": {
             "tap": null,
@@ -171420,6 +173819,62 @@
       ]
     },
     {
+      "id": 111634,
+      "title": "[協]青春コンプレックス",
+      "artist": "結束バンド",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111634,
+      "title": "[協]青春コンプレックス",
+      "artist": "結束バンド",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【協】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 111636,
       "title": "[奏]さくゆいたいそう",
       "artist": "さくゆい",
@@ -171673,36 +174128,6 @@
           "[x]人マニア"
         ]
       }
-    },
-    {
-      "id": 111783,
-      "title": "[音]snooze",
-      "artist": "wotaku feat.SHIKI",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【音】",
-          "internalLevel": 13.6,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp",
-            "intl",
-            "us"
-          ]
-        }
-      ]
     },
     {
       "id": 111838,
