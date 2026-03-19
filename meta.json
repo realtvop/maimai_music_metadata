@@ -13872,6 +13872,82 @@
       "isLocked": false,
       "charts": [
         {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
           "type": "sd",
           "difficulty": 0,
           "level": "6",
@@ -41274,111 +41350,6 @@
       }
     },
     {
-      "id": 525,
-      "title": "ブリキノダンス",
-      "artist": "日向電工",
-      "bpm": 172,
-      "category": "niconico＆ボーカロイド",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "sd",
-          "difficulty": 0,
-          "level": "5",
-          "internalLevel": 5,
-          "version": "MiLK PLUS",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 202,
-            "hold": 12,
-            "slide": 8,
-            "touch": null,
-            "break": 6,
-            "total": 228
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 1,
-          "level": "7+",
-          "internalLevel": 7.6,
-          "version": "MiLK PLUS",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 418,
-            "hold": 25,
-            "slide": 6,
-            "touch": null,
-            "break": 11,
-            "total": 460
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 2,
-          "level": "10+",
-          "internalLevel": 10.6,
-          "version": "MiLK PLUS",
-          "noteDesigner": "サファ太",
-          "noteCounts": {
-            "tap": 480,
-            "hold": 53,
-            "slide": 22,
-            "touch": null,
-            "break": 20,
-            "total": 575
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 3,
-          "level": "12",
-          "internalLevel": 12.5,
-          "version": "MiLK PLUS",
-          "noteDesigner": "緑風 犬三郎",
-          "noteCounts": {
-            "tap": 625,
-            "hold": 5,
-            "slide": 116,
-            "touch": null,
-            "break": 6,
-            "total": 752
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 4,
-          "level": "13",
-          "internalLevel": 13.4,
-          "version": "MiLK PLUS",
-          "noteDesigner": "はっぴー",
-          "noteCounts": {
-            "tap": 763,
-            "hold": 32,
-            "slide": 93,
-            "touch": null,
-            "break": 12,
-            "total": 900
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 526,
       "title": "brilliant better",
       "artist": "御形 アリシアナ(CV:福原 綾香)",
@@ -49164,7 +49135,7 @@
     {
       "id": 617,
       "title": "オトヒメモリー☆ウタゲーション",
-      "artist": "Junky",
+      "artist": "Junky feat. 乙姫(CV:浅川悠)",
       "bpm": 140,
       "category": "maimai",
       "isLocked": false,
@@ -81642,7 +81613,7 @@
         {
           "type": "dx",
           "difficulty": 3,
-          "level": "12",
+          "level": "12+",
           "internalLevel": 12.5,
           "version": "maimaiでらっくす PLUS",
           "regionVersionOverride": {
@@ -151721,16 +151692,14 @@
       "artist": "TAKU1175 ft.駄々子",
       "bpm": 178,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "4",
           "internalLevel": 4,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 194,
@@ -151751,9 +151720,7 @@
           "difficulty": 1,
           "level": "8",
           "internalLevel": 8,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 308,
@@ -151774,9 +151741,7 @@
           "difficulty": 2,
           "level": "10+",
           "internalLevel": 10.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 335,
@@ -151797,9 +151762,7 @@
           "difficulty": 3,
           "level": "13+",
           "internalLevel": 13.7,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 590,
@@ -152299,16 +152262,14 @@
       "artist": "大国奏音",
       "bpm": 205,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "7",
           "internalLevel": 7,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 305,
@@ -152329,9 +152290,7 @@
           "difficulty": 1,
           "level": "9+",
           "internalLevel": 9.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 456,
@@ -152352,9 +152311,7 @@
           "difficulty": 2,
           "level": "13",
           "internalLevel": 13.4,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 480,
@@ -152375,9 +152332,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.8,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "BELiZHEL vs 7.3GHz",
           "noteCounts": {
             "tap": 802,
@@ -152727,16 +152682,14 @@
       "artist": "SIINCA",
       "bpm": 190,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "5",
           "internalLevel": 5,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 200,
@@ -152757,9 +152710,7 @@
           "difficulty": 1,
           "level": "8",
           "internalLevel": 8,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 354,
@@ -152780,9 +152731,7 @@
           "difficulty": 2,
           "level": "12",
           "internalLevel": 12.4,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 375,
@@ -152803,9 +152752,7 @@
           "difficulty": 3,
           "level": "14",
           "internalLevel": 14.4,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "BLaCK rOSE dIsEASe pATiENT",
           "noteCounts": {
             "tap": 570,
@@ -153111,16 +153058,14 @@
       "artist": "t+pazolite vs かねこちはる",
       "bpm": 125,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "6",
           "internalLevel": 6,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 263,
@@ -153141,9 +153086,7 @@
           "difficulty": 1,
           "level": "8+",
           "internalLevel": 8.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 416,
@@ -153164,9 +153107,7 @@
           "difficulty": 2,
           "level": "13",
           "internalLevel": 13.5,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 397,
@@ -153187,9 +153128,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.9,
-          "regionVersionOverride": {
-            "intl": "PRiSM"
-          },
+          "version": "PRiSM",
           "noteDesigner": "BELiZHEL vs  Safari",
           "noteCounts": {
             "tap": 725,
@@ -158474,7 +158413,7 @@
       "artist": "owl＊tree feat. べんざ",
       "bpm": 221,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -158568,7 +158507,7 @@
       "artist": "yowanecity feat.Eye",
       "bpm": 164,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -158662,7 +158601,7 @@
       "artist": "EmoCosine",
       "bpm": 155,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -158756,16 +158695,14 @@
       "artist": "ああ…翡翠茶漬け…",
       "bpm": 242,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "6",
           "internalLevel": 6,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 254,
@@ -158786,9 +158723,7 @@
           "difficulty": 1,
           "level": "9",
           "internalLevel": 9,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 433,
@@ -158809,9 +158744,7 @@
           "difficulty": 2,
           "level": "12+",
           "internalLevel": 12.8,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 471,
@@ -158832,9 +158765,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "SAFARI☆CAT",
           "noteCounts": {
             "tap": 631,
@@ -158952,7 +158883,7 @@
       "artist": "isonosuke feat.知声",
       "bpm": 170,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -159046,7 +158977,7 @@
       "artist": "SLAVE.V-V-R feat.Sor△",
       "bpm": 185,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -159140,7 +159071,7 @@
       "artist": "原口沙輔, 式部めぐり",
       "bpm": 150,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -159234,16 +159165,14 @@
       "artist": "FANTAGIRAFF",
       "bpm": 174,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "5",
           "internalLevel": 5,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 203,
@@ -159264,9 +159193,7 @@
           "difficulty": 1,
           "level": "8",
           "internalLevel": 8,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 297,
@@ -159287,9 +159214,7 @@
           "difficulty": 2,
           "level": "12+",
           "internalLevel": 12.9,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 424,
@@ -159310,9 +159235,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.8,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "SΛFΛRI/RΦCHER",
           "noteCounts": {
             "tap": 687,
@@ -159336,7 +159259,7 @@
       "artist": "qfeileadh feat.のあ",
       "bpm": 176,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -159430,7 +159353,7 @@
       "artist": "Nego_tiator",
       "bpm": 180,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -159524,7 +159447,7 @@
       "artist": "rN",
       "bpm": 147,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -159618,16 +159541,14 @@
       "artist": "打打だいず",
       "bpm": 205,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "7+",
           "internalLevel": 7.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 350,
@@ -159648,9 +159569,7 @@
           "difficulty": 1,
           "level": "10",
           "internalLevel": 10,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 576,
@@ -159671,9 +159590,7 @@
           "difficulty": 2,
           "level": "13",
           "internalLevel": 13.1,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 671,
@@ -159694,9 +159611,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.9,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "7sRef -DOVE-",
           "noteCounts": {
             "tap": 831,
@@ -159720,16 +159635,14 @@
       "artist": "削除",
       "bpm": 85,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "sd",
           "difficulty": 0,
           "level": "3",
           "internalLevel": 3,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 165,
@@ -159750,9 +159663,7 @@
           "difficulty": 1,
           "level": "7+",
           "internalLevel": 7.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 275,
@@ -159773,9 +159684,7 @@
           "difficulty": 2,
           "level": "12",
           "internalLevel": 12.5,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 255,
@@ -159796,9 +159705,7 @@
           "difficulty": 3,
           "level": "14",
           "internalLevel": 14.2,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 429,
@@ -159822,16 +159729,14 @@
       "artist": "xi",
       "bpm": 180,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "7+",
           "internalLevel": 7.6,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 517,
@@ -159852,9 +159757,7 @@
           "difficulty": 1,
           "level": "11",
           "internalLevel": 11,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 865,
@@ -159875,9 +159778,7 @@
           "difficulty": 2,
           "level": "13+",
           "internalLevel": 13.7,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 1017,
@@ -159898,9 +159799,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.9,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "KALEIDXSCOPE",
           "noteCounts": {
             "tap": 1556,
@@ -159921,9 +159820,7 @@
           "difficulty": 4,
           "level": "15",
           "internalLevel": 15,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "Xaleid◆scopiX",
           "noteCounts": {
             "tap": 1590,
@@ -159947,16 +159844,14 @@
       "artist": "カモメサノエレクトリックオーケストラ include Limonène",
       "bpm": 188,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "4",
           "internalLevel": 4,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 279,
@@ -159977,9 +159872,7 @@
           "difficulty": 1,
           "level": "8",
           "internalLevel": 8,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 523,
@@ -160000,9 +159893,7 @@
           "difficulty": 2,
           "level": "12",
           "internalLevel": 12.5,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "きょむりん & Luxizhel",
           "noteCounts": {
             "tap": 712,
@@ -160023,9 +159914,7 @@
           "difficulty": 3,
           "level": "14",
           "internalLevel": 14,
-          "regionVersionOverride": {
-            "intl": "PRiSM PLUS"
-          },
+          "version": "PRiSM PLUS",
           "noteDesigner": "Jack + Soma",
           "noteCounts": {
             "tap": 777,
@@ -160411,7 +160300,7 @@
         {
           "type": "dx",
           "difficulty": 3,
-          "level": "13+",
+          "level": "14",
           "internalLevel": 13.8,
           "version": "PRiSM PLUS",
           "noteDesigner": "鳩ホルダー",
@@ -162448,7 +162337,7 @@
         {
           "type": "dx",
           "difficulty": 3,
-          "level": "13",
+          "level": "13+",
           "internalLevel": 13.4,
           "version": "PRiSM PLUS",
           "noteDesigner": "ぴちネコ",
@@ -162897,8 +162786,8 @@
         {
           "type": "dx",
           "difficulty": 2,
-          "level": "10",
-          "internalLevel": 10,
+          "level": "9+",
+          "internalLevel": 9.6,
           "version": "PRiSM PLUS",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -165871,16 +165760,14 @@
       "artist": "Kobaryo",
       "bpm": 292,
       "category": "maimai",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
           "difficulty": 0,
           "level": "6",
           "internalLevel": 6,
-          "regionVersionOverride": {
-            "intl": "CiRCLE"
-          },
+          "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 266,
@@ -165901,9 +165788,7 @@
           "difficulty": 1,
           "level": "8+",
           "internalLevel": 8.6,
-          "regionVersionOverride": {
-            "intl": "CiRCLE"
-          },
+          "version": "CiRCLE",
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 352,
@@ -165924,9 +165809,7 @@
           "difficulty": 2,
           "level": "13",
           "internalLevel": 13,
-          "regionVersionOverride": {
-            "intl": "CiRCLE"
-          },
+          "version": "CiRCLE",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 571,
@@ -165947,9 +165830,7 @@
           "difficulty": 3,
           "level": "14+",
           "internalLevel": 14.8,
-          "regionVersionOverride": {
-            "intl": "CiRCLE"
-          },
+          "version": "CiRCLE",
           "noteDesigner": "サファ太 vs じゃこレモン",
           "noteCounts": {
             "tap": 758,
@@ -166097,7 +165978,9 @@
             "total": 250
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166116,7 +165999,9 @@
             "total": 417
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166135,7 +166020,9 @@
             "total": 554
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166154,7 +166041,9 @@
             "total": 752
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166183,7 +166072,9 @@
             "total": 230
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166202,7 +166093,9 @@
             "total": 345
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166221,7 +166114,9 @@
             "total": 561
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166240,7 +166135,9 @@
             "total": 897
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166269,7 +166166,9 @@
             "total": 235
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166288,7 +166187,9 @@
             "total": 350
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166307,7 +166208,9 @@
             "total": 553
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166326,7 +166229,9 @@
             "total": 831
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -166355,7 +166260,9 @@
             "total": 245
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166374,7 +166281,9 @@
             "total": 392
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -166393,13 +166302,15 @@
             "total": 588
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
           "type": "dx",
           "difficulty": 3,
-          "level": "14",
+          "level": "14+",
           "internalLevel": 14.5,
           "version": "CiRCLE",
           "noteDesigner": "Luxizhel",
@@ -166412,7 +166323,9 @@
             "total": 999
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -169089,7 +169002,7 @@
     {
       "id": 1920,
       "title": "Hurtling Boys",
-      "artist": "さだきち イシカダス「太鼓の達人」より",
+      "artist": "さだきち「太鼓の達人」より",
       "bpm": 195,
       "category": "ゲーム＆バラエティ",
       "isLocked": false,
@@ -171056,7 +170969,7 @@
       "artist": "cosMo＠暴走P",
       "bpm": 264,
       "category": "niconico＆ボーカロイド",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -174489,8 +174402,14 @@
     },
     {
       "version": "CiRCLE",
-      "word": "",
+      "word": "丸",
       "releaseDate": "2025-09-18",
+      "cnVerOverride": null
+    },
+    {
+      "version": "CiRCLE PLUS",
+      "word": "",
+      "releaseDate": "2026-03-19",
       "cnVerOverride": null
     }
   ]
