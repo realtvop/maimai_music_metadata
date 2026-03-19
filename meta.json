@@ -3624,7 +3624,7 @@
           "type": "sd",
           "difficulty": 2,
           "level": "12",
-          "internalLevel": 12.3,
+          "internalLevel": 12.5,
           "version": "maimai",
           "noteDesigner": "譜面-100号",
           "noteCounts": {
@@ -18219,7 +18219,7 @@
           "type": "sd",
           "difficulty": 4,
           "level": "14",
-          "internalLevel": 14,
+          "internalLevel": 14.2,
           "version": "GreeN",
           "noteDesigner": "チャン@DP皆伝",
           "noteCounts": {
@@ -74306,7 +74306,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "12",
-          "internalLevel": 12.5,
+          "internalLevel": 12.4,
           "version": "maimaiでらっくす",
           "regionVersionOverride": {
             "cn": 0
@@ -81614,7 +81614,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "12+",
-          "internalLevel": 12.5,
+          "internalLevel": 12.7,
           "version": "maimaiでらっくす PLUS",
           "regionVersionOverride": {
             "cn": 2021
@@ -151654,7 +151654,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.1,
+          "internalLevel": 14,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -151761,7 +151761,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.7,
+          "internalLevel": 13.6,
           "version": "PRiSM",
           "noteDesigner": "Jack",
           "noteCounts": {
@@ -151875,7 +151875,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14+",
-          "internalLevel": 14.7,
+          "internalLevel": 14.6,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -152110,7 +152110,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.9,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -152845,7 +152845,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.9,
+          "internalLevel": 13.8,
           "version": "PRiSM",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -152939,7 +152939,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.9,
           "version": "PRiSM",
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
@@ -153033,7 +153033,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14+",
-          "internalLevel": 14.7,
+          "internalLevel": 14.6,
           "version": "PRiSM",
           "noteDesigner": "サファ太 vs Luxizhel",
           "noteCounts": {
@@ -153233,7 +153233,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14,
+          "internalLevel": 14.2,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -153349,7 +153349,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.2,
+          "internalLevel": 14.1,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -153981,7 +153981,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.9,
+          "internalLevel": 13.8,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -154731,7 +154731,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.7,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -155187,7 +155187,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13.1,
+          "internalLevel": 13.2,
           "version": "PRiSM",
           "noteDesigner": "きょむりん",
           "noteCounts": {
@@ -155498,7 +155498,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.7,
+          "internalLevel": 13.6,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -155895,7 +155895,7 @@
           "type": "dx",
           "difficulty": 4,
           "level": "13+",
-          "internalLevel": 13.7,
+          "internalLevel": 13.6,
           "version": "PRiSM",
           "regionVersionOverride": {
             "cn": 2025
@@ -156934,7 +156934,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.4,
+          "internalLevel": 14.5,
           "version": "PRiSM",
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
@@ -157028,7 +157028,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.2,
+          "internalLevel": 14.1,
           "version": "PRiSM",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -158273,7 +158273,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.7,
           "version": "PRiSM",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -160114,7 +160114,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.3,
+          "internalLevel": 14.4,
           "version": "PRiSM PLUS",
           "noteDesigner": "サファ太",
           "noteCounts": {
@@ -160302,7 +160302,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 13.8,
+          "internalLevel": 14,
           "version": "PRiSM PLUS",
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
@@ -160584,7 +160584,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.7,
           "version": "PRiSM PLUS",
           "noteDesigner": "Jack",
           "noteCounts": {
@@ -162151,7 +162151,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.9,
           "version": "PRiSM PLUS",
           "noteDesigner": "サファ太",
           "noteCounts": {
@@ -162339,7 +162339,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.4,
+          "internalLevel": 13.7,
           "version": "PRiSM PLUS",
           "noteDesigner": "ぴちネコ",
           "noteCounts": {
@@ -162433,7 +162433,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.7,
+          "internalLevel": 13.6,
           "version": "PRiSM PLUS",
           "noteDesigner": "はっぴー",
           "noteCounts": {
@@ -162527,7 +162527,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.1,
+          "internalLevel": 14.2,
           "version": "PRiSM PLUS",
           "noteDesigner": "Jack",
           "noteCounts": {
@@ -163185,7 +163185,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.2,
+          "internalLevel": 14.3,
           "version": "PRiSM PLUS",
           "noteDesigner": "ぴちネコ",
           "noteCounts": {
@@ -163561,7 +163561,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.7,
           "version": "PRiSM PLUS",
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
@@ -163749,7 +163749,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14",
-          "internalLevel": 14.2,
+          "internalLevel": 14.3,
           "version": "PRiSM PLUS",
           "noteDesigner": "サファ太",
           "noteCounts": {
@@ -163843,7 +163843,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13.5,
+          "internalLevel": 13.4,
           "version": "PRiSM PLUS",
           "noteDesigner": "はっぴー",
           "noteCounts": {
@@ -164608,7 +164608,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.8,
+          "internalLevel": 13.9,
           "version": "PRiSM PLUS",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -166312,7 +166312,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "14+",
-          "internalLevel": 14.5,
+          "internalLevel": 14.6,
           "version": "CiRCLE",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
@@ -167733,7 +167733,7 @@
           "type": "dx",
           "difficulty": 4,
           "level": "14",
-          "internalLevel": 14,
+          "internalLevel": 14.1,
           "version": "CiRCLE",
           "noteDesigner": null,
           "noteCounts": {
@@ -168981,7 +168981,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.7,
+          "internalLevel": 13.6,
           "version": "CiRCLE",
           "noteDesigner": "サファ太",
           "noteCounts": {
@@ -170345,7 +170345,7 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.7,
+          "internalLevel": 13.8,
           "version": "CiRCLE",
           "noteDesigner": "Luxizhel",
           "noteCounts": {
