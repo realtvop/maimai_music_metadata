@@ -13882,11 +13882,11 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 143,
+            "hold": 8,
+            "slide": 4,
+            "touch": 8,
+            "break": 6,
             "total": 169
           },
           "availableRegions": [
@@ -13901,11 +13901,11 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 257,
+            "hold": 12,
+            "slide": 7,
+            "touch": 11,
+            "break": 4,
             "total": 291
           },
           "availableRegions": [
@@ -13918,13 +13918,13 @@
           "level": "10",
           "internalLevel": 10,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 297,
+            "hold": 62,
+            "slide": 33,
+            "touch": 22,
+            "break": 27,
             "total": 441
           },
           "availableRegions": [
