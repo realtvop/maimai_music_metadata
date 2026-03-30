@@ -130084,9 +130084,9 @@
           "lk",
           "最后王国",
           "最后的王国",
+          "终末帝",
           "失落王国",
-          "拔小蒜",
-          "终末帝"
+          "拔小蒜"
         ]
       }
     },
@@ -167449,6 +167449,92 @@
       ]
     },
     {
+      "id": 1898,
+      "title": "7 Wonders",
+      "artist": "削除",
+      "bpm": 168,
+      "category": "maimai",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 200,
+            "hold": 25,
+            "slide": 6,
+            "touch": 11,
+            "break": 20,
+            "total": 262
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 298,
+            "hold": 25,
+            "slide": 13,
+            "touch": 18,
+            "break": 2,
+            "total": 356
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "CiRCLE",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 478,
+            "hold": 89,
+            "slide": 51,
+            "touch": 20,
+            "break": 65,
+            "total": 703
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14+",
+          "internalLevel": 14.9,
+          "version": "CiRCLE",
+          "noteDesigner": "KOP7th -FiNAL BATTLE- by 7.3GHz",
+          "noteCounts": {
+            "tap": 977,
+            "hold": 77,
+            "slide": 77,
+            "touch": 77,
+            "break": 77,
+            "total": 1285
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 1899,
       "title": "イーヴィルガール",
       "artist": "Fushi feat.吉乃",
@@ -169562,7 +169648,8 @@
       ],
       "aliases": {
         "cn": [
-          "hurtling boys"
+          "hurtling boys",
+          "神之右手"
         ]
       }
     },
@@ -172452,6 +172539,1631 @@
       ]
     },
     {
+      "id": 1952,
+      "title": "KNØCK ØUT!!",
+      "artist": "DIVELA feat.ラングドシャ",
+      "bpm": 200,
+      "category": "maimai",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 182,
+            "hold": 10,
+            "slide": 5,
+            "touch": 8,
+            "break": 7,
+            "total": 212
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 296,
+            "hold": 13,
+            "slide": 6,
+            "touch": 10,
+            "break": 4,
+            "total": 329
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 424,
+            "hold": 30,
+            "slide": 36,
+            "touch": 38,
+            "break": 26,
+            "total": 554
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 550,
+            "hold": 39,
+            "slide": 108,
+            "touch": 99,
+            "break": 77,
+            "total": 874
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1953,
+      "title": "Aides",
+      "artist": "tokiwa×むﾄ",
+      "bpm": 200,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 185,
+            "hold": 14,
+            "slide": 4,
+            "touch": 8,
+            "break": 6,
+            "total": 217
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 292,
+            "hold": 22,
+            "slide": 14,
+            "touch": 24,
+            "break": 3,
+            "total": 355
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 399,
+            "hold": 73,
+            "slide": 35,
+            "touch": 13,
+            "break": 52,
+            "total": 572
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 556,
+            "hold": 56,
+            "slide": 122,
+            "touch": 33,
+            "break": 26,
+            "total": 793
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1954,
+      "title": "Treasure Chest Expedition",
+      "artist": "7mai",
+      "bpm": 200,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 197,
+            "hold": 13,
+            "slide": 4,
+            "touch": 17,
+            "break": 2,
+            "total": 233
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8+",
+          "internalLevel": 8.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 355,
+            "hold": 3,
+            "slide": 8,
+            "touch": 10,
+            "break": 5,
+            "total": 381
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 467,
+            "hold": 56,
+            "slide": 37,
+            "touch": 28,
+            "break": 28,
+            "total": 616
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 645,
+            "hold": 41,
+            "slide": 79,
+            "touch": 12,
+            "break": 55,
+            "total": 832
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1955,
+      "title": "ソテリア",
+      "artist": "Rafutsuri feat.桜あおい",
+      "bpm": 160,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 190,
+            "hold": 11,
+            "slide": 6,
+            "touch": 9,
+            "break": 3,
+            "total": 219
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 277,
+            "hold": 24,
+            "slide": 10,
+            "touch": 24,
+            "break": 8,
+            "total": 343
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "シチミヘルツ",
+          "noteCounts": {
+            "tap": 363,
+            "hold": 80,
+            "slide": 81,
+            "touch": 19,
+            "break": 36,
+            "total": 579
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.1,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 569,
+            "hold": 43,
+            "slide": 135,
+            "touch": 61,
+            "break": 82,
+            "total": 890
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1969,
+      "title": "TECHNOPOLIS 2085",
+      "artist": "PRASTIK DANCEFLOOR",
+      "bpm": 134,
+      "category": "オンゲキ＆CHUNITHM",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 167,
+            "hold": 16,
+            "slide": 3,
+            "touch": 7,
+            "break": 5,
+            "total": 198
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 197,
+            "hold": 15,
+            "slide": 8,
+            "touch": 27,
+            "break": 6,
+            "total": 253
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 311,
+            "hold": 41,
+            "slide": 63,
+            "touch": 10,
+            "break": 35,
+            "total": 460
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "シチミヘルツ",
+          "noteCounts": {
+            "tap": 398,
+            "hold": 136,
+            "slide": 51,
+            "touch": 119,
+            "break": 46,
+            "total": 750
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1970,
+      "title": "Galaxy Blaster",
+      "artist": "ああああ",
+      "bpm": 208,
+      "category": "オンゲキ＆CHUNITHM",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE PLUS",
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 239,
+            "hold": 8,
+            "slide": 4,
+            "touch": 8,
+            "break": 9,
+            "total": 268
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 328,
+            "hold": 13,
+            "slide": 10,
+            "touch": 10,
+            "break": 8,
+            "total": 369
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 413,
+            "hold": 75,
+            "slide": 50,
+            "touch": 26,
+            "break": 7,
+            "total": 571
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.3,
+          "version": "CiRCLE PLUS",
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 606,
+            "hold": 84,
+            "slide": 97,
+            "touch": 44,
+            "break": 106,
+            "total": 938
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1975,
+      "title": "BOW AND ARROW （アニメ・オープニングver.）",
+      "artist": "米津玄師",
+      "bpm": 180,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 89,
+            "hold": 3,
+            "slide": 5,
+            "touch": 8,
+            "break": 6,
+            "total": 111
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 181,
+            "hold": 14,
+            "slide": 5,
+            "touch": 11,
+            "break": 5,
+            "total": 216
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 243,
+            "hold": 28,
+            "slide": 20,
+            "touch": 21,
+            "break": 16,
+            "total": 328
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 315,
+            "hold": 31,
+            "slide": 68,
+            "touch": 5,
+            "break": 9,
+            "total": 428
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 284,
+            "hold": 35,
+            "slide": 64,
+            "touch": 44,
+            "break": 37,
+            "total": 464
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1976,
+      "title": "無敵的ハピネス！(SOS団5人Ver.)",
+      "artist": "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)",
+      "bpm": 185,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 148,
+            "hold": 11,
+            "slide": 9,
+            "touch": 8,
+            "break": 3,
+            "total": 179
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 288,
+            "hold": 10,
+            "slide": 12,
+            "touch": 22,
+            "break": 6,
+            "total": 338
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 395,
+            "hold": 43,
+            "slide": 23,
+            "touch": 24,
+            "break": 73,
+            "total": 558
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "きょむりん",
+          "noteCounts": {
+            "tap": 466,
+            "hold": 50,
+            "slide": 103,
+            "touch": 111,
+            "break": 57,
+            "total": 787
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1977,
+      "title": "Chasing destiny",
+      "artist": "涼宮ハルヒ(CV.平野綾)",
+      "bpm": 186,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 212,
+            "hold": 14,
+            "slide": 5,
+            "touch": 21,
+            "break": 2,
+            "total": 254
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 368,
+            "hold": 16,
+            "slide": 10,
+            "touch": 19,
+            "break": 4,
+            "total": 417
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 506,
+            "hold": 57,
+            "slide": 54,
+            "touch": 16,
+            "break": 12,
+            "total": 645
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 645,
+            "hold": 23,
+            "slide": 140,
+            "touch": 38,
+            "break": 42,
+            "total": 888
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1978,
+      "title": "Colorful Starting Line",
+      "artist": "涼宮ハルヒ(CV.平野綾)",
+      "bpm": 162,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 183,
+            "hold": 10,
+            "slide": 6,
+            "touch": 14,
+            "break": 2,
+            "total": 215
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 305,
+            "hold": 18,
+            "slide": 13,
+            "touch": 24,
+            "break": 4,
+            "total": 364
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 418,
+            "hold": 69,
+            "slide": 50,
+            "touch": 15,
+            "break": 45,
+            "total": 597
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり & カマボコ君",
+          "noteCounts": {
+            "tap": 645,
+            "hold": 23,
+            "slide": 140,
+            "touch": 38,
+            "break": 42,
+            "total": 888
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1979,
+      "title": "愛♡スクリ～ム！",
+      "artist": "AiScReam[黒澤ルビィ(CV.降幡 愛)、上原歩夢(CV.大西亜玖璃)、若菜四季(CV.大熊和奏)]",
+      "bpm": 132,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 141,
+            "hold": 8,
+            "slide": 4,
+            "touch": 9,
+            "break": 6,
+            "total": 168
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 252,
+            "hold": 20,
+            "slide": 7,
+            "touch": 17,
+            "break": 11,
+            "total": 307
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9",
+          "internalLevel": 9,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "まぐランド",
+          "noteCounts": {
+            "tap": 279,
+            "hold": 42,
+            "slide": 37,
+            "touch": 22,
+            "break": 24,
+            "total": 404
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11",
+          "internalLevel": 11.5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 328,
+            "hold": 36,
+            "slide": 86,
+            "touch": 47,
+            "break": 43,
+            "total": 540
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "ぴちネコ",
+          "noteCounts": {
+            "tap": 418,
+            "hold": 38,
+            "slide": 114,
+            "touch": 108,
+            "break": 74,
+            "total": 752
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1980,
+      "title": "テレパシ",
+      "artist": "DECO*27",
+      "bpm": 205,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 196,
+            "hold": 12,
+            "slide": 4,
+            "touch": 14,
+            "break": 3,
+            "total": 229
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 344,
+            "hold": 17,
+            "slide": 12,
+            "touch": 13,
+            "break": 10,
+            "total": 396
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 430,
+            "hold": 64,
+            "slide": 26,
+            "touch": 26,
+            "break": 43,
+            "total": 589
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 550,
+            "hold": 51,
+            "slide": 182,
+            "touch": 80,
+            "break": 30,
+            "total": 893
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1981,
+      "title": "ダイダイダイダイダイキライ",
+      "artist": "雨良 Amala",
+      "bpm": 130,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 176,
+            "hold": 10,
+            "slide": 4,
+            "touch": 8,
+            "break": 7,
+            "total": 205
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 232,
+            "hold": 15,
+            "slide": 7,
+            "touch": 24,
+            "break": 10,
+            "total": 288
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 393,
+            "hold": 73,
+            "slide": 40,
+            "touch": 8,
+            "break": 29,
+            "total": 543
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "緑風　犬三郎",
+          "noteCounts": {
+            "tap": 399,
+            "hold": 84,
+            "slide": 89,
+            "touch": 31,
+            "break": 31,
+            "total": 634
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 489,
+            "hold": 76,
+            "slide": 93,
+            "touch": 101,
+            "break": 93,
+            "total": 852
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1982,
+      "title": "オペラ！スペースオペラ！",
+      "artist": "ナユタン星人",
+      "bpm": 198,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 259,
+            "hold": 10,
+            "slide": 4,
+            "touch": 8,
+            "break": 3,
+            "total": 284
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 339,
+            "hold": 7,
+            "slide": 6,
+            "touch": 28,
+            "break": 16,
+            "total": 396
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 481,
+            "hold": 57,
+            "slide": 38,
+            "touch": 38,
+            "break": 55,
+            "total": 669
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 679,
+            "hold": 46,
+            "slide": 149,
+            "touch": 27,
+            "break": 82,
+            "total": 983
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1983,
+      "title": "T氏の話を信じるな",
+      "artist": "ピノキオピー",
+      "bpm": 143,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 192,
+            "hold": 13,
+            "slide": 4,
+            "touch": 11,
+            "break": 5,
+            "total": 225
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 267,
+            "hold": 16,
+            "slide": 9,
+            "touch": 22,
+            "break": 18,
+            "total": 332
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 373,
+            "hold": 56,
+            "slide": 50,
+            "touch": 19,
+            "break": 33,
+            "total": 531
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 650,
+            "hold": 41,
+            "slide": 109,
+            "touch": 67,
+            "break": 58,
+            "total": 925
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1984,
+      "title": "超ナイト・オブ・ナイツ",
+      "artist": "ビートまりお×まろん",
+      "bpm": 193,
+      "category": "東方Project",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 193,
+            "hold": 9,
+            "slide": 9,
+            "touch": 8,
+            "break": 10,
+            "total": 229
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 265,
+            "hold": 18,
+            "slide": 9,
+            "touch": 22,
+            "break": 11,
+            "total": 325
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 424,
+            "hold": 71,
+            "slide": 36,
+            "touch": 35,
+            "break": 25,
+            "total": 591
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 727,
+            "hold": 32,
+            "slide": 60,
+            "touch": 56,
+            "break": 93,
+            "total": 968
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1985,
+      "title": "浮世絵横丁",
+      "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
+      "bpm": 192,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 157,
+            "hold": 14,
+            "slide": 5,
+            "touch": 5,
+            "break": 3,
+            "total": 184
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 263,
+            "hold": 14,
+            "slide": 10,
+            "touch": 24,
+            "break": 4,
+            "total": 315
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 360,
+            "hold": 76,
+            "slide": 42,
+            "touch": 6,
+            "break": 49,
+            "total": 533
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.9,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 655,
+            "hold": 56,
+            "slide": 76,
+            "touch": 44,
+            "break": 11,
+            "total": 842
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1986,
+      "title": "AiAe",
+      "artist": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
+      "bpm": 180,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 233,
+            "hold": 17,
+            "slide": 6,
+            "touch": 13,
+            "break": 8,
+            "total": 277
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 319,
+            "hold": 15,
+            "slide": 7,
+            "touch": 31,
+            "break": 3,
+            "total": 375
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 388,
+            "hold": 43,
+            "slide": 65,
+            "touch": 51,
+            "break": 66,
+            "total": 613
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 749,
+            "hold": 43,
+            "slide": 124,
+            "touch": 66,
+            "break": 67,
+            "total": 1049
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 100018,
       "title": "[協]Love You",
       "artist": "Q;indivi [cover]",
@@ -173011,6 +174723,36 @@
       }
     },
     {
+      "id": 100851,
+      "title": "[幸]犬日和。(はっぴー歌唱Ver)",
+      "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【幸】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
       "id": 100998,
       "title": "[宴]Oshama Scramble! (Cranky Remix)",
       "artist": "Cranky",
@@ -173181,6 +174923,62 @@
       }
     },
     {
+      "id": 110282,
+      "title": "[習]からくりピエロ",
+      "artist": "40mP",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【習】",
+          "internalLevel": 11,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110351,
+      "title": "[鏡]MIRROR of MAGIC",
+      "artist": "Shoichiro Hirata feat.SUIMI",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【鏡】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 110417,
       "title": "[習]ウミユリ海底譚",
       "artist": "n-buna",
@@ -173322,6 +175120,62 @@
       }
     },
     {
+      "id": 110684,
+      "title": "[一]もうみんなしねばいいのに",
+      "artist": "谷屋楽",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【一】",
+          "internalLevel": 14.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110766,
+      "title": "[邪]アマノジャクリバース feat. ｙｔｒ",
+      "artist": "魂音泉",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【邪】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 110781,
       "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
       "artist": "GYARI",
@@ -173385,6 +175239,62 @@
           "[疑]ロキ"
         ]
       }
+    },
+    {
+      "id": 110816,
+      "title": "[奏]クレイジークレイジーダンサーズ",
+      "artist": "ビートまりお＋あまね（COOL&CREATE）",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110997,
+      "title": "[破]テレパシ",
+      "artist": "DECO*27",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【破】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
     },
     {
       "id": 111069,
@@ -173463,6 +175373,36 @@
           "difficulty": 10,
           "level": "【奏】",
           "internalLevel": 12.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111188,
+      "title": "[藍]絶え間なく藍色",
+      "artist": "獅子志司",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【藍】",
+          "internalLevel": 13,
           "noteDesigner": null,
           "noteCounts": {
             "tap": null,
@@ -174397,6 +176337,64 @@
       }
     },
     {
+      "id": 111783,
+      "title": "[音]snooze",
+      "artist": "wotaku feat.SHIKI",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111791,
+      "title": "[音]On your mark (104期 Ver.)",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 13.6,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 111838,
       "title": "[助]メズマライザー",
       "artist": "サツキ feat.初音ミク・重音テト",
@@ -174512,6 +176510,62 @@
             "jp",
             "intl",
             "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111914,
+      "title": "[音]テトリス",
+      "artist": "柊マグネタイト",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111919,
+      "title": "[充]エンジェル ドリーム",
+      "artist": "「太鼓の達人」より",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【充】",
+          "internalLevel": 11,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ]
