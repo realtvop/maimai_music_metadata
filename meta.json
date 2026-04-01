@@ -171977,7 +171977,7 @@
       "artist": "seatrus",
       "bpm": 240,
       "category": "ゲーム＆バラエティ",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -172616,7 +172616,7 @@
           "noteCounts": {
             "tap": 550,
             "hold": 39,
-            "slide": 108,
+            "slide": 109,
             "touch": 99,
             "break": 77,
             "total": 874
@@ -173065,7 +173065,7 @@
             "tap": 606,
             "hold": 84,
             "slide": 97,
-            "touch": 44,
+            "touch": 45,
             "break": 106,
             "total": 938
           },
