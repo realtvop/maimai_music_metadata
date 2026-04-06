@@ -49562,12 +49562,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 129,
+            "hold": 12,
+            "slide": 5,
+            "touch": 8,
+            "break": 7,
+            "total": 161
           },
           "availableRegions": [
             "jp"
@@ -49581,12 +49581,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 260,
+            "hold": 12,
+            "slide": 6,
+            "touch": 11,
+            "break": 9,
+            "total": 298
           },
           "availableRegions": [
             "jp"
@@ -49598,14 +49598,14 @@
           "level": "11",
           "internalLevel": 11,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 338,
+            "hold": 75,
+            "slide": 30,
+            "touch": 9,
+            "break": 41,
+            "total": 493
           },
           "availableRegions": [
             "jp"
@@ -49617,14 +49617,14 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 577,
+            "hold": 53,
+            "slide": 120,
+            "touch": 65,
+            "break": 66,
+            "total": 881
           },
           "availableRegions": [
             "jp"
