@@ -173006,6 +173006,108 @@
       ]
     },
     {
+      "id": 1956,
+      "title": "Break The Speakers",
+      "artist": "DJ Myosuke",
+      "bpm": 185,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 238,
+            "hold": 3,
+            "slide": 6,
+            "touch": 14,
+            "break": 14,
+            "total": 275
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8+",
+          "internalLevel": 8.6,
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 374,
+            "hold": 13,
+            "slide": 6,
+            "touch": 8,
+            "break": 42,
+            "total": 443
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.6,
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 313,
+            "hold": 84,
+            "slide": 89,
+            "touch": 107,
+            "break": 112,
+            "total": 705
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14+",
+          "internalLevel": 14.6,
+          "regionVersionOverride": {
+            "intl": "CiRCLE"
+          },
+          "noteDesigner": "BELiZHEL",
+          "noteCounts": {
+            "tap": 685,
+            "hold": 96,
+            "slide": 131,
+            "touch": 72,
+            "break": 112,
+            "total": 1096
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
       "id": 1969,
       "title": "TECHNOPOLIS 2085",
       "artist": "PRASTIK DANCEFLOOR",
@@ -173193,6 +173295,92 @@
             "jp",
             "intl",
             "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1971,
+      "title": "キミは“見ていたね”？",
+      "artist": "曲：篠崎あやと、橘亮祐／歌：結城 莉玖(CV：朝日奈 丸佳)、東雲 つむぎ(CV：和泉 風花)",
+      "bpm": 168,
+      "category": "オンゲキ＆CHUNITHM",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 146,
+            "hold": 14,
+            "slide": 5,
+            "touch": 14,
+            "break": 10,
+            "total": 189
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 298,
+            "hold": 13,
+            "slide": 8,
+            "touch": 19,
+            "break": 6,
+            "total": 344
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 326,
+            "hold": 86,
+            "slide": 42,
+            "touch": 0,
+            "break": 17,
+            "total": 471
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.1,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 375,
+            "hold": 56,
+            "slide": 84,
+            "touch": 63,
+            "break": 77,
+            "total": 655
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ]
@@ -174287,6 +174475,350 @@
       ]
     },
     {
+      "id": 1987,
+      "title": "奇々解体",
+      "artist": "MURASAKI feat.かたたかんな",
+      "bpm": 148,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 130,
+            "hold": 10,
+            "slide": 4,
+            "touch": 11,
+            "break": 7,
+            "total": 162
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 231,
+            "hold": 10,
+            "slide": 10,
+            "touch": 10,
+            "break": 10,
+            "total": 271
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "廻屋渉",
+          "noteCounts": {
+            "tap": 255,
+            "hold": 42,
+            "slide": 46,
+            "touch": 26,
+            "break": 29,
+            "total": 398
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "廻屋渉",
+          "noteCounts": {
+            "tap": 404,
+            "hold": 40,
+            "slide": 118,
+            "touch": 35,
+            "break": 47,
+            "total": 644
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1988,
+      "title": "雑魚",
+      "artist": "柊マグネタイト",
+      "bpm": 135,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 126,
+            "hold": 10,
+            "slide": 5,
+            "touch": 6,
+            "break": 10,
+            "total": 157
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 226,
+            "hold": 11,
+            "slide": 6,
+            "touch": 27,
+            "break": 6,
+            "total": 276
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 206,
+            "hold": 88,
+            "slide": 17,
+            "touch": 49,
+            "break": 59,
+            "total": 419
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.1,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 516,
+            "hold": 45,
+            "slide": 147,
+            "touch": 26,
+            "break": 31,
+            "total": 765
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1989,
+      "title": "お返事まだカナ？おじさん構文！",
+      "artist": "吉本おじさん",
+      "bpm": 225,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 171,
+            "hold": 10,
+            "slide": 4,
+            "touch": 12,
+            "break": 6,
+            "total": 203
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 276,
+            "hold": 10,
+            "slide": 6,
+            "touch": 13,
+            "break": 10,
+            "total": 315
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 411,
+            "hold": 70,
+            "slide": 18,
+            "touch": 30,
+            "break": 19,
+            "total": 548
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 469,
+            "hold": 90,
+            "slide": 100,
+            "touch": 93,
+            "break": 41,
+            "total": 793
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1990,
+      "title": "ZEUS",
+      "artist": "DÉ DÉ MOUSE & KAJI",
+      "bpm": 180,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 281,
+            "hold": 8,
+            "slide": 8,
+            "touch": 6,
+            "break": 18,
+            "total": 321
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 388,
+            "hold": 11,
+            "slide": 14,
+            "touch": 24,
+            "break": 4,
+            "total": 441
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 541,
+            "hold": 65,
+            "slide": 99,
+            "touch": 6,
+            "break": 23,
+            "total": 734
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 831,
+            "hold": 86,
+            "slide": 111,
+            "touch": 63,
+            "break": 147,
+            "total": 1238
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 100018,
       "title": "[協]Love You",
       "artist": "Q;indivi [cover]",
@@ -175135,6 +175667,146 @@
           "[習]ウミユリ海底譚"
         ]
       }
+    },
+    {
+      "id": 110429,
+      "title": "[宴]Wonderland Wars　オープニング",
+      "artist": "「童話」は、全て「戦記」だった",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 10,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110429,
+      "title": "[宴]Wonderland Wars　オープニング",
+      "artist": "「童話」は、全て「戦記」だった",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 11,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110429,
+      "title": "[宴]Wonderland Wars　オープニング",
+      "artist": "「童話」は、全て「戦記」だった",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 12,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110429,
+      "title": "[宴]Wonderland Wars　オープニング",
+      "artist": "「童話」は、全て「戦記」だった",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 13,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110429,
+      "title": "[宴]Wonderland Wars　オープニング",
+      "artist": "「童話」は、全て「戦記」だった",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【宴】",
+          "internalLevel": 14,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
     },
     {
       "id": 110532,
