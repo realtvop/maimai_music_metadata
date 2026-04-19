@@ -174837,6 +174837,264 @@
       ]
     },
     {
+      "id": 1991,
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "bpm": 164,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1992,
+      "title": "Myosotis",
+      "artist": "M2U / Arranger : M2U & NICODE / Vocal : Guriri & Lucy",
+      "bpm": 160,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8+",
+          "internalLevel": 8.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1993,
+      "title": "ANiMA",
+      "artist": "xi",
+      "bpm": 183.5,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.9,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14+",
+          "internalLevel": 14.7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 100018,
       "title": "[協]Love You",
       "artist": "Q;indivi [cover]",
