@@ -5921,7 +5921,9 @@
             "total": 179
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -5940,7 +5942,9 @@
             "total": 272
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -5959,7 +5963,9 @@
             "total": 421
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -5978,7 +5984,9 @@
             "total": 618
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -104994,6 +105002,8 @@
           },
           "availableRegions": [
             "jp",
+            "intl",
+            "us",
             "cn"
           ]
         },
@@ -105017,6 +105027,8 @@
           },
           "availableRegions": [
             "jp",
+            "intl",
+            "us",
             "cn"
           ]
         },
@@ -105040,6 +105052,8 @@
           },
           "availableRegions": [
             "jp",
+            "intl",
+            "us",
             "cn"
           ]
         },
@@ -105063,6 +105077,8 @@
           },
           "availableRegions": [
             "jp",
+            "intl",
+            "us",
             "cn"
           ]
         }
@@ -167868,7 +167884,9 @@
             "total": 363
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167887,7 +167905,9 @@
             "total": 524
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167906,7 +167926,9 @@
             "total": 771
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167925,7 +167947,9 @@
             "total": 1399
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -171111,7 +171135,9 @@
             "total": 312
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171130,7 +171156,9 @@
             "total": 408
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171149,7 +171177,9 @@
             "total": 816
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171168,7 +171198,9 @@
             "total": 1091
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -171197,7 +171229,9 @@
             "total": 287
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171216,7 +171250,9 @@
             "total": 438
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171235,7 +171271,9 @@
             "total": 870
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171254,7 +171292,9 @@
             "total": 1111
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -174853,12 +174893,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 136,
+            "hold": 11,
+            "slide": 4,
+            "touch": 20,
+            "break": 6,
+            "total": 177
           },
           "availableRegions": [
             "jp"
@@ -174872,12 +174912,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 258,
+            "hold": 18,
+            "slide": 14,
+            "touch": 13,
+            "break": 8,
+            "total": 311
           },
           "availableRegions": [
             "jp"
@@ -174889,14 +174929,14 @@
           "level": "9+",
           "internalLevel": 9.6,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 361,
+            "hold": 43,
+            "slide": 36,
+            "touch": 35,
+            "break": 10,
+            "total": 485
           },
           "availableRegions": [
             "jp"
@@ -174908,14 +174948,14 @@
           "level": "13",
           "internalLevel": 13.4,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Jack",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 555,
+            "hold": 51,
+            "slide": 95,
+            "touch": 16,
+            "break": 23,
+            "total": 740
           },
           "availableRegions": [
             "jp"
@@ -174939,12 +174979,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 151,
+            "hold": 12,
+            "slide": 9,
+            "touch": 14,
+            "break": 6,
+            "total": 192
           },
           "availableRegions": [
             "jp"
@@ -174958,12 +174998,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 323,
+            "hold": 18,
+            "slide": 7,
+            "touch": 19,
+            "break": 10,
+            "total": 377
           },
           "availableRegions": [
             "jp"
@@ -174975,14 +175015,14 @@
           "level": "12",
           "internalLevel": 12,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 437,
+            "hold": 51,
+            "slide": 45,
+            "touch": 12,
+            "break": 32,
+            "total": 577
           },
           "availableRegions": [
             "jp"
@@ -174994,14 +175034,14 @@
           "level": "14",
           "internalLevel": 14.5,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 683,
+            "hold": 65,
+            "slide": 74,
+            "touch": 113,
+            "break": 64,
+            "total": 999
           },
           "availableRegions": [
             "jp"
@@ -175013,7 +175053,7 @@
       "id": 1993,
       "title": "ANiMA",
       "artist": "xi",
-      "bpm": 183.5,
+      "bpm": 183,
       "category": "ゲーム＆バラエティ",
       "isLocked": true,
       "charts": [
@@ -175025,12 +175065,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 167,
+            "hold": 9,
+            "slide": 4,
+            "touch": 15,
+            "break": 9,
+            "total": 204
           },
           "availableRegions": [
             "jp"
@@ -175044,12 +175084,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 282,
+            "hold": 6,
+            "slide": 7,
+            "touch": 24,
+            "break": 10,
+            "total": 329
           },
           "availableRegions": [
             "jp"
@@ -175061,14 +175101,14 @@
           "level": "12+",
           "internalLevel": 12.9,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 549,
+            "hold": 10,
+            "slide": 33,
+            "touch": 5,
+            "break": 32,
+            "total": 629
           },
           "availableRegions": [
             "jp"
@@ -175080,14 +175120,14 @@
           "level": "14+",
           "internalLevel": 14.7,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Safazhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 622,
+            "hold": 47,
+            "slide": 67,
+            "touch": 97,
+            "break": 111,
+            "total": 944
           },
           "availableRegions": [
             "jp"
