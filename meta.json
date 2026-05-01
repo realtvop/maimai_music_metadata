@@ -153404,6 +153404,7 @@
       "aliases": {
         "cn": [
           "雨露霜雪",
+          "四个雨",
           "雨雨雨雨"
         ]
       }
@@ -167282,7 +167283,9 @@
             "total": 208
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167301,7 +167304,9 @@
             "total": 371
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167320,7 +167325,9 @@
             "total": 464
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167339,7 +167346,9 @@
             "total": 777
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -167368,7 +167377,9 @@
             "total": 223
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167387,7 +167398,9 @@
             "total": 331
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167406,7 +167419,9 @@
             "total": 597
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167425,7 +167440,9 @@
             "total": 876
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -167454,7 +167471,9 @@
             "total": 241
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167473,7 +167492,9 @@
             "total": 338
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167492,7 +167513,9 @@
             "total": 531
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167511,7 +167534,9 @@
             "total": 934
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -167540,7 +167565,9 @@
             "total": 249
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167559,7 +167586,9 @@
             "total": 390
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167578,7 +167607,9 @@
             "total": 547
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167597,7 +167628,9 @@
             "total": 888
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -168492,7 +168525,7 @@
       "artist": "Srav3R",
       "bpm": 190,
       "category": "オンゲキ＆CHUNITHM",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -168578,7 +168611,7 @@
       "artist": "Artifact",
       "bpm": 185,
       "category": "オンゲキ＆CHUNITHM",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -174899,7 +174932,7 @@
       "artist": "MURASAKI feat.かたたかんな",
       "bpm": 148,
       "category": "ゲーム＆バラエティ",
-      "isLocked": false,
+      "isLocked": true,
       "charts": [
         {
           "type": "dx",
