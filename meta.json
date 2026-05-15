@@ -171950,7 +171950,9 @@
             "total": 224
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171969,7 +171971,9 @@
             "total": 377
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -171988,7 +171992,9 @@
             "total": 602
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172007,7 +172013,9 @@
             "total": 969
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -172036,7 +172044,9 @@
             "total": 222
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172055,7 +172065,9 @@
             "total": 401
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172074,7 +172086,9 @@
             "total": 518
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172093,7 +172107,9 @@
             "total": 749
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -172122,7 +172138,9 @@
             "total": 158
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172141,7 +172159,9 @@
             "total": 269
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172160,7 +172180,9 @@
             "total": 417
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -172179,7 +172201,9 @@
             "total": 587
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -176104,14 +176128,14 @@
           "level": "2",
           "internalLevel": 2,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 96,
+            "hold": 11,
+            "slide": 4,
+            "touch": 8,
+            "break": 2,
+            "total": 121
           },
           "availableRegions": [
             "jp"
@@ -176123,14 +176147,14 @@
           "level": "6",
           "internalLevel": 6,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 180,
+            "hold": 15,
+            "slide": 8,
+            "touch": 29,
+            "break": 8,
+            "total": 240
           },
           "availableRegions": [
             "jp"
@@ -176144,12 +176168,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 278,
+            "hold": 47,
+            "slide": 31,
+            "touch": 5,
+            "break": 40,
+            "total": 401
           },
           "availableRegions": [
             "jp"
@@ -176163,12 +176187,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 508,
+            "hold": 103,
+            "slide": 78,
+            "touch": 15,
+            "break": 62,
+            "total": 766
           },
           "availableRegions": [
             "jp"
@@ -176190,14 +176214,14 @@
           "level": "2",
           "internalLevel": 2,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 90,
+            "hold": 8,
+            "slide": 3,
+            "touch": 6,
+            "break": 3,
+            "total": 110
           },
           "availableRegions": [
             "jp"
@@ -176209,14 +176233,14 @@
           "level": "6",
           "internalLevel": 6,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 193,
+            "hold": 4,
+            "slide": 6,
+            "touch": 11,
+            "break": 6,
+            "total": 220
           },
           "availableRegions": [
             "jp"
@@ -176230,12 +176254,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 206,
+            "hold": 43,
+            "slide": 23,
+            "touch": 16,
+            "break": 34,
+            "total": 322
           },
           "availableRegions": [
             "jp"
@@ -176249,12 +176273,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 402,
+            "hold": 24,
+            "slide": 65,
+            "touch": 10,
+            "break": 41,
+            "total": 542
           },
           "availableRegions": [
             "jp"
@@ -176276,14 +176300,14 @@
           "level": "3",
           "internalLevel": 3,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 188,
+            "hold": 13,
+            "slide": 6,
+            "touch": 14,
+            "break": 5,
+            "total": 226
           },
           "availableRegions": [
             "jp"
@@ -176295,14 +176319,14 @@
           "level": "7",
           "internalLevel": 7,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 375,
+            "hold": 18,
+            "slide": 11,
+            "touch": 25,
+            "break": 10,
+            "total": 439
           },
           "availableRegions": [
             "jp"
@@ -176316,12 +176340,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 479,
+            "hold": 52,
+            "slide": 36,
+            "touch": 13,
+            "break": 34,
+            "total": 614
           },
           "availableRegions": [
             "jp"
@@ -176335,12 +176359,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 548,
+            "hold": 39,
+            "slide": 118,
+            "touch": 72,
+            "break": 97,
+            "total": 874
           },
           "availableRegions": [
             "jp"
