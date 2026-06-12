@@ -49201,6 +49201,82 @@
       "isLocked": false,
       "charts": [
         {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
           "type": "sd",
           "difficulty": 0,
           "level": "5",
@@ -167886,7 +167962,9 @@
             "total": 203
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167905,7 +167983,9 @@
             "total": 313
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167924,7 +168004,9 @@
             "total": 537
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167943,7 +168025,9 @@
             "total": 710
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -167972,7 +168056,9 @@
             "total": 248
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -167991,7 +168077,9 @@
             "total": 374
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168010,7 +168098,9 @@
             "total": 581
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168029,7 +168119,9 @@
             "total": 839
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -168058,7 +168150,9 @@
             "total": 232
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168077,7 +168171,9 @@
             "total": 398
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168096,7 +168192,9 @@
             "total": 620
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168115,7 +168213,9 @@
             "total": 965
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -168144,7 +168244,9 @@
             "total": 281
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168163,7 +168265,9 @@
             "total": 410
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168182,7 +168286,9 @@
             "total": 676
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -168201,7 +168307,9 @@
             "total": 1052
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -173796,7 +173904,7 @@
           "type": "dx",
           "difficulty": 2,
           "level": "12+",
-          "internalLevel": 12.6,
+          "internalLevel": 12.9,
           "regionVersionOverride": {
             "intl": "CiRCLE"
           },
@@ -174104,7 +174212,7 @@
       "artist": "PRASTIK DANCEFLOOR",
       "bpm": 134,
       "category": "オンゲキ＆CHUNITHM",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -174190,7 +174298,7 @@
       "artist": "ああああ",
       "bpm": 208,
       "category": "オンゲキ＆CHUNITHM",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -175471,7 +175579,7 @@
       "artist": "MURASAKI feat.かたたかんな",
       "bpm": 148,
       "category": "ゲーム＆バラエティ",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
