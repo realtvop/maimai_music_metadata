@@ -49211,12 +49211,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 152,
+            "hold": 10,
+            "slide": 4,
+            "touch": 6,
+            "break": 4,
+            "total": 176
           },
           "availableRegions": [
             "jp"
@@ -49230,12 +49230,12 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 250,
+            "hold": 8,
+            "slide": 6,
+            "touch": 26,
+            "break": 16,
+            "total": 306
           },
           "availableRegions": [
             "jp"
@@ -49247,14 +49247,14 @@
           "level": "10",
           "internalLevel": 10,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 284,
+            "hold": 52,
+            "slide": 45,
+            "touch": 19,
+            "break": 79,
+            "total": 479
           },
           "availableRegions": [
             "jp"
@@ -49266,14 +49266,14 @@
           "level": "13",
           "internalLevel": 13.4,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 544,
+            "hold": 53,
+            "slide": 108,
+            "touch": 31,
+            "break": 46,
+            "total": 782
           },
           "availableRegions": [
             "jp"
@@ -162049,8 +162049,8 @@
       "aliases": {
         "cn": [
           "きゅびずむ",
-          "cubism",
-          "立体主义"
+          "立体主义",
+          "cubism"
         ]
       }
     },
