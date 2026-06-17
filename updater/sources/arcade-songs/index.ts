@@ -1,4 +1,4 @@
-import type { Music, Version } from "../../../types";
+import type { MusicMetadataNext } from "../../../types";
 import { convertArcadeSongsData } from "./converter";
 import type { ArcadeSongsData } from "./types";
 import { fetchChineseChartVersions } from "../cn-version";
@@ -11,10 +11,7 @@ async function fetchArcadeSongsData(): Promise<ArcadeSongsData> {
     return data;
 }
 
-export function getArcadeSongsData(): Promise<{
-    musics: Music[];
-    versions: Version[];
-}> {
+export function getArcadeSongsData(): Promise<MusicMetadataNext> {
     return Promise.all([
         fetchArcadeSongsData(),
         fetchChineseChartVersions(),

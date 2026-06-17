@@ -1,56 +1,79 @@
-import type { Chart, Music, Version } from "../../../types";
+import type { AvailableRegion, ChartNext, MusicMetadataNext, MusicNext, Version } from "../../../types";
 import { matchSongID } from "../songid";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
 
 export async function convertArcadeSongsData(
     data: ArcadeSongsData,
     cnVersionMap: Map<string, number>,
-): Promise<{
-    musics: Music[];
-    versions: Version[];
-}> {
+): Promise<MusicMetadataNext> {
     return {
         musics: (await Promise.all(data.songs.map(song => convertMusic(song, cnVersionMap)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
         versions: convertVersions(data.versions),
     };
 }
 
-function convertChart(sheet: Sheet, cnVersion: number | null): Chart {
+function normalizeRegion(region: string): AvailableRegion {
+    return (region === "usa" ? "us" : region) as AvailableRegion;
+}
+
+function getBaseLevel(sheet: Sheet): string {
     const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
+    return difficulty == -1 ? sheet.difficulty : sheet.level;
+}
+
+function getRegionOverride(sheet: Sheet, region: AvailableRegion): Partial<{
+    level: string;
+    internalLevel: number;
+    internalLevelValue: number;
+    version: string | number;
+}> {
+    const sourceRegion = region === "us" ? "usa" : region;
+    return (sheet.regionOverrides as Record<string, unknown> | undefined)?.[sourceRegion] as Partial<{
+        level: string;
+        internalLevel: number;
+        internalLevelValue: number;
+        version: string | number;
+    }> | undefined ?? {};
+}
+
+function convertChart(sheet: Sheet, cnVersion: number | null): ChartNext {
+    const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
+    const baseLevel = getBaseLevel(sheet);
+    const baseInternalLevel = sheet.internalLevelValue;
     const baseVersion = sheet.version;
 
-    const availableRegions = Object.entries(sheet.regions)
-        .filter(([, available]) => available)
-        .map(([region]) => region === "usa" ? "us" : region) as Chart["availableRegions"]; // normalize region key
+    const regions: ChartNext["regions"] = {};
 
-    const regionVersionOverride: Chart["regionVersionOverride"] = {};
+    for (const [regionRaw, available] of Object.entries(sheet.regions)) {
+        if (!available) continue;
 
-    const intlOverride = sheet.regionOverrides?.intl?.version;
-    if (intlOverride && intlOverride !== baseVersion && availableRegions.includes("intl")) {
-        regionVersionOverride.intl = intlOverride;
+        const region = normalizeRegion(regionRaw);
+        const override = getRegionOverride(sheet, region);
+        regions[region] = {
+            level: override.level ?? baseLevel,
+            internalLevel: override.internalLevelValue ?? override.internalLevel ?? baseInternalLevel,
+            version: override.version ?? baseVersion,
+        };
     }
 
     if (cnVersion !== null && cnVersion !== -1) {
-        regionVersionOverride.cn = cnVersion;
-        if (!availableRegions.includes("cn")) availableRegions.push("cn");
+        regions.cn = {
+            level: regions.cn?.level ?? baseLevel,
+            internalLevel: regions.cn?.internalLevel ?? baseInternalLevel,
+            version: cnVersion,
+        };
     }
 
     return {
-        type: sheet.type.replace("std", "sd") as Chart["type"],
+        type: sheet.type.replace("std", "sd") as ChartNext["type"],
         difficulty: difficulty == -1 ? 10 : difficulty,
-        level: difficulty == -1 ? sheet.difficulty : sheet.level,
-        internalLevel: sheet.internalLevelValue,
-        version: baseVersion,
-        regionVersionOverride: Object.keys(regionVersionOverride).length ? regionVersionOverride : undefined,
-
         noteDesigner: sheet.noteDesigner,
         noteCounts: sheet.noteCounts,
-
-        availableRegions,
+        regions,
     };
 }
 
-async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Promise<Music> {
+async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Promise<MusicNext> {
     const cnVersion = cnVersionMap.get(song.title.trim()) ?? null;
 
     return {
@@ -62,7 +85,7 @@ async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Prom
         category: song.category,
         isLocked: song.isLocked,
 
-        charts: song.sheets.map(sheet => convertChart(sheet, cnVersion)).filter(chart => chart.availableRegions.length),
+        charts: song.sheets.map(sheet => convertChart(sheet, cnVersion)).filter(chart => Object.values(chart.regions).some(Boolean)),
     }
 }
 
