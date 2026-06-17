@@ -1,13 +1,14 @@
 import type { AvailableRegion, ChartNext, MusicMetadataNext, MusicNext, Version } from "../../../types";
 import { matchSongID } from "../songid";
+import { createChineseChartMetadataKey, type ChineseChartMetadata } from "../diving-fish";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
 
 export async function convertArcadeSongsData(
     data: ArcadeSongsData,
-    cnVersionMap: Map<string, number>,
+    cnChartMetadata: Map<string, ChineseChartMetadata>,
 ): Promise<MusicMetadataNext> {
     return {
-        musics: (await Promise.all(data.songs.map(song => convertMusic(song, cnVersionMap)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
+        musics: (await Promise.all(data.songs.map(song => convertMusic(song, cnChartMetadata)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
         versions: convertVersions(data.versions),
     };
 }
@@ -17,8 +18,15 @@ function normalizeRegion(region: string): AvailableRegion {
 }
 
 function getBaseLevel(sheet: Sheet): string {
-    const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
-    return difficulty == -1 ? sheet.difficulty : sheet.level;
+    return getDifficulty(sheet) == -1 ? sheet.difficulty : sheet.level;
+}
+
+function getDifficulty(sheet: Sheet): number {
+    return ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
+}
+
+function getChartType(sheet: Sheet): ChartNext["type"] {
+    return sheet.type.replace("std", "sd") as ChartNext["type"];
 }
 
 function getRegionOverride(sheet: Sheet, region: AvailableRegion): Partial<{
@@ -36,8 +44,14 @@ function getRegionOverride(sheet: Sheet, region: AvailableRegion): Partial<{
     }> | undefined ?? {};
 }
 
-function convertChart(sheet: Sheet, cnVersion: number | null): ChartNext {
-    const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
+function convertChart(
+    sheet: Sheet,
+    musicId: number,
+    cnChartMetadata: Map<string, ChineseChartMetadata>,
+): ChartNext {
+    const difficulty = getDifficulty(sheet);
+    const chartType = getChartType(sheet);
+    const difficultyId = difficulty == -1 ? 10 : difficulty;
     const baseLevel = getBaseLevel(sheet);
     const baseInternalLevel = sheet.internalLevelValue;
     const baseVersion = sheet.version;
@@ -56,28 +70,29 @@ function convertChart(sheet: Sheet, cnVersion: number | null): ChartNext {
         };
     }
 
-    if (cnVersion !== null && cnVersion !== -1) {
+    const cnMetadata = cnChartMetadata.get(createChineseChartMetadataKey(musicId, chartType, difficultyId));
+    if (cnMetadata) {
         regions.cn = {
-            level: regions.cn?.level ?? baseLevel,
-            internalLevel: regions.cn?.internalLevel ?? baseInternalLevel,
-            version: cnVersion,
+            level: cnMetadata.level,
+            internalLevel: cnMetadata.internalLevel,
+            version: cnMetadata.version,
         };
     }
 
     return {
-        type: sheet.type.replace("std", "sd") as ChartNext["type"],
-        difficulty: difficulty == -1 ? 10 : difficulty,
+        type: chartType,
+        difficulty: difficultyId,
         noteDesigner: sheet.noteDesigner,
         noteCounts: sheet.noteCounts,
         regions,
     };
 }
 
-async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Promise<MusicNext> {
-    const cnVersion = cnVersionMap.get(song.title.trim()) ?? null;
+async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChartMetadata>): Promise<MusicNext> {
+    const id = await matchSongID(song.title) ?? -1;
 
     return {
-        id: await matchSongID(song.title) ?? -1,
+        id,
         title: song.title,
         artist: song.artist,
         bpm: song.bpm,
@@ -85,7 +100,7 @@ async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Prom
         category: song.category,
         isLocked: song.isLocked,
 
-        charts: song.sheets.map(sheet => convertChart(sheet, cnVersion)).filter(chart => Object.values(chart.regions).some(Boolean)),
+        charts: song.sheets.map(sheet => convertChart(sheet, id, cnChartMetadata)).filter(chart => Object.values(chart.regions).some(Boolean)),
     }
 }
 

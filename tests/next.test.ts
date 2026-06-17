@@ -6,6 +6,7 @@ import {
     convertNextToLegacy,
     type MusicMetadataNext,
 } from "../types";
+import { createChineseChartMetadataKey } from "../updater/sources/diving-fish";
 
 const fixture: MusicMetadataNext = {
     versions: [
@@ -68,6 +69,11 @@ const fixture: MusicMetadataNext = {
 };
 
 describe("next metadata", () => {
+    test("uses stable keys for Chinese per-chart metadata", () => {
+        expect(createChineseChartMetadataKey(8, "sd", 3)).toBe("8:sd:3");
+        expect(createChineseChartMetadataKey(100517, "utage", 10)).toBe("100517:utage:10");
+    });
+
     test("round-trips per-region chart data through compacted format", () => {
         const compacted = compactNextMusicMetadata(fixture);
         const expanded = convertNextCompactedToNormal(compacted);
