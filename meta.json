@@ -173546,7 +173546,9 @@
             "total": 140
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173565,7 +173567,9 @@
             "total": 242
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173584,7 +173588,9 @@
             "total": 365
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173603,7 +173609,9 @@
             "total": 620
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -173632,7 +173640,9 @@
             "total": 125
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173651,7 +173661,9 @@
             "total": 238
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173670,7 +173682,9 @@
             "total": 355
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173689,7 +173703,9 @@
             "total": 1139
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -173718,7 +173734,9 @@
             "total": 172
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173737,7 +173755,9 @@
             "total": 281
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173756,7 +173776,9 @@
             "total": 511
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -173775,7 +173797,9 @@
             "total": 729
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -176561,7 +176585,7 @@
       "artist": "xi",
       "bpm": 183,
       "category": "ゲーム＆バラエティ",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
